@@ -1,0 +1,395 @@
+RO 20 "stats"
+
+TR 0    
+
+QS "L_Front"               { "p-*","b-*","f-*","m-*","v-*","e-*","i-*" }
+QS "L_Central"             { "t-*","d-*","s-*","z-*","S-*","Z-*","c-*","cc-*","C-*","dz-*","n-*","N-*","l-*","L-*","r-*","j-*","a-*" }
+QS "L_Back"                { "k-*","g-*","h-*","o-*","u-*" }
+QS "D_Front"               { "*+p","*+b","*+f","*+m","*+v","*+e","*+i" }
+QS "D_Central"             { "*+t","*+d","*+s","*+z","*+S","*+Z","*+c","*+cc","*+C","*+dz","*+n","*+N","*+l","*+L","*+r","*+j","*+a" }
+QS "D_Back"                { "*+k","*+g","*+h","*+o","*+u" }
+QS "L_Vowel"               { "i-*","e-*","a-*","o-*","u-*" }
+QS "L_Vowel_Unstressed"    { "i-*","e-*","a-*","o-*","u-*" }
+QS "L_Vowel_Front"         { "e-*","i-*" }
+QS "L_Vowel_Central"       { "a-*" }
+QS "L_Vowel_Back"          { "o-*","u-*" }
+QS "L_Vowel_High"          { "i-*","u-*" }
+QS "L_Vowel_Medium"        { "o-*","e-*" }
+QS "L_Vowel_Low"           { "a-*" }
+QS "D_Vowel"               { "*+i","*+e","*+a","*+o","*+u" }
+QS "D_Vowel_Unstressed"    { "*+i","*+e","*+a","*+o","*+u" }
+QS "D_Vowel_Front"         { "*+e","*+i" }
+QS "D_Vowel_Central"       { "*+a" }
+QS "D_Vowel_Back"          { "*+o","*+u" }
+QS "D_Vowel_High"          { "*+i","*+u" }
+QS "D_Vowel_Medium"        { "*+o","*+e" }
+QS "D_Vowel_Low"           { "*+a" }
+QS "L_Consonant"           { "b-*","c-*","C-*","cc-*","d-*","dz-*","f-*","g-*","h-*","j-*","k-*","l-*","L-*","m-*","n-*","N-*","p-*","r-*","s-*","S-*","t-*","v-*","z-*","Z-*" }
+QS "L_Consonant_Open"      { "m-*","n-*","N-*","l-*","L-*","r-*","j-*" }
+QS "L_Consonant_Close"     { "p-*","t-*","k-*","b-*","d-*","g-*","c-*","cc-*","C-*","f-*","v-*","s-*","z-*","S-*","Z-*","h-*","dz-*" }
+QS "L_Consonant_Front"     { "p-*","b-*","f-*","m-*","v-*" }
+QS "L_Consonant_Central"   { "t-*","d-*","c-*","C-*","cc-*","dz-*","s-*","z-*","S-*","Z-*","n-*","N-*","l-*","L-*","r-*","j-*" }
+QS "L_Consonant_Back"      { "k-*","g-*","h-*" }
+QS "L_Consonant_Unvoiced"  { "p-*","t-*","k-*","c-*","C-*","cc-*","f-*","s-*","S-*","h-*" }
+QS "L_Unvoiced_Front"     { "p-*","f-*" }
+QS "L_Unvoiced_Central"    { "t-*","c-*","C-*","cc-*","s-*","S-*" }
+QS "L_Unvoiced_Back"      { "k-*","h-*" }
+QS "L_Consonant_Voiced"    { "b-*","g-*","d-*","z-*","Z-*","dz-*" }
+QS "L_Voiced_Front"   { "b-*" }
+QS "L_Voiced_Central"      { "d-*","z-*","Z-*","dz-*" }
+QS "L_Voiced_Back"         { "g-*" }
+QS "L_Consonant_Sonant"    { "m-*","n-*","N-*","l-*","L-*","r-*","v-*","j-*" }
+QS "L_Sonant_Front"        { "m-*","v-*" }
+QS "L_Sonanat_Central"     { "n-*","N-*","l-*","L-*","r-*","j-*" }
+QS "D_Consonant"           { "*+b","*+c","*+C","*+cc","*+d","*+dz","*+f","*+g","*+h","*+j","*+k","*+l","*+L","*+m","*+n","*+N","*+p","*+r","*+s","*+S","*+t","*+v","*+z","*+Z" }
+QS "D_Consonant_Open"      { "*+m","*+n","*+N","*+l","*+L","*+r","*+j" }
+QS "D_Consonant_Close"     { "*+p","*+t","*+k","*+b","*+d","*+g","*+c","*+cc","*+C","*+f","*+v","*+s","*+z","*+S","*+Z","*+h","*+dz" }
+QS "D_Consonant_Front"     { "*+p","*+b","*+f","*+m","*+v" }
+QS "D_Consonant_Central"   { "*+t","*+d","*+c","*+C","*+cc","*+dz","*+s","*+z","*+S","*+Z","*+n","*+N","*+l","*+L","*+r","*+j" }
+QS "D_Consonant_Back"      { "*+k","*+g","*+h" }
+QS "D_Consonant_Unvoiced"  { "*+p","*+t","*+k","*+c","*+C","*+cc","*+f","*+s","*+S","*+h" }
+QS "D_Unvoiced_Front"     { "*+p","*+f" }
+QS "D_Unvoiced_Central"    { "*+t","*+c","*+C","*+cc","*+s","*+S" }
+QS "D_Unvoiced_Back"      { "*+k","*+h" }
+QS "D_Consonant_Voiced"    { "*+b","*+g","*+d","*+z","*+Z","*+dz" }
+QS "D_Voiced_Front"   { "*+b" }
+QS "D_Voiced_Central"      { "*+d","*+z","*+Z","*+dz" }
+QS "D_Voiced_Back"         { "*+g" }
+QS "D_Consonant_Sonant"    { "*+m","*+n","*+N","*+l","*+L","*+r","*+v","*+j" }
+QS "D_Sonant_Front"        { "*+m","*+v" }
+QS "D_Sonanat_Central"     { "*+n","*+N","*+l","*+L","*+r","*+j" }
+QS "L_Explosives"          { "p-*","t-*","k-*","b-*","d-*","g-*" }
+QS "L_Explosives_Unvoiced" { "p-*","t-*","k-*" }
+QS "L_Explosives_Voiced"   { "b-*","d-*","g-*" }
+QS "L_Explosives_Front"    { "b-*","p-*" }
+QS "L_Explosives_Central"  { "d-*","t-*" }
+QS "L_Explosives_Back"     { "g-*","k-*" }
+QS "L_Fricative"           { "f-*","v-*","s-*","z-*","S-*","Z-*","h-*","j-*","l-*","L-*" }
+QS "L_Fricative_Spirants"  { "v-*","f-*" }
+QS "L_Fric_Unvoiced"       { "f-*","s-*","S-*","h-*" }
+QS "L_Fric_Voiced"         { "z-*","Z-*" }
+QS "L_Fric_Sonanat"        { "j-*","l-*","L-*","v-*" }
+QS "L_Fric_Front"          { "f-*","v-*" }
+QS "L_Fric_Central"        { "s-*","z-*","S-*","Z-*","l-*","L-*","j-*" }
+QS "L_Fric_Back"           { "h-*" }
+QS "L_Affricate"           { "c-*","C-*","cc-*","dz-*" }
+QS "L_Affricate_Unvoiced"  { "c-*","C-*","cc-*","-*" }
+QS "L_Affricate_Voiced"    { "dz-*" }
+QS "L_Nasal"               { "m-*","n-*","N-*" }
+QS "L_Nasal_Front"         { "m-*" }
+QS "L_Nasal_Central"       { "n-*","N-*" }
+QS "L_Vibrant"             { "r-*" }
+QS "L_Lateral"             { "l-*","L-*" }
+QS "L_Liquid"              { "l-*","L-*","r-*" }
+QS "L_Bilabial"            { "p-*","b-*","m-*" }
+QS "L_Labiodental"         { "f-*","v-*" }
+QS "L_Dental"              { "d-*","t-*","n-*","c-*","s-*","z-*" }
+QS "L_Palatal"             { "dz-*","C-*","cc-*","Z-*","S-*","L-*","j-*","N-*" }
+QS "L_Alveoral"            { "r-*","l-*" }
+QS "L_Velar"               { "k-*","g-*","h-*" }
+QS "L_Glide"               { "j-*","v-*" }
+QS "L_Apical"              { "t-*","d-*","z-*","s-*","n-*","r-*","c-*","l-*" }
+QS "L_Anterior"            { "p-*","b-*","f-*","m-*","t-*","d-*","s-*","v-*","z-*","n-*","l-*","C-*","cc-*","dz-*","r-*" }
+QS "L_NonAnterior"         { "Z-*","j-*","k-*","g-*","h-*","S-*","N-*","L-*" }
+QS "D_Explosives"          { "*+p","*+t","*+k","*+b","*+d","*+g" }
+QS "D_Explosives_Unvoiced" { "*+p","*+t","*+k" }
+QS "D_Explosives_Voiced"   { "*+b","*+d","*+g" }
+QS "D_Explosives_Front"    { "*+b","*+p" }
+QS "D_Explosives_Central"  { "*+d","*+t" }
+QS "D_Explosives_Back"     { "*+g","*+k" }
+QS "D_Fricative"           { "*+f","*+v","*+s","*+z","*+S","*+Z","*+h","*+j","*+l","*+L" }
+QS "D_Fricative_Spirants"  { "*+v","*+f" }
+QS "D_Fric_Unvoiced"       { "*+f","*+s","*+S","*+h" }
+QS "D_Fric_Voiced"         { "*+z","*+Z" }
+QS "D_Fric_Sonanat"        { "*+j","*+l","*+L","*+v" }
+QS "D_Fric_Front"          { "*+f","*+v" }
+QS "D_Fric_Central"        { "*+s","*+z","*+S","*+Z","*+l","*+L","*+j" }
+QS "D_Fric_Back"           { "*+h" }
+QS "D_Affricate"           { "*+c","*+C","*+cc","*+dz" }
+QS "D_Affricate_Unvoiced"  { "*+c","*+C","*+cc","*+" }
+QS "D_Affricate_Voiced"    { "*+dz" }
+QS "D_Nasal"               { "*+m","*+n","*+N" }
+QS "D_Nasal_Front"         { "*+m" }
+QS "D_Nasal_Central"       { "*+n","*+N" }
+QS "D_Vibrant"             { "*+r" }
+QS "D_Lateral"             { "*+l","*+L" }
+QS "D_Liquid"              { "*+l","*+L","*+r" }
+QS "D_Bilabial"            { "*+p","*+b","*+m" }
+QS "D_Labiodental"         { "*+f","*+v" }
+QS "D_Dental"              { "*+d","*+t","*+n","*+c","*+s","*+z" }
+QS "D_Palatal"             { "*+dz","*+C","*+cc","*+Z","*+S","*+L","*+j","*+N" }
+QS "D_Alveoral"            { "*+r","*+l" }
+QS "D_Velar"               { "*+k","*+g","*+h" }
+QS "D_Glide"               { "*+j","*+v" }
+QS "D_Apical"              { "*+t","*+d","*+z","*+s","*+n","*+r","*+c","*+l" }
+QS "D_Anterior"            { "*+p","*+b","*+f","*+m","*+t","*+d","*+s","*+v","*+z","*+n","*+l","*+C","*+cc","*+dz","*+r" }
+QS "D_NonAnterior"         { "*+Z","*+j","*+k","*+g","*+h","*+S","*+N","*+L" }
+QS "L_Compact"             { "a-*","N-*","L-*","j-*","S-*","Z-*","C-*","cc-*","dz-*","k-*","g-*","h-*" }
+QS "L_Compact_Vowel"       { "a-*" }
+QS "L_Compact_Consonant"   { "N-*","L-*","j-*","S-*","Z-*","C-*","cc-*","dz-*","k-*","g-*","h-*" }
+QS "L_Compact_Central"     { "a-*","N-*","L-*","j-*","S-*","Z-*","C-*","cc-*","dz-*" }
+QS "L_Compact_Back"        { "k-*","g-*","h-*" }
+QS "L_Difuse"              { "i-*","u-*","v-*","m-*","n-*","l-*","r-*","p-*","b-*","t-*","d-*","c-*","z-*","s-*","f-*" }
+QS "L_Difuse_Vowel"        { "i-*","u-*" }
+QS "L_Difuse_Consonant"    { "v-*","m-*","n-*","l-*","r-*","p-*","b-*","t-*","d-*","c-*","z-*","s-*","f-*" }
+QS "L_Difuse_Front"        { "i-*","v-*","m-*","p-*","b-*","f-*" }
+QS "L_Difuse_Central"      { "n-*","l-*","r-*","t-*","d-*","c-*","z-*","s-*" }
+QS "L_Difuse_Back"         { "u-*" }
+QS "L_Gravise"             { "o-*","u-*","v-*","m-*","p-*","b-*","k-*","g-*","f-*","h-*" }
+QS "L_Gravise_Vowel"       { "o-*","u-*" }
+QS "L_Gravise_Consonant"   { "v-*","m-*","p-*","b-*","k-*","g-*","f-*","h-*" }
+QS "L_Gravise_Front"       { "v-*","m-*","p-*","b-*","f-*" }
+QS "L_Gravise_Central"     { "o-*","u-*" }
+QS "L_Gravise_Back"        { "k-*","g-*","h-*" }
+QS "L_Acute"               { "i-*","e-*","n-*","N-*","l-*","L-*","r-*","j-*","t-*","d-*","s-*","z-*","S-*","Z-*","c-*","cc-*","C-*","dz-*" }
+QS "L_Acute_Vowel"         { "i-*","e-*" }
+QS "L_Acute_Consonant"     { "n-*","N-*","l-*","L-*","r-*","j-*","t-*","d-*","s-*","z-*","S-*","Z-*","c-*","cc-*","C-*","dz-*" }
+QS "L_Acute_Front"         { "i-*","e-*" }
+QS "L_Acute_Central"       { "n-*","N-*","l-*","L-*","r-*","j-*","t-*","d-*","s-*","z-*","S-*","Z-*","c-*","cc-*","C-*","dz-*" }
+QS "L_Constant"            { "i-*","e-*","a-*","o-*","u-*","v-*","l-*","L-*","j-*","s-*","S-*","z-*","Z-*","f-*","h-*" }
+QS "L_Constant_Vowel"      { "i-*","e-*","a-*","o-*","u-*" }
+QS "L_Constant_Consonant"  { "v-*","l-*","L-*","j-*","s-*","S-*","z-*","Z-*","f-*","h-*" }
+QS "L_Constant_Front"      { "i-*","e-*","v-*","f-*" }
+QS "L_Constant_Central"    { "a-*","l-*","L-*","j-*","s-*","S-*","z-*","Z-*" }
+QS "L_Constant_Back"       { "o-*","u-*","h-*" }
+QS "L_Interrupted"     { "m-*","n-*","N-*","r-*","p-*","b-*","t-*","d-*","k-*","g-*","c-*","C-*","cc-*","dz-*" }
+QS "L_Interrupted_Consonant"  { "m-*","n-*","N-*","r-*","p-*","b-*","t-*","d-*","k-*","g-*","c-*","C-*","cc-*","dz-*" }
+QS "L_Interrupted_Front"   { "m-*","p-*","b-*" }
+QS "L_Interrupted_Central" { "n-*","N-*","r-*","t-*","d-*","c-*","C-*","cc-*","dz-*" }
+QS "L_Interrupted_Back"    { "k-*","g-*" }
+QS "L_Strident"            { "v-*","f-*","s-*","S-*","z-*","Z-*","c-*","C-*" }
+QS "L_Strident_Front"      { "v-*","f-*" }
+QS "L_Strident_Central"    { "s-*","S-*","z-*","Z-*","c-*","C-*" }
+QS "L_Strident_Sonant"     { "v-*" }
+QS "L_Strident_Sibilant"   { "c-*","z-*","s-*" }
+QS "L_UnStrident_Okulziv"  { "p-*","b-*","t-*","d-*","k-*","g-*","h-*","j-*","m-*","n-*","N-*","l-*","L-*","r-*" }
+QS "L_Strength"            { "i-*","u-*","N-*","L-*","p-*","t-*","k-*","c-*","C-*","cc-*","s-*","S-*","f-*","h-*" }
+QS "L_Strength_Vowel"      { "i-*","u-*" } 
+QS "L_Strength_Consonant"  { "N-*","L-*","p-*","t-*","k-*","c-*","C-*","cc-*","s-*","S-*","f-*","h-*" }
+QS "L_Strength_Front"      { "i-*","p-*","f-*" }
+QS "L_Strength_Central"    { "N-*","L-*","t-*","c-*","C-*","cc-*","s-*","S-*","-*" }
+QS "L_Strength_Back"       { "u-*","k-*","h-*" }
+QS "D_Compact"             { "*+a","*+N","*+L","*+j","*+S","*+Z","*+C","*+cc","*+dz","*+k","*+g","*+h" }
+QS "D_Compact_Vowel"       { "*+a" }
+QS "D_Compact_Consonant"   { "*+N","*+L","*+j","*+S","*+Z","*+C","*+cc","*+dz","*+k","*+g","*+h" }
+QS "D_Compact_Central"     { "*+a","*+N","*+L","*+j","*+S","*+Z","*+C","*+cc","*+dz" }
+QS "D_Compact_Back"        { "*+k","*+g","*+h" }
+QS "D_Difuse"              { "*+i","*+u","*+v","*+m","*+n","*+l","*+r","*+p","*+b","*+t","*+d","*+c","*+z","*+s","*+f" }
+QS "D_Difuse_Vowel"        { "*+i","*+u" }
+QS "D_Difuse_Consonant"    { "*+v","*+m","*+n","*+l","*+r","*+p","*+b","*+t","*+d","*+c","*+z","*+s","*+f" }
+QS "D_Difuse_Front"        { "*+i","*+v","*+m","*+p","*+b","*+f" }
+QS "D_Difuse_Central"      { "*+n","*+l","*+r","*+t","*+d","*+c","*+z","*+s" }
+QS "D_Difuse_Back"         { "*+u" }
+QS "D_Gravise"             { "*+o","*+u","*+v","*+m","*+p","*+b","*+k","*+g","*+f","*+h" }
+QS "D_Gravise_Vowel"       { "*+o","*+u" }
+QS "D_Gravise_Consonant"   { "*+v","*+m","*+p","*+b","*+k","*+g","*+f","*+h" }
+QS "D_Gravise_Front"       { "*+v","*+m","*+p","*+b","*+f" }
+QS "D_Gravise_Central"     { "*+o","*+u" }
+QS "D_Gravise_Back"        { "*+k","*+g","*+h" }
+QS "D_Acute"               { "*+i","*+e","*+n","*+N","*+l","*+L","*+r","*+j","*+t","*+d","*+s","*+z","*+S","*+Z","*+c","*+cc","*+C","*+dz" }
+QS "D_Acute_Vowel"         { "*+i","*+e" }
+QS "D_Acute_Consonant"     { "*+n","*+N","*+l","*+L","*+r","*+j","*+t","*+d","*+s","*+z","*+S","*+Z","*+c","*+cc","*+C","*+dz" }
+QS "D_Acute_Front"         { "*+i","*+e" }
+QS "D_Acute_Central"       { "*+n","*+N","*+l","*+L","*+r","*+j","*+t","*+d","*+s","*+z","*+S","*+Z","*+c","*+cc","*+C","*+dz" }
+QS "D_Constant"            { "*+i","*+e","*+a","*+o","*+u","*+v","*+l","*+L","*+j","*+s","*+S","*+z","*+Z","*+f","*+h" }
+QS "D_Constant_Vowel"      { "*+i","*+e","*+a","*+o","*+u" }
+QS "D_Constant_Consonant"  { "*+v","*+l","*+L","*+j","*+s","*+S","*+z","*+Z","*+f","*+h" }
+QS "D_Constant_Front"      { "*+i","*+e","*+v","*+f" }
+QS "D_Constant_Central"    { "*+a","*+l","*+L","*+j","*+s","*+S","*+z","*+Z" }
+QS "D_Constant_Back"       { "*+o","*+u","*+h" }
+QS "D_Interrupted"     { "*+m","*+n","*+N","*+r","*+p","*+b","*+t","*+d","*+k","*+g","*+c","*+C","*+cc","*+dz" }
+QS "D_Interrupted_Consonant"  { "*+m","*+n","*+N","*+r","*+p","*+b","*+t","*+d","*+k","*+g","*+c","*+C","*+cc","*+dz" }
+QS "D_Interrupted_Front"   { "*+m","*+p","*+b" }
+QS "D_Interrupted_Central" { "*+n","*+N","*+r","*+t","*+d","*+c","*+C","*+cc","*+dz" }
+QS "D_Interrupted_Back"    { "*+k","*+g" }
+QS "D_Strident"            { "*+v","*+f","*+s","*+S","*+z","*+Z","*+c","*+C" }
+QS "D_Strident_Front"      { "*+v","*+f" }
+QS "D_Strident_Central"    { "*+s","*+S","*+z","*+Z","*+c","*+C" }
+QS "D_Strident_Sonant"     { "*+v" }
+QS "D_Strident_Sibilant"   { "*+c","*+z","*+s" }
+QS "D_UnStrident_Okulziv"  { "*+p","*+b","*+t","*+d","*+k","*+g","*+h","*+j","*+m","*+n","*+N","*+l","*+L","*+r" }
+QS "D_Strength"            { "*+i","*+u","*+N","*+L","*+p","*+t","*+k","*+c","*+C","*+cc","*+s","*+S","*+f","*+h" }
+QS "D_Strength_Vowel"      { "*+i","*+u" } 
+QS "D_Strength_Consonant"  { "*+N","*+L","*+p","*+t","*+k","*+c","*+C","*+cc","*+s","*+S","*+f","*+h" }
+QS "D_Strength_Front"      { "*+i","*+p","*+f" }
+QS "D_Strength_Central"    { "*+N","*+L","*+t","*+c","*+C","*+cc","*+s","*+S","*+" }
+QS "D_Strength_Back"       { "*+u","*+k","*+h" }
+QS "L_a"                   { "a-*" }
+QS "L_b"                   { "b-*" }
+QS "L_c"                   { "c-*" }
+QS "L_C"                   { "C-*" }
+QS "L_cc"                  { "cc-*" }
+QS "L_d"                   { "d-*" }
+QS "L_dz"                  { "dz-*" }
+QS "L_e"                   { "e-*" }
+QS "L_f"                   { "f-*" }
+QS "L_g"                   { "g-*" }
+QS "L_h"                   { "h-*" }
+QS "L_i"                   { "i-*" }
+QS "L_j"                   { "j-*" }
+QS "L_k"                   { "k-*" }
+QS "L_l"                   { "l-*" }
+QS "L_L"                   { "L-*" }
+QS "L_m"                   { "m-*" }
+QS "L_n"                   { "n-*" }
+QS "L_N"                   { "N-*" }
+QS "L_o"                   { "o-*" }
+QS "L_p"                   { "p-*" }
+QS "L_r"                   { "r-*" }
+QS "L_s"                   { "s-*" }
+QS "L_S"                   { "S-*" }
+QS "L_t"                   { "t-*" }
+QS "L_u"                   { "u-*" }
+QS "L_v"                   { "v-*" }
+QS "L_z"                   { "z-*" }
+QS "L_Z"                   { "Z-*" }
+QS "D_a"                   { "*+a" }
+QS "D_b"                   { "*+b" }
+QS "D_c"                   { "*+c" }
+QS "D_C"                   { "*+C" }
+QS "D_cc"                  { "*+cc" }
+QS "D_d"                   { "*+d" }
+QS "D_dz"                  { "*+dz" }
+QS "D_e"                   { "*+e" }
+QS "D_f"                   { "*+f" }
+QS "D_g"                   { "*+g" }
+QS "D_h"                   { "*+h" }
+QS "D_i"                   { "*+i" }
+QS "D_j"                   { "*+j" }
+QS "D_k"                   { "*+k" }
+QS "D_l"                   { "*+l" }
+QS "D_L"                   { "*+L" }
+QS "D_m"                   { "*+m" }
+QS "D_n"                   { "*+n" }
+QS "D_N"                   { "*+N" }
+QS "D_o"                   { "*+o" }
+QS "D_p"                   { "*+p" }
+QS "D_r"                   { "*+r" }
+QS "D_s"                   { "*+s" }
+QS "D_S"                   { "*+S" }
+QS "D_t"                   { "*+t" }
+QS "D_u"                   { "*+u" }
+QS "D_v"                   { "*+v" }
+QS "D_z"                   { "*+z" }
+QS "D_Z"                   { "*+Z" }
+QS "L_Sil" { "sil-*" }
+QS "D_Sil" { "*+sil" }
+QS "L_Greska" { "greska-*" }
+QS "D_Greska" { "*+greska" }
+QS "L_Udarac" { "udarac-*" }
+QS "D_Udarac" { "*+udarac" }
+QS "L_Uzdah" { "uzdah-*" }
+QS "D_Uzdah" { "*+uzdah" }
+QS "L_Poljubni" { "*-*" }
+QS "D_Poljubni" { "*-*" }
+
+TR 2
+TB 350 "ST_greska_2_" {("greska","*-greska+*","greska+*","*-greska").state[2]}
+TB 350 "ST_papir_2_" {("papir","*-papir+*","papir+*","*-papir").state[2]}
+TB 350 "ST_sil_2_" {("sil","*-sil+*","sil+*","*-sil").state[2]}
+TB 350 "ST_udarac_2_" {("udarac","*-udarac+*","udarac+*","*-udarac").state[2]}
+TB 350 "ST_uzdah_2_" {("uzdah","*-uzdah+*","uzdah+*","*-uzdah").state[2]}
+TB 350 "ST_Cc_2_" {("Cc","*-Cc+*","Cc+*","*-Cc").state[2]}
+TB 350 "ST_e_2_" {("e","*-e+*","e+*","*-e").state[2]}
+TB 350 "ST_Z_2_" {("Z","*-Z+*","Z+*","*-Z").state[2]}
+TB 350 "ST_a_2_" {("a","*-a+*","a+*","*-a").state[2]}
+TB 350 "ST_l_2_" {("l","*-l+*","l+*","*-l").state[2]}
+TB 350 "ST_i_2_" {("i","*-i+*","i+*","*-i").state[2]}
+TB 350 "ST_t_2_" {("t","*-t+*","t+*","*-t").state[2]}
+TB 350 "ST_k_2_" {("k","*-k+*","k+*","*-k").state[2]}
+TB 350 "ST_o_2_" {("o","*-o+*","o+*","*-o").state[2]}
+TB 350 "ST_r_2_" {("r","*-r+*","r+*","*-r").state[2]}
+TB 350 "ST_g_2_" {("g","*-g+*","g+*","*-g").state[2]}
+TB 350 "ST_j_2_" {("j","*-j+*","j+*","*-j").state[2]}
+TB 350 "ST_C_2_" {("C","*-C+*","C+*","*-C").state[2]}
+TB 350 "ST_n_2_" {("n","*-n+*","n+*","*-n").state[2]}
+TB 350 "ST_p_2_" {("p","*-p+*","p+*","*-p").state[2]}
+TB 350 "ST_c_2_" {("c","*-c+*","c+*","*-c").state[2]}
+TB 350 "ST_s_2_" {("s","*-s+*","s+*","*-s").state[2]}
+TB 350 "ST_m_2_" {("m","*-m+*","m+*","*-m").state[2]}
+TB 350 "ST_f_2_" {("f","*-f+*","f+*","*-f").state[2]}
+TB 350 "ST_b_2_" {("b","*-b+*","b+*","*-b").state[2]}
+TB 350 "ST_d_2_" {("d","*-d+*","d+*","*-d").state[2]}
+TB 350 "ST_N_2_" {("N","*-N+*","N+*","*-N").state[2]}
+TB 350 "ST_u_2_" {("u","*-u+*","u+*","*-u").state[2]}
+TB 350 "ST_z_2_" {("z","*-z+*","z+*","*-z").state[2]}
+TB 350 "ST_v_2_" {("v","*-v+*","v+*","*-v").state[2]}
+TB 350 "ST_S_2_" {("S","*-S+*","S+*","*-S").state[2]}
+TB 350 "ST_h_2_" {("h","*-h+*","h+*","*-h").state[2]}
+TB 350 "ST_L_2_" {("L","*-L+*","L+*","*-L").state[2]}
+TB 350 "ST_dz_2_" {("dz","*-dz+*","dz+*","*-dz").state[2]}
+TB 350 "ST_greska_3_" {("greska","*-greska+*","greska+*","*-greska").state[3]}
+TB 350 "ST_papir_3_" {("papir","*-papir+*","papir+*","*-papir").state[3]}
+TB 350 "ST_sil_3_" {("sil","*-sil+*","sil+*","*-sil").state[3]}
+TB 350 "ST_udarac_3_" {("udarac","*-udarac+*","udarac+*","*-udarac").state[3]}
+TB 350 "ST_uzdah_3_" {("uzdah","*-uzdah+*","uzdah+*","*-uzdah").state[3]}
+TB 350 "ST_Cc_3_" {("Cc","*-Cc+*","Cc+*","*-Cc").state[3]}
+TB 350 "ST_e_3_" {("e","*-e+*","e+*","*-e").state[3]}
+TB 350 "ST_Z_3_" {("Z","*-Z+*","Z+*","*-Z").state[3]}
+TB 350 "ST_a_3_" {("a","*-a+*","a+*","*-a").state[3]}
+TB 350 "ST_l_3_" {("l","*-l+*","l+*","*-l").state[3]}
+TB 350 "ST_i_3_" {("i","*-i+*","i+*","*-i").state[3]}
+TB 350 "ST_t_3_" {("t","*-t+*","t+*","*-t").state[3]}
+TB 350 "ST_k_3_" {("k","*-k+*","k+*","*-k").state[3]}
+TB 350 "ST_o_3_" {("o","*-o+*","o+*","*-o").state[3]}
+TB 350 "ST_r_3_" {("r","*-r+*","r+*","*-r").state[3]}
+TB 350 "ST_g_3_" {("g","*-g+*","g+*","*-g").state[3]}
+TB 350 "ST_j_3_" {("j","*-j+*","j+*","*-j").state[3]}
+TB 350 "ST_C_3_" {("C","*-C+*","C+*","*-C").state[3]}
+TB 350 "ST_n_3_" {("n","*-n+*","n+*","*-n").state[3]}
+TB 350 "ST_p_3_" {("p","*-p+*","p+*","*-p").state[3]}
+TB 350 "ST_c_3_" {("c","*-c+*","c+*","*-c").state[3]}
+TB 350 "ST_s_3_" {("s","*-s+*","s+*","*-s").state[3]}
+TB 350 "ST_m_3_" {("m","*-m+*","m+*","*-m").state[3]}
+TB 350 "ST_f_3_" {("f","*-f+*","f+*","*-f").state[3]}
+TB 350 "ST_b_3_" {("b","*-b+*","b+*","*-b").state[3]}
+TB 350 "ST_d_3_" {("d","*-d+*","d+*","*-d").state[3]}
+TB 350 "ST_N_3_" {("N","*-N+*","N+*","*-N").state[3]}
+TB 350 "ST_u_3_" {("u","*-u+*","u+*","*-u").state[3]}
+TB 350 "ST_z_3_" {("z","*-z+*","z+*","*-z").state[3]}
+TB 350 "ST_v_3_" {("v","*-v+*","v+*","*-v").state[3]}
+TB 350 "ST_S_3_" {("S","*-S+*","S+*","*-S").state[3]}
+TB 350 "ST_h_3_" {("h","*-h+*","h+*","*-h").state[3]}
+TB 350 "ST_L_3_" {("L","*-L+*","L+*","*-L").state[3]}
+TB 350 "ST_dz_3_" {("dz","*-dz+*","dz+*","*-dz").state[3]}
+TB 350 "ST_greska_4_" {("greska","*-greska+*","greska+*","*-greska").state[4]}
+TB 350 "ST_papir_4_" {("papir","*-papir+*","papir+*","*-papir").state[4]}
+TB 350 "ST_sil_4_" {("sil","*-sil+*","sil+*","*-sil").state[4]}
+TB 350 "ST_udarac_4_" {("udarac","*-udarac+*","udarac+*","*-udarac").state[4]}
+TB 350 "ST_uzdah_4_" {("uzdah","*-uzdah+*","uzdah+*","*-uzdah").state[4]}
+TB 350 "ST_Cc_4_" {("Cc","*-Cc+*","Cc+*","*-Cc").state[4]}
+TB 350 "ST_e_4_" {("e","*-e+*","e+*","*-e").state[4]}
+TB 350 "ST_Z_4_" {("Z","*-Z+*","Z+*","*-Z").state[4]}
+TB 350 "ST_a_4_" {("a","*-a+*","a+*","*-a").state[4]}
+TB 350 "ST_l_4_" {("l","*-l+*","l+*","*-l").state[4]}
+TB 350 "ST_i_4_" {("i","*-i+*","i+*","*-i").state[4]}
+TB 350 "ST_t_4_" {("t","*-t+*","t+*","*-t").state[4]}
+TB 350 "ST_k_4_" {("k","*-k+*","k+*","*-k").state[4]}
+TB 350 "ST_o_4_" {("o","*-o+*","o+*","*-o").state[4]}
+TB 350 "ST_r_4_" {("r","*-r+*","r+*","*-r").state[4]}
+TB 350 "ST_g_4_" {("g","*-g+*","g+*","*-g").state[4]}
+TB 350 "ST_j_4_" {("j","*-j+*","j+*","*-j").state[4]}
+TB 350 "ST_C_4_" {("C","*-C+*","C+*","*-C").state[4]}
+TB 350 "ST_n_4_" {("n","*-n+*","n+*","*-n").state[4]}
+TB 350 "ST_p_4_" {("p","*-p+*","p+*","*-p").state[4]}
+TB 350 "ST_c_4_" {("c","*-c+*","c+*","*-c").state[4]}
+TB 350 "ST_s_4_" {("s","*-s+*","s+*","*-s").state[4]}
+TB 350 "ST_m_4_" {("m","*-m+*","m+*","*-m").state[4]}
+TB 350 "ST_f_4_" {("f","*-f+*","f+*","*-f").state[4]}
+TB 350 "ST_b_4_" {("b","*-b+*","b+*","*-b").state[4]}
+TB 350 "ST_d_4_" {("d","*-d+*","d+*","*-d").state[4]}
+TB 350 "ST_N_4_" {("N","*-N+*","N+*","*-N").state[4]}
+TB 350 "ST_u_4_" {("u","*-u+*","u+*","*-u").state[4]}
+TB 350 "ST_z_4_" {("z","*-z+*","z+*","*-z").state[4]}
+TB 350 "ST_v_4_" {("v","*-v+*","v+*","*-v").state[4]}
+TB 350 "ST_S_4_" {("S","*-S+*","S+*","*-S").state[4]}
+TB 350 "ST_h_4_" {("h","*-h+*","h+*","*-h").state[4]}
+TB 350 "ST_L_4_" {("L","*-L+*","L+*","*-L").state[4]}
+TB 350 "ST_dz_4_" {("dz","*-dz+*","dz+*","*-dz").state[4]}
+
+TR 1
+
+AU "./fulllist" 
+CO "./tiedlist" 
+
+ST "./trees" 

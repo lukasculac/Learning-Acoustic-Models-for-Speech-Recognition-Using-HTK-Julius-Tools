@@ -1,0 +1,49 @@
+WARNING: no script file lexicon.txt.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+ lexicon.txt      1538       1449       1541       1450
+        dict      1449       1449       1450       1449
+
+1449 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. greska :     1
+  2. sp    :  1446
+  3. papir :     1
+  4. sil   :     3
+  5. udarac :     1
+  6. uzdah :     1
+  7. Cc    :    76
+  8. e     :   983
+  9. Z     :    67
+ 10. a     :  1131
+ 11. l     :   325
+ 12. i     :   845
+ 13. t     :   550
+ 14. k     :   339
+ 15. o     :  1094
+ 16. r     :   626
+ 17. g     :   193
+ 18. j     :   448
+ 19. C     :   124
+ 20. n     :   641
+ 21. p     :   362
+ 22. c     :    83
+ 23. s     :   492
+ 24. m     :   433
+ 25. f     :    10
+ 26. b     :   174
+ 27. d     :   318
+ 28. N     :   120
+ 29. u     :   369
+ 30. z     :   146
+ 31. v     :   363
+ 32. S     :    89
+ 33. h     :    69
+ 34. L     :   107
+ 35. dz    :     5
+
+Dictionary dict created

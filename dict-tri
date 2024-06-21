@@ -1,0 +1,1538 @@
+<greska>        greska sp
+<papir>         papir sp
+<sil>           sil
+<udarac>        udarac sp
+<uzdah>         uzdah sp
+SENT-END        sil
+SENT-START      sil
+^e              Cc+e Cc-e sp
+`aliti          Z+a Z-a+l a-l+i l-i+t i-t+i t-i sp
+a               a sp
+ako             a+k a-k+o k-o sp
+alergije        a+l a-l+e l-e+r e-r+g r-g+i g-i+j i-j+e j-e sp
+alergi~ne       a+l a-l+e l-e+r e-r+g r-g+i g-i+C i-C+n C-n+e n-e sp
+ali             a+l a-l+i l-i sp
+alpa            a+l a-l+p l-p+a p-a sp
+ankica          a+n a-n+k n-k+i k-i+c i-c+a c-a sp
+ankice          a+n a-n+k n-k+i k-i+c i-c+e c-e sp
+anticiklona     a+n a-n+t n-t+i t-i+c i-c+i c-i+k i-k+l k-l+o l-o+n o-n+a n-a sp
+anticiklonalni  a+n a-n+t n-t+i t-i+c i-c+i c-i+k i-k+l k-l+o l-o+n o-n+a n-a+l a-l+n l-n+i n-i sp
+anticiklonalno  a+n a-n+t n-t+i t-i+c i-c+i c-i+k i-k+l k-l+o l-o+n o-n+a n-a+l a-l+n l-n+o n-o sp
+anticiklonalnog a+n a-n+t n-t+i t-i+c i-c+i c-i+k i-k+l k-l+o l-o+n o-n+a n-a+l a-l+n l-n+o n-o+g o-g sp
+anticiklone     a+n a-n+t n-t+i t-i+c i-c+i c-i+k i-k+l k-l+o l-o+n o-n+e n-e sp
+astmati~ara     a+s a-s+t s-t+m t-m+a m-a+t a-t+i t-i+C i-C+a C-a+r a-r+a r-a sp
+astmati~are     a+s a-s+t s-t+m t-m+a m-a+t a-t+i t-i+C i-C+a C-a+r a-r+e r-e sp
+astmati~ari     a+s a-s+t s-t+m t-m+a m-a+t a-t+i t-i+C i-C+a C-a+r a-r+i r-i sp
+astmati~arima   a+s a-s+t s-t+m t-m+a m-a+t a-t+i t-i+C i-C+a C-a+r a-r+i r-i+m i-m+a m-a sp
+atlantska       a+t a-t+l t-l+a l-a+n a-n+t n-t+s t-s+k s-k+a k-a sp
+atmosferski     a+t a-t+m t-m+o m-o+s o-s+f s-f+e f-e+r e-r+s r-s+k s-k+i k-i sp
+atmosferskog    a+t a-t+m t-m+o m-o+s o-s+f s-f+e f-e+r e-r+s r-s+k s-k+o k-o+g o-g sp
+b               b sp
+badnju          b+a b-a+d a-d+N d-N+u N-u sp
+bar             b+a b-a+r a-r sp
+baranji         b+a b-a+r a-r+a r-a+N a-N+i N-i sp
+barem           b+a b-a+r a-r+e r-e+m e-m sp
+bazge           b+a b-a+z a-z+g z-g+e g-e sp
+bez             b+e b-e+z e-z sp
+bi              b+i b-i sp
+bila            b+i b-i+l i-l+a l-a sp
+biokova         b+i b-i+o i-o+k o-k+o k-o+v o-v+a v-a sp
+biokovu         b+i b-i+o i-o+k o-k+o k-o+v o-v+u v-u sp
+biometeorolo{ka b+i b-i+o i-o+m o-m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+a k-a sp
+biometeorolo{ke b+i b-i+o i-o+m o-m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+e k-e sp
+biometeorolo{ki b+i b-i+o i-o+m o-m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+i k-i sp
+biometeorolo{kih b+i b-i+o i-o+m o-m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+i k-i+h i-h sp
+biometeorolo{kog b+i b-i+o i-o+m o-m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+o k-o+g o-g sp
+bismo           b+i b-i+s i-s+m s-m+o m-o sp
+bit             b+i b-i+t i-t sp
+biti            b+i b-i+t i-t+i t-i sp
+blagdan         b+l b-l+a l-a+g a-g+d g-d+a d-a+n a-n sp
+blizini         b+l b-l+i l-i+z i-z+i z-i+n i-n+i n-i sp
+blizinu         b+l b-l+i l-i+z i-z+i z-i+n i-n+u n-u sp
+blizu           b+l b-l+i l-i+z i-z+u z-u sp
+bo`i^           b+o b-o+Z o-Z+i Z-i+Cc i-Cc sp
+bolesnici       b+o b-o+l o-l+e l-e+s e-s+n s-n+i n-i+c i-c+i c-i sp
+bolesnicima     b+o b-o+l o-l+e l-e+s e-s+n s-n+i n-i+c i-c+i c-i+m i-m+a m-a sp
+bolesnika       b+o b-o+l o-l+e l-e+s e-s+n s-n+i n-i+k i-k+a k-a sp
+bolesnike       b+o b-o+l o-l+e l-e+s e-s+n s-n+i n-i+k i-k+e k-e sp
+bolestima       b+o b-o+l o-l+e l-e+s e-s+t s-t+i t-i+m i-m+a m-a sp
+bolje           b+o b-o+L o-L+e L-e sp
+bolji           b+o b-o+L o-L+i L-i sp
+bolova          b+o b-o+l o-l+o l-o+v o-v+a v-a sp
+bolove          b+o b-o+l o-l+o l-o+v o-v+e v-e sp
+bolovi          b+o b-o+l o-l+o l-o+v o-v+i v-i sp
+bolovima        b+o b-o+l o-l+o l-o+v o-v+i v-i+m i-m+a m-a sp
+boravak         b+o b-o+r o-r+a r-a+v a-v+a v-a+k a-k sp
+borivoj         b+o b-o+r o-r+i r-i+v i-v+o v-o+j o-j sp
+botovo          b+o b-o+t o-t+o t-o+v o-v+o v-o sp
+breze           b+r b-r+e r-e+z e-z+e z-e sp
+brod            b+r b-r+o r-o+d o-d sp
+brzo            b+r b-r+z r-z+o z-o sp
+brzoj           b+r b-r+z r-z+o z-o+j o-j sp
+bude            b+u b-u+d u-d+e d-e sp
+budimpe{ta      b+u b-u+d u-d+i d-i+m i-m+p m-p+e p-e+S e-S+t S-t+a t-a sp
+budimpe{te      b+u b-u+d u-d+i d-i+m i-m+p m-p+e p-e+S e-S+t S-t+e t-e sp
+bura            b+u b-u+r u-r+a r-a sp
+bure            b+u b-u+r u-r+e r-e sp
+burin           b+u b-u+r u-r+i r-i+n i-n sp
+burom           b+u b-u+r u-r+o r-o+m o-m sp
+buru            b+u b-u+r u-r+u r-u sp
+c               c sp
+cc              Cc sp
+celzijev        c+e c-e+l e-l+z l-z+i z-i+j i-j+e j-e+v e-v sp
+centimetara     c+e c-e+n e-n+t n-t+i t-i+m i-m+e m-e+t e-t+a t-a+r a-r+a r-a sp
+centra          c+e c-e+n e-n+t n-t+r t-r+a r-a sp
+cesti           c+e c-e+s e-s+t s-t+i t-i sp
+cijeloj         c+i c-i+j i-j+e j-e+l e-l+o l-o+j o-j sp
+cijelom         c+i c-i+j i-j+e j-e+l e-l+o l-o+m o-m sp
+cijelu          c+i c-i+j i-j+e j-e+l e-l+u l-u sp
+ciklona         c+i c-i+k i-k+l k-l+o l-o+n o-n+a n-a sp
+ciklonalno      c+i c-i+k i-k+l k-l+o l-o+n o-n+a n-a+l a-l+n l-n+o n-o sp
+ciklonalnog     c+i c-i+k i-k+l k-l+o l-o+n o-n+a n-a+l a-l+n l-n+o n-o+g o-g sp
+ciklone         c+i c-i+k i-k+l k-l+o l-o+n o-n+e n-e sp
+cjelodnevne     c+j c-j+e j-e+l e-l+o l-o+d o-d+n d-n+e n-e+v e-v+n v-n+e n-e sp
+cjelodnevnom    c+j c-j+e j-e+l e-l+o l-o+d o-d+n d-n+e n-e+v e-v+n v-n+o n-o+m o-m sp
+crnac           c+r c-r+n r-n+a n-a+c a-c sp
+d               d sp
+da              d+a d-a sp
+dalje           d+a d-a+L a-L+e L-e sp
+dalmacije       d+a d-a+l a-l+m l-m+a m-a+c a-c+i c-i+j i-j+e j-e sp
+dalmaciji       d+a d-a+l a-l+m l-m+a m-a+c a-c+i c-i+j i-j+i j-i sp
+dalmaciju       d+a d-a+l a-l+m l-m+a m-a+c a-c+i c-i+j i-j+u j-u sp
+dalmatinskome   d+a d-a+l a-l+m l-m+a m-a+t a-t+i t-i+n i-n+s n-s+k s-k+o k-o+m o-m+e m-e sp
+dan             d+a d-a+n a-n sp
+dana            d+a d-a+n a-n+a n-a sp
+danas           d+a d-a+n a-n+a n-a+s a-s sp
+dana{njega      d+a d-a+n a-n+a n-a+S a-S+N S-N+e N-e+g e-g+a g-a sp
+dana{nji        d+a d-a+n a-n+a n-a+S a-S+N S-N+i N-i sp
+dane            d+a d-a+n a-n+e n-e sp
+danju           d+a d-a+N a-N+u N-u sp
+davor           d+a d-a+v a-v+o v-o+r o-r sp
+de`urna         d+e d-e+Z e-Z+u Z-u+r u-r+n r-n+a n-a sp
+depresijsko     d+e d-e+p e-p+r p-r+e r-e+s e-s+i s-i+j i-j+s j-s+k s-k+o k-o sp
+deset           d+e d-e+s e-s+e s-e+t e-t sp
+desetak         d+e d-e+s e-s+e s-e+t e-t+a t-a+k a-k sp
+devedeset       d+e d-e+v e-v+e v-e+d e-d+e d-e+s e-s+e s-e+t e-t sp
+devedesetidevet d+e d-e+v e-v+e v-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+e d-e+v e-v+e v-e+t e-t sp
+devedesetisedam d+e d-e+v e-v+e v-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+s i-s+e s-e+d e-d+a d-a+m a-m sp
+devet           d+e d-e+v e-v+e v-e+t e-t sp
+devetnaest      d+e d-e+v e-v+e v-e+t e-t+n t-n+a n-a+e a-e+s e-s+t s-t sp
+devetoga        d+e d-e+v e-v+e v-e+t e-t+o t-o+g o-g+a g-a sp
+dijela          d+i d-i+j i-j+e j-e+l e-l+a l-a sp
+dijelom         d+i d-i+j i-j+e j-e+l e-l+o l-o+m o-m sp
+dijelovima      d+i d-i+j i-j+e j-e+l e-l+o l-o+v o-v+i v-i+m i-m+a m-a sp
+dijelu          d+i d-i+j i-j+e j-e+l e-l+u l-u sp
+diljem          d+i d-i+L i-L+e L-e+m e-m sp
+dio             d+i d-i+o i-o sp
+divljeg         d+i d-i+v i-v+L v-L+e L-e+g e-g sp
+divlji          d+i d-i+v i-v+L v-L+i L-i sp
+djelomice       d+j d-j+e j-e+l e-l+o l-o+m o-m+i m-i+c i-c+e c-e sp
+djelomi~no      d+j d-j+e j-e+l e-l+o l-o+m o-m+i m-i+C i-C+n C-n+o n-o sp
+djelovati       d+j d-j+e j-e+l e-l+o l-o+v o-v+a v-a+t a-t+i t-i sp
+dnevna          d+n d-n+e n-e+v e-v+n v-n+a n-a sp
+dnevne          d+n d-n+e n-e+v e-v+n v-n+e n-e sp
+do              d+o d-o sp
+doba            d+o d-o+b o-b+a b-a sp
+dobar           d+o d-o+b o-b+a b-a+r a-r sp
+dobili          d+o d-o+b o-b+i b-i+l i-l+i l-i sp
+dobre           d+o d-o+b o-b+r b-r+e r-e sp
+dobro           d+o d-o+b o-b+r b-r+o r-o sp
+dobrog          d+o d-o+b o-b+r b-r+o r-o+g o-g sp
+dobroga         d+o d-o+b o-b+r b-r+o r-o+g o-g+a g-a sp
+dobrom          d+o d-o+b o-b+r b-r+o r-o+m o-m sp
+dobru           d+o d-o+b o-b+r b-r+u r-u sp
+dodatne         d+o d-o+d o-d+a d-a+t a-t+n t-n+e n-e sp
+dodiru          d+o d-o+d o-d+i d-i+r i-r+u r-u sp
+dok             d+o d-o+k o-k sp
+dokazanom       d+o d-o+k o-k+a k-a+z a-z+a z-a+n a-n+o n-o+m o-m sp
+dolina          d+o d-o+l o-l+i l-i+n i-n+a n-a sp
+dolinu          d+o d-o+l o-l+i l-i+n i-n+u n-u sp
+donijeti        d+o d-o+n o-n+i n-i+j i-j+e j-e+t e-t+i t-i sp
+donji           d+o d-o+N o-N+i N-i sp
+donositi        d+o d-o+n o-n+o n-o+s o-s+i s-i+t i-t+i t-i sp
+dosta           d+o d-o+s o-s+t s-t+a t-a sp
+dr`avnog        d+r d-r+Z r-Z+a Z-a+v a-v+n v-n+o n-o+g o-g sp
+dr`avnoga       d+r d-r+Z r-Z+a Z-a+v a-v+n v-n+o n-o+g o-g+a g-a sp
+dragojlovi^     d+r d-r+a r-a+g a-g+o g-o+j o-j+l j-l+o l-o+v o-v+i v-i+Cc i-Cc sp
+dragoslav       d+r d-r+a r-a+g a-g+o g-o+s o-s+l s-l+a l-a+v a-v sp
+drava           d+r d-r+a r-a+v a-v+a v-a sp
+drugdje         d+r d-r+u r-u+g u-g+d g-d+j d-j+e j-e sp
+drugom          d+r d-r+u r-u+g u-g+o g-o+m o-m sp
+drugome         d+r d-r+u r-u+g u-g+o g-o+m o-m+e m-e sp
+drvar           d+r d-r+v r-v+a v-a+r a-r sp
+drve^a          d+r d-r+v r-v+e v-e+Cc e-Cc+a Cc-a sp
+du`             d+u d-u+Z u-Z sp
+du`a            d+u d-u+Z u-Z+a Z-a sp
+du`e            d+u d-u+Z u-Z+e Z-e sp
+du`im           d+u d-u+Z u-Z+i Z-i+m i-m sp
+du`obale        d+u d-u+Z u-Z+o Z-o+b o-b+a b-a+l a-l+e l-e sp
+duboka          d+u d-u+b u-b+o b-o+k o-k+a k-a sp
+dubrova~kom     d+u d-u+b u-b+r b-r+o r-o+v o-v+a v-a+C a-C+k C-k+o k-o+m o-m sp
+dubrova~kome    d+u d-u+b u-b+r b-r+o r-o+v o-v+a v-a+C a-C+k C-k+o k-o+m o-m+e m-e sp
+dugotrajna      d+u d-u+g u-g+o g-o+t o-t+r t-r+a r-a+j a-j+n j-n+a n-a sp
+dugotrajno      d+u d-u+g u-g+o g-o+t o-t+r t-r+a r-a+j a-j+n j-n+o n-o sp
+dugotrajnom     d+u d-u+g u-g+o g-o+t o-t+r t-r+a r-a+j a-j+n j-n+o n-o+m o-m sp
+dugotrajnu      d+u d-u+g u-g+o g-o+t o-t+r t-r+a r-a+j a-j+n j-n+u n-u sp
+dulja           d+u d-u+L u-L+a L-a sp
+dulje           d+u d-u+L u-L+e L-e sp
+duljih          d+u d-u+L u-L+i L-i+h i-h sp
+dunav           d+u d-u+n u-n+a n-a+v a-v sp
+dunja           d+u d-u+N u-N+a N-a sp
+dva             d+v d-v+a v-a sp
+dvadeset        d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t sp
+dvadeseti       d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+i t-i sp
+dvadesetidva    d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+v d-v+a v-a sp
+dvadesetijedan  d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+i t-i+j i-j+e j-e+d e-d+a d-a+n a-n sp
+dvadesetipet    d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+i t-i+p i-p+e p-e+t e-t sp
+dvadesetitri    d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+i t-i+t i-t+r t-r+i r-i sp
+dvadeseti{est   d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+i t-i+S i-S+e S-e+s e-s+t s-t sp
+dvadeseti~etiri d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+i t-i+C i-C+e C-e+t e-t+i t-i+r i-r+i r-i sp
+dvadesetoj      d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+o t-o+j o-j sp
+dvanaest        d+v d-v+a v-a+n a-n+a n-a+e a-e+s e-s+t s-t sp
+dvije           d+v d-v+i v-i+j i-j+e j-e sp
+dvjesto         d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o sp
+dvjestodevet    d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+d o-d+e d-e+v e-v+e v-e+t e-t sp
+dvjestodva      d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+d o-d+v d-v+a v-a sp
+dvjestodvadeseti~etiri d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+d o-d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+i t-i+C i-C+e C-e+t e-t+i t-i+r i-r+i r-i sp
+dvjestoosam     d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+o o-o+s o-s+a s-a+m a-m sp
+dvjestoosamdesetidevet d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+o o-o+s o-s+a s-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+e d-e+v e-v+e v-e+t e-t sp
+dvjestopedesetiosam d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+p o-p+e p-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+o i-o+s o-s+a s-a+m a-m sp
+dvjestosedamdesetitri d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+s o-s+e s-e+d e-d+a d-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t+i t-i+t i-t+r t-r+i r-i sp
+dvjestotridesetitri d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+t o-t+r t-r+i r-i+d i-d+e d-e+s e-s+e s-e+t e-t+i t-i+t i-t+r t-r+i r-i sp
+dvjesto{ezdeset d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+S o-S+e S-e+z e-z+d z-d+e d-e+s e-s+e s-e+t e-t sp
+dvjesto~etrdeset d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+C o-C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t sp
+dvjesto~etrdesetipet d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+C o-C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t+i t-i+p i-p+e p-e+t e-t sp
+dvjesto~etrdeseti{est d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+C o-C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t+i t-i+S i-S+e S-e+s e-s+t s-t sp
+dvjesto~etrdeseti~etiri d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+C o-C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t+i t-i+C i-C+e C-e+t e-t+i t-i+r i-r+i r-i sp
+dvjesto~etrnaest d+v d-v+j v-j+e j-e+s e-s+t s-t+o t-o+C o-C+e C-e+t e-t+r t-r+n r-n+a n-a+e a-e+s e-s+t s-t sp
+dz              dz sp
+e               e sp
+egejskim        e+g e-g+e g-e+j e-j+s j-s+k s-k+i k-i+m i-m sp
+egejskome       e+g e-g+e g-e+j e-j+s j-s+k s-k+o k-o+m o-m+e m-e sp
+europe          e+u e-u+r u-r+o r-o+p o-p+e p-e sp
+europom         e+u e-u+r u-r+o r-o+p o-p+o p-o+m o-m sp
+europska        e+u e-u+r u-r+o r-o+p o-p+s p-s+k s-k+a k-a sp
+europske        e+u e-u+r u-r+o r-o+p o-p+s p-s+k s-k+e k-e sp
+europskim       e+u e-u+r u-r+o r-o+p o-p+s p-s+k s-k+i k-i+m i-m sp
+europskog       e+u e-u+r u-r+o r-o+p o-p+s p-s+k s-k+o k-o+g o-g sp
+europskoga      e+u e-u+r u-r+o r-o+p o-p+s p-s+k s-k+o k-o+g o-g+a g-a sp
+f               f sp
+formira         f+o f-o+r o-r+m r-m+i m-i+r i-r+a r-a sp
+formiranje      f+o f-o+r o-r+m r-m+i m-i+r i-r+a r-a+N a-N+e N-e sp
+fronta          f+r f-r+o r-o+n o-n+t n-t+a t-a sp
+frontalni       f+r f-r+o r-o+n o-n+t n-t+a t-a+l a-l+n l-n+i n-i sp
+frontalnim      f+r f-r+o r-o+n o-n+t n-t+a t-a+l a-l+n l-n+i n-i+m i-m sp
+fronte          f+r f-r+o r-o+n o-n+t n-t+e t-e sp
+frontom         f+r f-r+o r-o+n o-n+t n-t+o t-o+m o-m sp
+g               g sp
+gdje            g+d g-d+j d-j+e j-e sp
+glasi           g+l g-l+a l-a+s a-s+i s-i sp
+glavninom       g+l g-l+a l-a+v a-v+n v-n+i n-i+n i-n+o n-o+m o-m sp
+glavobolja      g+l g-l+a l-a+v a-v+o v-o+b o-b+o b-o+L o-L+a L-a sp
+glavobolje      g+l g-l+a l-a+v a-v+o v-o+b o-b+o b-o+L o-L+e L-e sp
+glavobolju      g+l g-l+a l-a+v a-v+o v-o+b o-b+o b-o+L o-L+u L-u sp
+godine          g+o g-o+d o-d+i d-i+n i-n+e n-e sp
+godinu          g+o g-o+d o-d+i d-i+n i-n+u n-u sp
+gorju           g+o g-o+r o-r+j r-j+u j-u sp
+gorski          g+o g-o+r o-r+s r-s+k s-k+i k-i sp
+gorskim         g+o g-o+r o-r+s r-s+k s-k+i k-i+m i-m sp
+gorskog         g+o g-o+r o-r+s r-s+k s-k+o k-o+g o-g sp
+gorskoj         g+o g-o+r o-r+s r-s+k s-k+o k-o+j o-j sp
+gorskom         g+o g-o+r o-r+s r-s+k s-k+o k-o+m o-m sp
+gorskome        g+o g-o+r o-r+s r-s+k s-k+o k-o+m o-m+e m-e sp
+gotovo          g+o g-o+t o-t+o t-o+v o-v+o v-o sp
+govori          g+o g-o+v o-v+o v-o+r o-r+i r-i sp
+granici         g+r g-r+a r-a+n a-n+i n-i+c i-c+i c-i sp
+greben          g+r g-r+e r-e+b e-b+e b-e+n e-n sp
+grebena         g+r g-r+e r-e+b e-b+e b-e+n e-n+a n-a sp
+greska          g+r g-r+e r-e+s e-s+k s-k+a k-a sp
+grmljavina      g+r g-r+m r-m+L m-L+a L-a+v a-v+i v-i+n i-n+a n-a sp
+grmljavine      g+r g-r+m r-m+L m-L+a L-a+v a-v+i v-i+n i-n+e n-e sp
+grmljavinom     g+r g-r+m r-m+L m-L+a L-a+v a-v+i v-i+n i-n+o n-o+m o-m sp
+grmljavinu      g+r g-r+m r-m+L m-L+a L-a+v a-v+i v-i+n i-n+u n-u sp
+h               h sp
+hidrometeorolo{kog h+i h-i+d i-d+r d-r+o r-o+m o-m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+o k-o+g o-g sp
+hidrometeorolo{koga h+i h-i+d i-d+r d-r+o r-o+m o-m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+o k-o+g o-g+a g-a sp
+hladna          h+l h-l+a l-a+d a-d+n d-n+a n-a sp
+hladne          h+l h-l+a l-a+d a-d+n d-n+e n-e sp
+hladnije        h+l h-l+a l-a+d a-d+n d-n+i n-i+j i-j+e j-e sp
+hladno          h+l h-l+a l-a+d a-d+n d-n+o n-o sp
+hladno^a        h+l h-l+a l-a+d a-d+n d-n+o n-o+Cc o-Cc+a Cc-a sp
+hladno^e        h+l h-l+a l-a+d a-d+n d-n+o n-o+Cc o-Cc+e Cc-e sp
+hladno^u        h+l h-l+a l-a+d a-d+n d-n+o n-o+Cc o-Cc+u Cc-u sp
+hladnog         h+l h-l+a l-a+d a-d+n d-n+o n-o+g o-g sp
+hladnoga        h+l h-l+a l-a+d a-d+n d-n+o n-o+g o-g+a g-a sp
+hladnom         h+l h-l+a l-a+d a-d+n d-n+o n-o+m o-m sp
+hrast           h+r h-r+a r-a+s a-s+t s-t sp
+hrasta          h+r h-r+a r-a+s a-s+t s-t+a t-a sp
+hrvatska        h+r h-r+v r-v+a v-a+t a-t+s t-s+k s-k+a k-a sp
+hrvatske        h+r h-r+v r-v+a v-a+t a-t+s t-s+k s-k+e k-e sp
+hrvatskoj       h+r h-r+v r-v+a v-a+t a-t+s t-s+k s-k+o k-o+j o-j sp
+hrvatskom       h+r h-r+v r-v+a v-a+t a-t+s t-s+k s-k+o k-o+m o-m sp
+hrvatskome      h+r h-r+v r-v+a v-a+t a-t+s t-s+k s-k+o k-o+m o-m+e m-e sp
+hrvatsku        h+r h-r+v r-v+a v-a+t a-t+s t-s+k s-k+u k-u sp
+i               i sp
+iako            i+a i-a+k a-k+o k-o sp
+ih              i+h i-h sp
+ili             i+l i-l+i l-i sp
+ilok            i+l i-l+o l-o+k o-k sp
+ima             i+m i-m+a m-a sp
+imaju           i+m i-m+a m-a+j a-j+u j-u sp
+imat            i+m i-m+a m-a+t a-t sp
+imati           i+m i-m+a m-a+t a-t+i t-i sp
+inverzija       i+n i-n+v n-v+e v-e+r e-r+z r-z+i z-i+j i-j+a j-a sp
+ipak            i+p i-p+a p-a+k a-k sp
+iskoristite     i+s i-s+k s-k+o k-o+r o-r+i r-i+s i-s+t s-t+i t-i+t i-t+e t-e sp
+ispod           i+s i-s+p s-p+o p-o+d o-d sp
+ista            i+s i-s+t s-t+a t-a sp
+iste            i+s i-s+t s-t+e t-e sp
+istok           i+s i-s+t s-t+o t-o+k o-k sp
+istoku          i+s i-s+t s-t+o t-o+k o-k+u k-u sp
+isto~ni         i+s i-s+t s-t+o t-o+C o-C+n C-n+i n-i sp
+isto~nim        i+s i-s+t s-t+o t-o+C o-C+n C-n+i n-i+m i-m sp
+isto~njak       i+s i-s+t s-t+o t-o+C o-C+N C-N+a N-a+k a-k sp
+isto~njaka      i+s i-s+t s-t+o t-o+C o-C+N C-N+a N-a+k a-k+a k-a sp
+isto~njakom     i+s i-s+t s-t+o t-o+C o-C+N C-N+a N-a+k a-k+o k-o+m o-m sp
+isto~noeuropske i+s i-s+t s-t+o t-o+C o-C+n C-n+o n-o+e o-e+u e-u+r u-r+o r-o+p o-p+s p-s+k s-k+e k-e sp
+isto~nog        i+s i-s+t s-t+o t-o+C o-C+n C-n+o n-o+g o-g sp
+isto~noj        i+s i-s+t s-t+o t-o+C o-C+n C-n+o n-o+j o-j sp
+isto~nom        i+s i-s+t s-t+o t-o+C o-C+n C-n+o n-o+m o-m sp
+istre           i+s i-s+t s-t+r t-r+e r-e sp
+istri           i+s i-s+t s-t+r t-r+i r-i sp
+italije         i+t i-t+a t-a+l a-l+i l-i+j i-j+e j-e sp
+italiji         i+t i-t+a t-a+l a-l+i l-i+j i-j+i j-i sp
+italijom        i+t i-t+a t-a+l a-l+i l-i+j i-j+o j-o+m o-m sp
+iz              i+z i-z sp
+izbjegavaju     i+z i-z+b z-b+j b-j+e j-e+g e-g+a g-a+v a-v+a v-a+j a-j+u j-u sp
+izbjegavanje    i+z i-z+b z-b+j b-j+e j-e+g e-g+a g-a+v a-v+a v-a+N a-N+e N-e sp
+izbjegavati     i+z i-z+b z-b+j b-j+e j-e+g e-g+a g-a+v a-v+a v-a+t a-t+i t-i sp
+izdi^i          i+z i-z+d z-d+i d-i+Cc i-Cc+i Cc-i sp
+izgledi         i+z i-z+g z-g+l g-l+e l-e+d e-d+i d-i sp
+izgledima       i+z i-z+g z-g+l g-l+e l-e+d e-d+i d-i+m i-m+a m-a sp
+izjedna~enog    i+z i-z+j z-j+e j-e+d e-d+n d-n+a n-a+C a-C+e C-e+n e-n+o n-o+g o-g sp
+izme}u          i+z i-z+m z-m+e m-e+dz e-dz+u dz-u sp
+izmjerenih      i+z i-z+m z-m+j m-j+e j-e+r e-r+e r-e+n e-n+i n-i+h i-h sp
+izmjereno       i+z i-z+m z-m+j m-j+e j-e+r e-r+e r-e+n e-n+o n-o sp
+iznad           i+z i-z+n z-n+a n-a+d a-d sp
+iznadprosje~no  i+z i-z+n z-n+a n-a+d a-d+p d-p+r p-r+o r-o+s o-s+j s-j+e j-e+C e-C+n C-n+o n-o sp
+iznimno         i+z i-z+n z-n+i n-i+m i-m+n m-n+o n-o sp
+izra`en         i+z i-z+r z-r+a r-a+Z a-Z+e Z-e+n e-n sp
+izra`ene        i+z i-z+r z-r+a r-a+Z a-Z+e Z-e+n e-n+e n-e sp
+izuzetno        i+z i-z+u z-u+z u-z+e z-e+t e-t+n t-n+o n-o sp
+izvje{^e        i+z i-z+v z-v+j v-j+e j-e+S e-S+Cc S-Cc+e Cc-e sp
+izvje{taj       i+z i-z+v z-v+j v-j+e j-e+S e-S+t S-t+a t-a+j a-j sp
+j               j sp
+jadran          j+a j-a+d a-d+r d-r+a r-a+n a-n sp
+jadrana         j+a j-a+d a-d+r d-r+a r-a+n a-n+a n-a sp
+jadranom        j+a j-a+d a-d+r d-r+a r-a+n a-n+o n-o+m o-m sp
+jadranu         j+a j-a+d a-d+r d-r+a r-a+n a-n+u n-u sp
+jak             j+a j-a+k a-k sp
+jaka            j+a j-a+k a-k+a k-a sp
+jaki            j+a j-a+k a-k+i k-i sp
+jakim           j+a j-a+k a-k+i k-i+m i-m sp
+jako            j+a j-a+k a-k+o k-o sp
+jakom           j+a j-a+k a-k+o k-o+m o-m sp
+jaku            j+a j-a+k a-k+u k-u sp
+jasenovac       j+a j-a+s a-s+e s-e+n e-n+o n-o+v o-v+a v-a+c a-c sp
+javno           j+a j-a+v a-v+n v-n+o n-o sp
+ja~a            j+a j-a+C a-C+a C-a sp
+ja~anje         j+a j-a+C a-C+a C-a+N a-N+e N-e sp
+ja~anju         j+a j-a+C a-C+a C-a+N a-N+u N-u sp
+ja~ati          j+a j-a+C a-C+a C-a+t a-t+i t-i sp
+ja~e            j+a j-a+C a-C+e C-e sp
+ja~i            j+a j-a+C a-C+i C-i sp
+ja~u            j+a j-a+C a-C+u C-u sp
+je              j+e j-e sp
+jedan           j+e j-e+d e-d+a d-a+n a-n sp
+jedanaeset      j+e j-e+d e-d+a d-a+n a-n+a n-a+e a-e+s e-s+e s-e+t e-t sp
+jedanaest       j+e j-e+d e-d+a d-a+n a-n+a n-a+e a-e+s e-s+t s-t sp
+jedino          j+e j-e+d e-d+i d-i+n i-n+o n-o sp
+jedna           j+e j-e+d e-d+n d-n+a n-a sp
+jednog          j+e j-e+d e-d+n d-n+o n-o+g o-g sp
+jednoga         j+e j-e+d e-d+n d-n+o n-o+g o-g+a g-a sp
+jonskim         j+o j-o+n o-n+s n-s+k s-k+i k-i+m i-m sp
+jonsko          j+o j-o+n o-n+s n-s+k s-k+o k-o sp
+jonskog         j+o j-o+n o-n+s n-s+k s-k+o k-o+g o-g sp
+jonskom         j+o j-o+n o-n+s n-s+k s-k+o k-o+m o-m sp
+jonskome        j+o j-o+n o-n+s n-s+k s-k+o k-o+m o-m+e m-e sp
+jo{             j+o j-o+S o-S sp
+ju`ne           j+u j-u+Z u-Z+n Z-n+e n-e sp
+ju`ni           j+u j-u+Z u-Z+n Z-n+i n-i sp
+ju`nim          j+u j-u+Z u-Z+n Z-n+i n-i+m i-m sp
+ju`no           j+u j-u+Z u-Z+n Z-n+o n-o sp
+ju`nog          j+u j-u+Z u-Z+n Z-n+o n-o+g o-g sp
+ju`noga         j+u j-u+Z u-Z+n Z-n+o n-o+g o-g+a g-a sp
+ju`noj          j+u j-u+Z u-Z+n Z-n+o n-o+j o-j sp
+ju`nom          j+u j-u+Z u-Z+n Z-n+o n-o+m o-m sp
+ju`nome         j+u j-u+Z u-Z+n Z-n+o n-o+m o-m+e m-e sp
+jug             j+u j-u+g u-g sp
+juga            j+u j-u+g u-g+a g-a sp
+jugo            j+u j-u+g u-g+o g-o sp
+jugoistok       j+u j-u+g u-g+o g-o+i o-i+s i-s+t s-t+o t-o+k o-k sp
+jugoistoka      j+u j-u+g u-g+o g-o+i o-i+s i-s+t s-t+o t-o+k o-k+a k-a sp
+jugoisto~ni     j+u j-u+g u-g+o g-o+i o-i+s i-s+t s-t+o t-o+C o-C+n C-n+i n-i sp
+jugoisto~njak   j+u j-u+g u-g+o g-o+i o-i+s i-s+t s-t+o t-o+C o-C+N C-N+a N-a+k a-k sp
+jugom           j+u j-u+g u-g+o g-o+m o-m sp
+jugozapada      j+u j-u+g u-g+o g-o+z o-z+a z-a+p a-p+a p-a+d a-d+a d-a sp
+jugozapadak     j+u j-u+g u-g+o g-o+z o-z+a z-a+p a-p+a p-a+d a-d+a d-a+k a-k sp
+jugozapadni     j+u j-u+g u-g+o g-o+z o-z+a z-a+p a-p+a p-a+d a-d+n d-n+i n-i sp
+jugozapadnjak   j+u j-u+g u-g+o g-o+z o-z+a z-a+p a-p+a p-a+d a-d+N d-N+a N-a+k a-k sp
+jugozapadnog    j+u j-u+g u-g+o g-o+z o-z+a z-a+p a-p+a p-a+d a-d+n d-n+o n-o+g o-g sp
+jugu            j+u j-u+g u-g+u g-u sp
+juri            j+u j-u+r u-r+i r-i sp
+jutarnja        j+u j-u+t u-t+a t-a+r a-r+N r-N+a N-a sp
+jutarnje        j+u j-u+t u-t+a t-a+r a-r+N r-N+e N-e sp
+jutarnjih       j+u j-u+t u-t+a t-a+r a-r+N r-N+i N-i+h i-h sp
+jutarnju        j+u j-u+t u-t+a t-a+r a-r+N r-N+u N-u sp
+jutra           j+u j-u+t u-t+r t-r+a r-a sp
+jutro           j+u j-u+t u-t+r t-r+o r-o sp
+jutros          j+u j-u+t u-t+r t-r+o r-o+s o-s sp
+k               k sp
+kada            k+a k-a+d a-d+a d-a sp
+kakvo           k+a k-a+k a-k+v k-v+o v-o sp
+kalin           k+a k-a+l a-l+i l-i+n i-n sp
+kanalu          k+a k-a+n a-n+a n-a+l a-l+u l-u sp
+kao             k+a k-a+o a-o sp
+karlovac        k+a k-a+r a-r+l r-l+o l-o+v o-v+a v-a+c a-c sp
+karlova~koj     k+a k-a+r a-r+l r-l+o l-o+v o-v+a v-a+C a-C+k C-k+o k-o+j o-j sp
+karlovcu        k+a k-a+r a-r+l r-l+o l-o+v o-v+c v-c+u c-u sp
+kasno           k+a k-a+s a-s+n s-n+o n-o sp
+kesten          k+e k-e+s e-s+t s-t+e t-e+n e-n sp
+kestena         k+e k-e+s e-s+t s-t+e t-e+n e-n+a n-a sp
+kidanja         k+i k-i+d i-d+a d-a+N a-N+a N-a sp
+kidanje         k+i k-i+d i-d+a d-a+N a-N+e N-e sp
+kilometara      k+i k-i+l i-l+o l-o+m o-m+e m-e+t e-t+a t-a+r a-r+a r-a sp
+kilometra       k+i k-i+l i-l+o l-o+m o-m+e m-e+t e-t+r t-r+a r-a sp
+ki{a            k+i k-i+S i-S+a S-a sp
+ki{e            k+i k-i+S i-S+e S-e sp
+ki{om           k+i k-i+S i-S+o S-o+m o-m sp
+ki{ovito        k+i k-i+S i-S+o S-o+v o-v+i v-i+t i-t+o t-o sp
+ki{u            k+i k-i+S i-S+u S-u sp
+klini~ki        k+l k-l+i l-i+n i-n+i n-i+C i-C+k C-k+i k-i sp
+kod             k+o k-o+d o-d sp
+koja            k+o k-o+j o-j+a j-a sp
+koje            k+o k-o+j o-j+e j-e sp
+kojeg           k+o k-o+j o-j+e j-e+g e-g sp
+kojega          k+o k-o+j o-j+e j-e+g e-g+a g-a sp
+koji            k+o k-o+j o-j+i j-i sp
+kojim           k+o k-o+j o-j+i j-i+m i-m sp
+kojoj           k+o k-o+j o-j+o j-o+j o-j sp
+koli~ina        k+o k-o+l o-l+i l-i+C i-C+i C-i+n i-n+a n-a sp
+koncentracija   k+o k-o+n o-n+c n-c+e c-e+n e-n+t n-t+r t-r+a r-a+c a-c+i c-i+j i-j+a j-a sp
+koncentracije   k+o k-o+n o-n+c n-c+e c-e+n e-n+t n-t+r t-r+a r-a+c a-c+i c-i+j i-j+e j-e sp
+koncentraciji   k+o k-o+n o-n+c n-c+e c-e+n e-n+t n-t+r t-r+a r-a+c a-c+i c-i+j i-j+i j-i sp
+koncentracijom  k+o k-o+n o-n+c n-c+e c-e+n e-n+t n-t+r t-r+a r-a+c a-c+i c-i+j i-j+o j-o+m o-m sp
+koncentraciju   k+o k-o+n o-n+c n-c+e c-e+n e-n+t n-t+r t-r+a r-a+c a-c+i c-i+j i-j+u j-u sp
+kopna           k+o k-o+p o-p+n p-n+a n-a sp
+kopnenim        k+o k-o+p o-p+n p-n+e n-e+n e-n+i n-i+m i-m sp
+kopnenom        k+o k-o+p o-p+n p-n+e n-e+n e-n+o n-o+m o-m sp
+kopnenome       k+o k-o+p o-p+n p-n+e n-e+n e-n+o n-o+m o-m+e m-e sp
+kopnom          k+o k-o+p o-p+n p-n+o n-o+m o-m sp
+kornata         k+o k-o+r o-r+n r-n+a n-a+t a-t+a t-a sp
+kornati         k+o k-o+r o-r+n r-n+a n-a+t a-t+i t-i sp
+korova          k+o k-o+r o-r+o r-o+v o-v+a v-a sp
+kostajnica      k+o k-o+s o-s+t s-t+a t-a+j a-j+n j-n+i n-i+c i-c+a c-a sp
+kotar           k+o k-o+t o-t+a t-a+r a-r sp
+kotara          k+o k-o+t o-t+a t-a+r a-r+a r-a sp
+kotaru          k+o k-o+t o-t+a t-a+r a-r+u r-u sp
+kotlinama       k+o k-o+t o-t+l t-l+i l-i+n i-n+a n-a+m a-m+a m-a sp
+kra^a           k+r k-r+a r-a+Cc a-Cc+a Cc-a sp
+kra^ih          k+r k-r+a r-a+Cc a-Cc+i Cc-i+h i-h sp
+kra^im          k+r k-r+a r-a+Cc a-Cc+i Cc-i+m i-m sp
+kraja           k+r k-r+a r-a+j a-j+a j-a sp
+krajem          k+r k-r+a r-a+j a-j+e j-e+m e-m sp
+krajeva         k+r k-r+a r-a+j a-j+e j-e+v e-v+a v-a sp
+krajevima       k+r k-r+a r-a+j a-j+e j-e+v e-v+i v-i+m i-m+a m-a sp
+krajnjeg        k+r k-r+a r-a+j a-j+N j-N+e N-e+g e-g sp
+krajnjem        k+r k-r+a r-a+j a-j+N j-N+e N-e+m e-m sp
+kraju           k+r k-r+a r-a+j a-j+u j-u sp
+kratka          k+r k-r+a r-a+t a-t+k t-k+a k-a sp
+kratki          k+r k-r+a r-a+t a-t+k t-k+i k-i sp
+kratkotrajan    k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+a j-a+n a-n sp
+kratkotrajna    k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+n j-n+a n-a sp
+kratkotrajne    k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+n j-n+e n-e sp
+kratkotrajni    k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+n j-n+i n-i sp
+kratkotrajnih   k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+n j-n+i n-i+h i-h sp
+kratkotrajnim   k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+n j-n+i n-i+m i-m sp
+kratkotrajno    k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+n j-n+o n-o sp
+kratkotrajnog   k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+n j-n+o n-o+g o-g sp
+kratkotrajnom   k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+n j-n+o n-o+m o-m sp
+kratkotrajnu    k+r k-r+a r-a+t a-t+k t-k+o k-o+t o-t+r t-r+a r-a+j a-j+n j-n+u n-u sp
+kre^e           k+r k-r+e r-e+Cc e-Cc+e Cc-e sp
+kre^u           k+r k-r+e r-e+Cc e-Cc+u Cc-u sp
+kred            k+r k-r+e r-e+d e-d sp
+kroni~ne        k+r k-r+o r-o+n o-n+i n-i+C i-C+n C-n+e n-e sp
+kroni~ni        k+r k-r+o r-o+n o-n+i n-i+C i-C+n C-n+i n-i sp
+kroni~nih       k+r k-r+o r-o+n o-n+i n-i+C i-C+n C-n+i n-i+h i-h sp
+kroni~nim       k+r k-r+o r-o+n o-n+i n-i+C i-C+n C-n+i n-i+m i-m sp
+kroz            k+r k-r+o r-o+z o-z sp
+kru`i           k+r k-r+u r-u+Z u-Z+i Z-i sp
+krvo`ilnim      k+r k-r+v r-v+o v-o+Z o-Z+i Z-i+l i-l+n l-n+i n-i+m i-m sp
+kupa            k+u k-u+p u-p+a p-a sp
+kvarneru        k+v k-v+a v-a+r a-r+n r-n+e n-e+r e-r+u r-u sp
+l               l sp
+lak{e           l+a l-a+k a-k+S k-S+e S-e sp
+lebi^           l+e l-e+b e-b+i b-i+Cc i-Cc sp
+ledi            l+e l-e+d e-d+i d-i sp
+lediti          l+e l-e+d e-d+i d-i+t i-t+i t-i sp
+levant          l+e l-e+v e-v+a v-a+n a-n+t n-t sp
+levanta         l+e l-e+v e-v+a v-a+n a-n+t n-t+a t-a sp
+lici            l+i l-i+c i-c+i c-i sp
+ligurskim       l+i l-i+g i-g+u g-u+r u-r+s r-s+k s-k+i k-i+m i-m sp
+ligurskog       l+i l-i+g i-g+u g-u+r u-r+s r-s+k s-k+o k-o+g o-g sp
+ligurskoga      l+i l-i+g i-g+u g-u+r u-r+s r-s+k s-k+o k-o+g o-g+a g-a sp
+ligurskom       l+i l-i+g i-g+u g-u+r u-r+s r-s+k s-k+o k-o+m o-m sp
+ligurskome      l+i l-i+g i-g+u g-u+r u-r+s r-s+k s-k+o k-o+m o-m+e m-e sp
+lijepo          l+i l-i+j i-j+e j-e+p e-p+o p-o sp
+like            l+i l-i+k i-k+e k-e sp
+liku            l+i l-i+k i-k+u k-u sp
+lipnja          l+i l-i+p i-p+N p-N+a N-a sp
+ljude           L+u L-u+d u-d+e d-e sp
+ljudi           L+u L-u+d u-d+i d-i sp
+ljudima         L+u L-u+d u-d+i d-i+m i-m+a m-a sp
+lokalne         l+o l-o+k o-k+a k-a+l a-l+n l-n+e n-e sp
+lokalni         l+o l-o+k o-k+a k-a+l a-l+n l-n+i n-i sp
+lokalnih        l+o l-o+k o-k+a k-a+l a-l+n l-n+i n-i+h i-h sp
+lokalnim        l+o l-o+k o-k+a k-a+l a-l+n l-n+i n-i+m i-m sp
+lovro           l+o l-o+v o-v+r v-r+o r-o sp
+lo{a            l+o l-o+S o-S+a S-a sp
+lo{e            l+o l-o+S o-S+e S-e sp
+lo{ije          l+o l-o+S o-S+i S-i+j i-j+e j-e sp
+lo{ijeg         l+o l-o+S o-S+i S-i+j i-j+e j-e+g e-g sp
+lo{iju          l+o l-o+S o-S+i S-i+j i-j+u j-u sp
+m               m sp
+maestral        m+a m-a+e a-e+s e-s+t s-t+r t-r+a r-a+l a-l sp
+magla           m+a m-a+g a-g+l g-l+a l-a sp
+magle           m+a m-a+g a-g+l g-l+e l-e sp
+magli           m+a m-a+g a-g+l g-l+i l-i sp
+maglom          m+a m-a+g a-g+l g-l+o l-o+m o-m sp
+maglovita       m+a m-a+g a-g+l g-l+o l-o+v o-v+i v-i+t i-t+a t-a sp
+maglovito       m+a m-a+g a-g+l g-l+o l-o+v o-v+i v-i+t i-t+o t-o sp
+maglovitog      m+a m-a+g a-g+l g-l+o l-o+v o-v+i v-i+t i-t+o t-o+g o-g sp
+maglu           m+a m-a+g a-g+l g-l+u l-u sp
+mahovi^         m+a m-a+h a-h+o h-o+v o-v+i v-i+Cc i-Cc sp
+mahovli^        m+a m-a+h a-h+o h-o+v o-v+l v-l+i l-i+Cc i-Cc sp
+makarskog       m+a m-a+k a-k+a k-a+r a-r+s r-s+k s-k+o k-o+g o-g sp
+makarskoj       m+a m-a+k a-k+a k-a+r a-r+s r-s+k s-k+o k-o+j o-j sp
+mala            m+a m-a+l a-l+a l-a sp
+malo            m+a m-a+l a-l+o l-o sp
+malom           m+a m-a+l a-l+o l-o+m o-m sp
+malu            m+a m-a+l a-l+u l-u sp
+manja           m+a m-a+N a-N+a N-a sp
+manje           m+a m-a+N a-N+e N-e sp
+manjom          m+a m-a+N a-N+o N-o+m o-m sp
+manju           m+a m-a+N a-N+u N-u sp
+marija          m+a m-a+r a-r+i r-i+j i-j+a j-a sp
+meteorolo{ke    m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+e k-e sp
+meteorolo{kog   m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+o k-o+g o-g sp
+meteorolo{koga  m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+l o-l+o l-o+S o-S+k S-k+o k-o+g o-g+a g-a sp
+meteoropata     m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+p o-p+a p-a+t a-t+a t-a sp
+meteoropate     m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+p o-p+a p-a+t a-t+e t-e sp
+meteoropati     m+e m-e+t e-t+e t-e+o e-o+r o-r+o r-o+p o-p+a p-a+t a-t+i t-i sp
+metkovi^        m+e m-e+t e-t+k t-k+o k-o+v o-v+i v-i+Cc i-Cc sp
+me}imurju       m+e m-e+dz e-dz+i dz-i+m i-m+u m-u+r u-r+j r-j+u j-u sp
+miholjac        m+i m-i+h i-h+o h-o+L o-L+a L-a+c a-c sp
+mijenja         m+i m-i+j i-j+e j-e+N e-N+a N-a sp
+mijenjati       m+i m-i+j i-j+e j-e+N e-N+a N-a+t a-t+i t-i sp
+minimalna       m+i m-i+n i-n+i n-i+m i-m+a m-a+l a-l+n l-n+a n-a sp
+minus           m+i m-i+n i-n+u n-u+s u-s sp
+minuti          m+i m-i+n i-n+u n-u+t u-t+i t-i sp
+mirna           m+i m-i+r i-r+n r-n+a n-a sp
+mirno           m+i m-i+r i-r+n r-n+o n-o sp
+mirnog          m+i m-i+r i-r+n r-n+o n-o+g o-g sp
+mirnoga         m+i m-i+r i-r+n r-n+o n-o+g o-g+a g-a sp
+mjesta          m+j m-j+e j-e+s e-s+t s-t+a t-a sp
+mjestima        m+j m-j+e j-e+s e-s+t s-t+i t-i+m i-m+a m-a sp
+mjestimice      m+j m-j+e j-e+s e-s+t s-t+i t-i+m i-m+i m-i+c i-c+e c-e sp
+mjestimi~na     m+j m-j+e j-e+s e-s+t s-t+i t-i+m i-m+i m-i+C i-C+n C-n+a n-a sp
+mjestimi~ni     m+j m-j+e j-e+s e-s+t s-t+i t-i+m i-m+i m-i+C i-C+n C-n+i n-i sp
+mjestimi~nim    m+j m-j+e j-e+s e-s+t s-t+i t-i+m i-m+i m-i+C i-C+n C-n+i n-i+m i-m sp
+mjestimi~nom    m+j m-j+e j-e+s e-s+t s-t+i t-i+m i-m+i m-i+C i-C+n C-n+o n-o+m o-m sp
+mjestimi~nu     m+j m-j+e j-e+s e-s+t s-t+i t-i+m i-m+i m-i+C i-C+n C-n+u n-u sp
+mnogi           m+n m-n+o n-o+g o-g+i g-i sp
+mo`e            m+o m-o+Z o-Z+e Z-e sp
+mogla           m+o m-o+g o-g+l g-l+a l-a sp
+mogle           m+o m-o+g o-g+l g-l+e l-e sp
+mogli           m+o m-o+g o-g+l g-l+i l-i sp
+moglo           m+o m-o+g o-g+l g-l+o l-o sp
+mogu            m+o m-o+g o-g+u g-u sp
+mogu^           m+o m-o+g o-g+u g-u+Cc u-Cc sp
+mogu^a          m+o m-o+g o-g+u g-u+Cc u-Cc+a Cc-a sp
+mogu^e          m+o m-o+g o-g+u g-u+Cc u-Cc+e Cc-e sp
+mogu^i          m+o m-o+g o-g+u g-u+Cc u-Cc+i Cc-i sp
+mogu^nost       m+o m-o+g o-g+u g-u+Cc u-Cc+n Cc-n+o n-o+s o-s+t s-t sp
+mogu^no{^u      m+o m-o+g o-g+u g-u+Cc u-Cc+n Cc-n+o n-o+S o-S+Cc S-Cc+u Cc-u sp
+mohori^         m+o m-o+h o-h+o h-o+r o-r+i r-i+Cc i-Cc sp
+mokori^         m+o m-o+k o-k+o k-o+r o-r+i r-i+Cc i-Cc sp
+mora            m+o m-o+r o-r+a r-a sp
+moramo          m+o m-o+r o-r+a r-a+m a-m+o m-o sp
+more            m+o m-o+r o-r+e r-e sp
+morem           m+o m-o+r o-r+e r-e+m e-m sp
+moru            m+o m-o+r o-r+u r-u sp
+mraz            m+r m-r+a r-a+z a-z sp
+mu              m+u m-u sp
+mu~iti          m+u m-u+C u-C+i C-i+t i-t+i t-i sp
+n               n sp
+na              n+a n-a sp
+nad             n+a n-a+d a-d sp
+nadalje         n+a n-a+d a-d+a d-a+L a-L+e L-e sp
+naime           n+a n-a+i a-i+m i-m+e m-e sp
+najisto~nijim   n+a n-a+j a-j+i j-i+s i-s+t s-t+o t-o+C o-C+n C-n+i n-i+j i-j+i j-i+m i-m sp
+najkasnije      n+a n-a+j a-j+k j-k+a k-a+s a-s+n s-n+i n-i+j i-j+e j-e sp
+najmanje        n+a n-a+j a-j+m j-m+a m-a+N a-N+e N-e sp
+najni`a         n+a n-a+j a-j+n j-n+i n-i+Z i-Z+a Z-a sp
+najni`e         n+a n-a+j a-j+n j-n+i n-i+Z i-Z+e Z-e sp
+najni`u         n+a n-a+j a-j+n j-n+i n-i+Z i-Z+u Z-u sp
+najobla~nije    n+a n-a+j a-j+o j-o+b o-b+l b-l+a l-a+C a-C+n C-n+i n-i+j i-j+e j-e sp
+najosjetljiviji n+a n-a+j a-j+o j-o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+i v-i+j i-j+i j-i sp
+najprije        n+a n-a+j a-j+p j-p+r p-r+i r-i+j i-j+e j-e sp
+najsjevernijim  n+a n-a+j a-j+s j-s+j s-j+e j-e+v e-v+e v-e+r e-r+n r-n+i n-i+j i-j+i j-i+m i-m sp
+najsun~anije    n+a n-a+j a-j+s j-s+u s-u+n u-n+C n-C+a C-a+n a-n+i n-i+j i-j+e j-e sp
+najve^a         n+a n-a+j a-j+v j-v+e v-e+Cc e-Cc+a Cc-a sp
+najvi{a         n+a n-a+j a-j+v j-v+i v-i+S i-S+a S-a sp
+najvi{e         n+a n-a+j a-j+v j-v+i v-i+S i-S+e S-e sp
+najvi{em        n+a n-a+j a-j+v j-v+i v-i+S i-S+e S-e+m e-m sp
+najvi{om        n+a n-a+j a-j+v j-v+i v-i+S i-S+o S-o+m o-m sp
+najvi{u         n+a n-a+j a-j+v j-v+i v-i+S i-S+u S-u sp
+najzapadnijim   n+a n-a+j a-j+z j-z+a z-a+p a-p+a p-a+d a-d+n d-n+i n-i+j i-j+i j-i+m i-m sp
+nakon           n+a n-a+k a-k+o k-o+n o-n sp
+nam             n+a n-a+m a-m sp
+naoblaka        n+a n-a+o a-o+b o-b+l b-l+a l-a+k a-k+a k-a sp
+naoblake        n+a n-a+o a-o+b o-b+l b-l+a l-a+k a-k+e k-e sp
+naoblakom       n+a n-a+o a-o+b o-b+l b-l+a l-a+k a-k+o k-o+m o-m sp
+naoblaku        n+a n-a+o a-o+b o-b+l b-l+a l-a+k a-k+u k-u sp
+naobla~enje     n+a n-a+o a-o+b o-b+l b-l+a l-a+C a-C+e C-e+N e-N+e N-e sp
+naobla~it       n+a n-a+o a-o+b o-b+l b-l+a l-a+C a-C+i C-i+t i-t sp
+naobla~iti      n+a n-a+o a-o+b o-b+l b-l+a l-a+C a-C+i C-i+t i-t+i t-i sp
+napora          n+a n-a+p a-p+o p-o+r o-r+a r-a sp
+napore          n+a n-a+p a-p+o p-o+r o-r+e r-e sp
+nas             n+a n-a+s a-s sp
+nastavku        n+a n-a+s a-s+t s-t+a t-a+v a-v+k v-k+u k-u sp
+nastavlja       n+a n-a+s a-s+t s-t+a t-a+v a-v+L v-L+a L-a sp
+nata{a          n+a n-a+t a-t+a t-a+S a-S+a S-a sp
+nave~er         n+a n-a+v a-v+e v-e+C e-C+e C-e+r e-r sp
+na{e            n+a n-a+S a-S+e S-e sp
+na{ih           n+a n-a+S a-S+i S-i+h i-h sp
+ne              n+e n-e sp
+ne^e            n+e n-e+Cc e-Cc+e Cc-e sp
+nedjelje        n+e n-e+d e-d+j d-j+e j-e+L e-L+e L-e sp
+nedjelju        n+e n-e+d e-d+j d-j+e j-e+L e-L+u L-u sp
+nego            n+e n-e+g e-g+o g-o sp
+neka            n+e n-e+k e-k+a k-a sp
+neki            n+e n-e+k e-k+i k-i sp
+nekim           n+e n-e+k e-k+i k-i+m i-m sp
+nekoliko        n+e n-e+k e-k+o k-o+l o-l+i l-i+k i-k+o k-o sp
+nema            n+e n-e+m e-m+a m-a sp
+nepogodne       n+e n-e+p e-p+o p-o+g o-g+o g-o+d o-d+n d-n+e n-e sp
+nepogodni       n+e n-e+p e-p+o p-o+g o-g+o g-o+d o-d+n d-n+i n-i sp
+nepogodno       n+e n-e+p e-p+o p-o+g o-g+o g-o+d o-d+n d-n+o n-o sp
+nepovoljan      n+e n-e+p e-p+o p-o+v o-v+o v-o+L o-L+a L-a+n a-n sp
+nepovoljna      n+e n-e+p e-p+o p-o+v o-v+o v-o+L o-L+n L-n+a n-a sp
+nepovoljne      n+e n-e+p e-p+o p-o+v o-v+o v-o+L o-L+n L-n+e n-e sp
+nepovoljni      n+e n-e+p e-p+o p-o+v o-v+o v-o+L o-L+n L-n+i n-i sp
+nepovoljnih     n+e n-e+p e-p+o p-o+v o-v+o v-o+L o-L+n L-n+i n-i+h i-h sp
+nepovoljniji    n+e n-e+p e-p+o p-o+v o-v+o v-o+L o-L+n L-n+i n-i+j i-j+i j-i sp
+nepovoljnijih   n+e n-e+p e-p+o p-o+v o-v+o v-o+L o-L+n L-n+i n-i+j i-j+i j-i+h i-h sp
+nepovoljno      n+e n-e+p e-p+o p-o+v o-v+o v-o+L o-L+n L-n+o n-o sp
+nepovoljnog     n+e n-e+p e-p+o p-o+v o-v+o v-o+L o-L+n L-n+o n-o+g o-g sp
+neretva         n+e n-e+r e-r+e r-e+t e-t+v t-v+a v-a sp
+nervozu         n+e n-e+r e-r+v r-v+o v-o+z o-z+u z-u sp
+nesanica        n+e n-e+s e-s+a s-a+n a-n+i n-i+c i-c+a c-a sp
+nesanice        n+e n-e+s e-s+a s-a+n a-n+i n-i+c i-c+e c-e sp
+nesre^e         n+e n-e+s e-s+r s-r+e r-e+Cc e-Cc+e Cc-e sp
+nestabilan      n+e n-e+s e-s+t s-t+a t-a+b a-b+i b-i+l i-l+a l-a+n a-n sp
+nestabilna      n+e n-e+s e-s+t s-t+a t-a+b a-b+i b-i+l i-l+n l-n+a n-a sp
+nestabilni      n+e n-e+s e-s+t s-t+a t-a+b a-b+i b-i+l i-l+n l-n+i n-i sp
+nestabilno      n+e n-e+s e-s+t s-t+a t-a+b a-b+i b-i+l i-l+n l-n+o n-o sp
+nestabilnog     n+e n-e+s e-s+t s-t+a t-a+b a-b+i b-i+l i-l+n l-n+o n-o+g o-g sp
+nestabilnosti   n+e n-e+s e-s+t s-t+a t-a+b a-b+i b-i+l i-l+n l-n+o n-o+s o-s+t s-t+i t-i sp
+nevere          n+e n-e+v e-v+e v-e+r e-r+e r-e sp
+neverin         n+e n-e+v e-v+e v-e+r e-r+i r-i+n i-n sp
+neverina        n+e n-e+v e-v+e v-e+r e-r+i r-i+n i-n+a n-a sp
+neverini        n+e n-e+v e-v+e v-e+r e-r+i r-i+n i-n+i n-i sp
+nevrijeme       n+e n-e+v e-v+r v-r+i r-i+j i-j+e j-e+m e-m+e m-e sp
+neznatne        n+e n-e+z e-z+n z-n+a n-a+t a-t+n t-n+e n-e sp
+neznatno        n+e n-e+z e-z+n z-n+a n-a+t a-t+n t-n+o n-o sp
+ne{to           n+e n-e+S e-S+t S-t+o t-o sp
+ni              n+i n-i sp
+ni`a            n+i n-i+Z i-Z+a Z-a sp
+ni`e            n+i n-i+Z i-Z+e Z-e sp
+ni`im           n+i n-i+Z i-Z+i Z-i+m i-m sp
+niska           n+i n-i+s i-s+k s-k+a k-a sp
+niske           n+i n-i+s i-s+k s-k+e k-e sp
+niski           n+i n-i+s i-s+k s-k+i k-i sp
+niskih          n+i n-i+s i-s+k s-k+i k-i+h i-h sp
+niskim          n+i n-i+s i-s+k s-k+i k-i+m i-m sp
+nismo           n+i n-i+s i-s+m s-m+o m-o sp
+nizinam         n+i n-i+z i-z+i z-i+n i-n+a n-a+m a-m sp
+nizinama        n+i n-i+z i-z+i z-i+n i-n+a n-a+m a-m+a m-a sp
+ni{tice         n+i n-i+S i-S+t S-t+i t-i+c i-c+e c-e sp
+ni{ticu         n+i n-i+S i-S+t S-t+i t-i+c i-c+u c-u sp
+njegov          N+e N-e+g e-g+o g-o+v o-v sp
+njegovom        N+e N-e+g e-g+o g-o+v o-v+o v-o+m o-m sp
+njegovu         N+e N-e+g e-g+o g-o+v o-v+u v-u sp
+no              n+o n-o sp
+no^             n+o n-o+Cc o-Cc sp
+no^as           n+o n-o+Cc o-Cc+a Cc-a+s a-s sp
+no^i            n+o n-o+Cc o-Cc+i Cc-i sp
+no^na           n+o n-o+Cc o-Cc+n Cc-n+a n-a sp
+no^u            n+o n-o+Cc o-Cc+u Cc-u sp
+nova            n+o n-o+v o-v+a v-a sp
+novo            n+o n-o+v o-v+o v-o sp
+novogodi{njoj   n+o n-o+v o-v+o v-o+g o-g+o g-o+d o-d+i d-i+S i-S+N S-N+o N-o+j o-j sp
+no{en           n+o n-o+S o-S+e S-e+n e-n sp
+nula            n+u n-u+l u-l+a l-a sp
+nule            n+u n-u+l u-l+e l-e sp
+o               o sp
+o`ujka          o+Z o-Z+u Z-u+j u-j+k j-k+a k-a sp
+obale           o+b o-b+a b-a+l a-l+e l-e sp
+obali           o+b o-b+a b-a+l a-l+i l-i sp
+obalnom         o+b o-b+a b-a+l a-l+n l-n+o n-o+m o-m sp
+obalu           o+b o-b+a b-a+l a-l+u l-u sp
+obilnije        o+b o-b+i b-i+l i-l+n l-n+i n-i+j i-j+e j-e sp
+obilnijim       o+b o-b+i b-i+l i-l+n l-n+i n-i+j i-j+i j-i+m i-m sp
+oblaci          o+b o-b+l b-l+a l-a+c a-c+i c-i sp
+oblacima        o+b o-b+l b-l+a l-a+c a-c+i c-i+m i-m+a m-a sp
+oblaka          o+b o-b+l b-l+a l-a+k a-k+a k-a sp
+oblake          o+b o-b+l b-l+a l-a+k a-k+e k-e sp
+obla~ni         o+b o-b+l b-l+a l-a+C a-C+n C-n+i n-i sp
+obla~nije       o+b o-b+l b-l+a l-a+C a-C+n C-n+i n-i+j i-j+e j-e sp
+obla~no         o+b o-b+l b-l+a l-a+C a-C+n C-n+o n-o sp
+oborina         o+b o-b+o b-o+r o-r+i r-i+n i-n+a n-a sp
+oborinama       o+b o-b+o b-o+r o-r+i r-i+n i-n+a n-a+m a-m+a m-a sp
+oborine         o+b o-b+o b-o+r o-r+i r-i+n i-n+e n-e sp
+oborinom        o+b o-b+o b-o+r o-r+i r-i+n i-n+o n-o+m o-m sp
+obrnuto         o+b o-b+r b-r+n r-n+u n-u+t u-t+o t-o sp
+od              o+d o-d sp
+odakle          o+d o-d+a d-a+k a-k+l k-l+e l-e sp
+odgovaraju^a    o+d o-d+g d-g+o g-o+v o-v+a v-a+r a-r+a r-a+j a-j+u j-u+Cc u-Cc+a Cc-a sp
+odgovaraju^e    o+d o-d+g d-g+o g-o+v o-v+a v-a+r a-r+a r-a+j a-j+u j-u+Cc u-Cc+e Cc-e sp
+odgovaraju^u    o+d o-d+g d-g+o g-o+v o-v+a v-a+r a-r+a r-a+j a-j+u j-u+Cc u-Cc+u Cc-u sp
+odje^a          o+d o-d+j d-j+e j-e+Cc e-Cc+a Cc-a sp
+odjenuti        o+d o-d+j d-j+e j-e+n e-n+u n-u+t u-t+i t-i sp
+odmicanja       o+d o-d+m d-m+i m-i+c i-c+a c-a+N a-N+a N-a sp
+odmi~e          o+d o-d+m d-m+i m-i+C i-C+e C-e sp
+odnosu          o+d o-d+n d-n+o n-o+s o-s+u s-u sp
+oja~alo         o+j o-j+a j-a+C a-C+a C-a+l a-l+o l-o sp
+oja~ao          o+j o-j+a j-a+C a-C+a C-a+o a-o sp
+oja~ati         o+j o-j+a j-a+C a-C+a C-a+t a-t+i t-i sp
+oja~ava         o+j o-j+a j-a+C a-C+a C-a+v a-v+a v-a sp
+oko             o+k o-k+o k-o sp
+okrenut         o+k o-k+r k-r+e r-e+n e-n+u n-u+t u-t sp
+okrenuti        o+k o-k+r k-r+e r-e+n e-n+u n-u+t u-t+i t-i sp
+okretanju       o+k o-k+r k-r+e r-e+t e-t+a t-a+N a-N+u N-u sp
+okretati        o+k o-k+r k-r+e r-e+t e-t+a t-a+t a-t+i t-i sp
+olujan          o+l o-l+u l-u+j u-j+a j-a+n a-n sp
+olujna          o+l o-l+u l-u+j u-j+n j-n+a n-a sp
+olujne          o+l o-l+u l-u+j u-j+n j-n+e n-e sp
+olujnim         o+l o-l+u l-u+j u-j+n j-n+i n-i+m i-m sp
+olujno          o+l o-l+u l-u+j u-j+n j-n+o n-o sp
+olujnom         o+l o-l+u l-u+j u-j+n j-n+o n-o+m o-m sp
+olujnu          o+l o-l+u l-u+j u-j+n j-n+u n-u sp
+one             o+n o-n+e n-e sp
+oni             o+n o-n+i n-i sp
+op^eg           o+p o-p+Cc p-Cc+e Cc-e+g e-g sp
+oprostite       o+p o-p+r p-r+o r-o+s o-s+t s-t+i t-i+t i-t+e t-e sp
+oraha           o+r o-r+a r-a+h a-h+a h-a sp
+orkanska        o+r o-r+k r-k+a k-a+n a-n+s n-s+k s-k+a k-a sp
+orkanskim       o+r o-r+k r-k+a k-a+n a-n+s n-s+k s-k+i k-i+m i-m sp
+osam            o+s o-s+a s-a+m a-m sp
+osamdeset       o+s o-s+a s-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t sp
+osamdesetijedan o+s o-s+a s-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t+i t-i+j i-j+e j-e+d e-d+a d-a+n a-n sp
+osamdesetisedam o+s o-s+a s-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t+i t-i+s i-s+e s-e+d e-d+a d-a+m a-m sp
+osamnaest       o+s o-s+a s-a+m a-m+n m-n+a n-a+e a-e+s e-s+t s-t sp
+osijek          o+s o-s+i s-i+j i-j+e j-e+k e-k sp
+osijeku         o+s o-s+i s-i+j i-j+e j-e+k e-k+u k-u sp
+osje^at         o+s o-s+j s-j+e j-e+Cc e-Cc+a Cc-a+t a-t sp
+osje^ati        o+s o-s+j s-j+e j-e+Cc e-Cc+a Cc-a+t a-t+i t-i sp
+osjetiti        o+s o-s+j s-j+e j-e+t e-t+i t-i+t i-t+i t-i sp
+osjetljive      o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+e v-e sp
+osjetljivi      o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+i v-i sp
+osjetljivih     o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+i v-i+h i-h sp
+osjetljivije    o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+i v-i+j i-j+e j-e sp
+osjetljiviji    o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+i v-i+j i-j+i j-i sp
+osjetljivijim   o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+i v-i+j i-j+i j-i+m i-m sp
+osjetljivima    o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+i v-i+m i-m+a m-a sp
+osjetljivosti   o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+o v-o+s o-s+t s-t+i t-i sp
+osjetno         o+s o-s+j s-j+e j-e+t e-t+n t-n+o n-o sp
+oslabio         o+s o-s+l s-l+a l-a+b a-b+i b-i+o i-o sp
+oslabit         o+s o-s+l s-l+a l-a+b a-b+i b-i+t i-t sp
+oslabiti        o+s o-s+l s-l+a l-a+b a-b+i b-i+t i-t+i t-i sp
+oslabjet        o+s o-s+l s-l+a l-a+b a-b+j b-j+e j-e+t e-t sp
+oslabjeti       o+s o-s+l s-l+a l-a+b a-b+j b-j+e j-e+t e-t+i t-i sp
+oslabljen       o+s o-s+l s-l+a l-a+b a-b+L b-L+e L-e+n e-n sp
+oslabljena      o+s o-s+l s-l+a l-a+b a-b+L b-L+e L-e+n e-n+a n-a sp
+oslabljene      o+s o-s+l s-l+a l-a+b a-b+L b-L+e L-e+n e-n+e n-e sp
+oslabljeni      o+s o-s+l s-l+a l-a+b a-b+L b-L+e L-e+n e-n+i n-i sp
+oslabljenim     o+s o-s+l s-l+a l-a+b a-b+L b-L+e L-e+n e-n+i n-i+m i-m sp
+oslabljenom     o+s o-s+l s-l+a l-a+b a-b+L b-L+e L-e+n e-n+o n-o+m o-m sp
+osmanaest       o+s o-s+m s-m+a m-a+n a-n+a n-a+e a-e+s e-s+t s-t sp
+osmi            o+s o-s+m s-m+i m-i sp
+osobama         o+s o-s+o s-o+b o-b+a b-a+m a-m+a m-a sp
+osobe           o+s o-s+o s-o+b o-b+e b-e sp
+osobito         o+s o-s+o s-o+b o-b+i b-i+t i-t+o t-o sp
+ostalim         o+s o-s+t s-t+a t-a+l a-l+i l-i+m i-m sp
+ostalog         o+s o-s+t s-t+a t-a+l a-l+o l-o+g o-g sp
+ostalom         o+s o-s+t s-t+a t-a+l a-l+o l-o+m o-m sp
+osvje`enje      o+s o-s+v s-v+j v-j+e j-e+Z e-Z+e Z-e+N e-N+e N-e sp
+otocima         o+t o-t+o t-o+c o-c+i c-i+m i-m+a m-a sp
+otrantskim      o+t o-t+r t-r+a r-a+n a-n+t n-t+s t-s+k s-k+i k-i+m i-m sp
+otvorena        o+t o-t+v t-v+o v-o+r o-r+e r-e+n e-n+a n-a sp
+otvorenom       o+t o-t+v t-v+o v-o+r o-r+e r-e+n e-n+o n-o+m o-m sp
+otvorenome      o+t o-t+v t-v+o v-o+r o-r+e r-e+n e-n+o n-o+m o-m+e m-e sp
+otvorenomu      o+t o-t+v t-v+o v-o+r o-r+e r-e+n e-n+o n-o+m o-m+u m-u sp
+ovo             o+v o-v+o v-o sp
+ovog            o+v o-v+o v-o+g o-g sp
+ovoga           o+v o-v+o v-o+g o-g+a g-a sp
+ozljeda         o+z o-z+L z-L+e L-e+d e-d+a d-a sp
+o~ekivati       o+C o-C+e C-e+k e-k+i k-i+v i-v+a v-a+t a-t+i t-i sp
+o~ekuje         o+C o-C+e C-e+k e-k+u k-u+j u-j+e j-e sp
+o~ekuju         o+C o-C+e C-e+k e-k+u k-u+j u-j+u j-u sp
+p               p sp
+pa              p+a p-a sp
+pada            p+a p-a+d a-d+a d-a sp
+padao           p+a p-a+d a-d+a d-a+o a-o sp
+padati          p+a p-a+d a-d+a d-a+t a-t+i t-i sp
+padom           p+a p-a+d a-d+o d-o+m o-m sp
+padu            p+a p-a+d a-d+u d-u sp
+pahulja         p+a p-a+h a-h+u h-u+L u-L+a L-a sp
+papir           p+a p-a+p a-p+i p-i+r i-r sp
+parkova         p+a p-a+r a-r+k r-k+o k-o+v o-v+a v-a sp
+past            p+a p-a+s a-s+t s-t sp
+pasti           p+a p-a+s a-s+t s-t+i t-i sp
+patiti          p+a p-a+t a-t+i t-i+t i-t+i t-i sp
+pedeset         p+e p-e+d e-d+e d-e+s e-s+e s-e+t e-t sp
+pedesetipet     p+e p-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+p i-p+e p-e+t e-t sp
+pelud           p+e p-e+l e-l+u l-u+d u-d sp
+peluda          p+e p-e+l e-l+u l-u+d u-d+a d-a sp
+pet             p+e p-e+t e-t sp
+petak           p+e p-e+t e-t+a t-a+k a-k sp
+peti            p+e p-e+t e-t+i t-i sp
+petka           p+e p-e+t e-t+k t-k+a k-a sp
+petnaest        p+e p-e+t e-t+n t-n+a n-a+e a-e+s e-s+t s-t sp
+petnaesti       p+e p-e+t e-t+n t-n+a n-a+e a-e+s e-s+t s-t+i t-i sp
+petsto          p+e p-e+t e-t+s t-s+t s-t+o t-o sp
+petstojedanaest p+e p-e+t e-t+s t-s+t s-t+o t-o+j o-j+e j-e+d e-d+a d-a+n a-n+a n-a+e a-e+s e-s+t s-t sp
+petstopedesetijedan p+e p-e+t e-t+s t-s+t s-t+o t-o+p o-p+e p-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+j i-j+e j-e+d e-d+a d-a+n a-n sp
+petstosedamdeset p+e p-e+t e-t+s t-s+t s-t+o t-o+s o-s+e s-e+d e-d+a d-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t sp
+petsto~etrdesetidevet p+e p-e+t e-t+s t-s+t s-t+o t-o+C o-C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+e d-e+v e-v+e v-e+t e-t sp
+pla~ko          p+l p-l+a l-a+C a-C+k C-k+o k-o sp
+plitka          p+l p-l+i l-i+t i-t+k t-k+a k-a sp
+plitko          p+l p-l+i l-i+t i-t+k t-k+o k-o sp
+pljoskovi       p+L p-L+o L-o+s o-s+k s-k+o k-o+v o-v+i v-i sp
+pljusak         p+L p-L+u L-u+s u-s+a s-a+k a-k sp
+pljuska         p+L p-L+u L-u+s u-s+k s-k+a k-a sp
+pljuskom        p+L p-L+u L-u+s u-s+k s-k+o k-o+m o-m sp
+pljuskova       p+L p-L+u L-u+s u-s+k s-k+o k-o+v o-v+a v-a sp
+pljuskove       p+L p-L+u L-u+s u-s+k s-k+o k-o+v o-v+e v-e sp
+pljuskovi       p+L p-L+u L-u+s u-s+k s-k+o k-o+v o-v+i v-i sp
+pljuskovima     p+L p-L+u L-u+s u-s+k s-k+o k-o+v o-v+i v-i+m i-m+a m-a sp
+plu^nih         p+l p-l+u l-u+Cc u-Cc+n Cc-n+i n-i+h i-h sp
+plus            p+l p-l+u l-u+s u-s sp
+po              p+o p-o sp
+pobolj{anje     p+o p-o+b o-b+o b-o+L o-L+S L-S+a S-a+N a-N+e N-e sp
+pobolj{ati      p+o p-o+b o-b+o b-o+L o-L+S L-S+a S-a+t a-t+i t-i sp
+pod             p+o p-o+d o-d sp
+podataka        p+o p-o+d o-d+a d-a+t a-t+a t-a+k a-k+a k-a sp
+podne           p+o p-o+d o-d+n d-n+e n-e sp
+podneva         p+o p-o+d o-d+n d-n+e n-e+v e-v+a v-a sp
+podno           p+o p-o+d o-d+n d-n+o n-o sp
+podno{ljivija   p+o p-o+d o-d+n d-n+o n-o+S o-S+L S-L+i L-i+v i-v+i v-i+j i-j+a j-a sp
+podr`ava        p+o p-o+d o-d+r d-r+Z r-Z+a Z-a+v a-v+a v-a sp
+podr`avati      p+o p-o+d o-d+r d-r+Z r-Z+a Z-a+v a-v+a v-a+t a-t+i t-i sp
+podravini       p+o p-o+d o-d+r d-r+a r-a+v a-v+i v-i+n i-n+i n-i sp
+podru~ja        p+o p-o+d o-d+r d-r+u r-u+C u-C+j C-j+a j-a sp
+podru~je        p+o p-o+d o-d+r d-r+u r-u+C u-C+j C-j+e j-e sp
+podru~jima      p+o p-o+d o-d+r d-r+u r-u+C u-C+j C-j+i j-i+m i-m+a m-a sp
+podru~ju        p+o p-o+d o-d+r d-r+u r-u+C u-C+j C-j+u j-u sp
+podvelebitskom  p+o p-o+d o-d+v d-v+e v-e+l e-l+e l-e+b e-b+i b-i+t i-t+s t-s+k s-k+o k-o+m o-m sp
+pogodne         p+o p-o+g o-g+o g-o+d o-d+n d-n+e n-e sp
+pogodni         p+o p-o+g o-g+o g-o+d o-d+n d-n+i n-i sp
+pogodnih        p+o p-o+g o-g+o g-o+d o-d+n d-n+i n-i+h i-h sp
+pogodniji       p+o p-o+g o-g+o g-o+d o-d+n d-n+i n-i+j i-j+i j-i sp
+pogor{anje      p+o p-o+g o-g+o g-o+r o-r+S r-S+a S-a+N a-N+e N-e sp
+pogor{ati       p+o p-o+g o-g+o g-o+r o-r+S r-S+a S-a+t a-t+i t-i sp
+pojasu          p+o p-o+j o-j+a j-a+s a-s+u s-u sp
+pojaviti        p+o p-o+j o-j+a j-a+v a-v+i v-i+t i-t+i t-i sp
+pojavljivati    p+o p-o+j o-j+a j-a+v a-v+L v-L+i L-i+v i-v+a v-a+t a-t+i t-i sp
+poja~an         p+o p-o+j o-j+a j-a+C a-C+a C-a+n a-n sp
+poja~ana        p+o p-o+j o-j+a j-a+C a-C+a C-a+n a-n+a n-a sp
+poja~ane        p+o p-o+j o-j+a j-a+C a-C+a C-a+n a-n+e n-e sp
+poja~anju       p+o p-o+j o-j+a j-a+C a-C+a C-a+N a-N+u N-u sp
+poja~ano        p+o p-o+j o-j+a j-a+C a-C+a C-a+n a-n+o n-o sp
+poja~anu        p+o p-o+j o-j+a j-a+C a-C+a C-a+n a-n+u n-u sp
+poja~at         p+o p-o+j o-j+a j-a+C a-C+a C-a+t a-t sp
+poja~ati        p+o p-o+j o-j+a j-a+C a-C+a C-a+t a-t+i t-i sp
+pokoji          p+o p-o+k o-k+o k-o+j o-j+i j-i sp
+pokojim         p+o p-o+k o-k+o k-o+j o-j+i j-i+m i-m sp
+pokre^e         p+o p-o+k o-k+r k-r+e r-e+Cc e-Cc+e Cc-e sp
+pokretna        p+o p-o+k o-k+r k-r+e r-e+t e-t+n t-n+a n-a sp
+pokretno        p+o p-o+k o-k+r k-r+e r-e+t e-t+n t-n+o n-o sp
+polako          p+o p-o+l o-l+a l-a+k a-k+o k-o sp
+poledica        p+o p-o+l o-l+e l-e+d e-d+i d-i+c i-c+a c-a sp
+poledice        p+o p-o+l o-l+e l-e+d e-d+i d-i+c i-c+e c-e sp
+polje           p+o p-o+L o-L+e L-e sp
+pomicati        p+o p-o+m o-m+i m-i+c i-c+a c-a+t a-t+i t-i sp
+pomi~e          p+o p-o+m o-m+i m-i+C i-C+e C-e sp
+pomorske        p+o p-o+m o-m+o m-o+r o-r+s r-s+k s-k+e k-e sp
+pomorskog       p+o p-o+m o-m+o m-o+r o-r+s r-s+k s-k+o k-o+g o-g sp
+pomorskoga      p+o p-o+m o-m+o m-o+r o-r+s r-s+k s-k+o k-o+g o-g+a g-a sp
+ponajprije      p+o p-o+n o-n+a n-a+j a-j+p j-p+r p-r+i r-i+j i-j+e j-e sp
+ponajvi{e       p+o p-o+n o-n+a n-a+j a-j+v j-v+i v-i+S i-S+e S-e sp
+ponedjeljak     p+o p-o+n o-n+e n-e+d e-d+j d-j+e j-e+L e-L+a L-a+k a-k sp
+ponedjeljka     p+o p-o+n o-n+e n-e+d e-d+j d-j+e j-e+L e-L+k L-k+a k-a sp
+ponegdje        p+o p-o+n o-n+e n-e+g e-g+d g-d+j d-j+e j-e sp
+poneka          p+o p-o+n o-n+e n-e+k e-k+a k-a sp
+ponovno         p+o p-o+n o-n+o n-o+v o-v+n v-n+o n-o sp
+ponovo          p+o p-o+n o-n+o n-o+v o-v+o v-o sp
+popunjava       p+o p-o+p o-p+u p-u+N u-N+a N-a+v a-v+a v-a sp
+porast          p+o p-o+r o-r+a r-a+s a-s+t s-t sp
+porasti         p+o p-o+r o-r+a r-a+s a-s+t s-t+i t-i sp
+poreme^aj       p+o p-o+r o-r+e r-e+m e-m+e m-e+Cc e-Cc+a Cc-a+j a-j sp
+poreme^ajem     p+o p-o+r o-r+e r-e+m e-m+e m-e+Cc e-Cc+a Cc-a+j a-j+e j-e+m e-m sp
+posavini        p+o p-o+s o-s+a s-a+v a-v+i v-i+n i-n+i n-i sp
+posebice        p+o p-o+s o-s+e s-e+b e-b+i b-i+c i-c+e c-e sp
+posebno         p+o p-o+s o-s+e s-e+b e-b+n b-n+o n-o sp
+poslije         p+o p-o+s o-s+l s-l+i l-i+j i-j+e j-e sp
+poslijepodne    p+o p-o+s o-s+l s-l+i l-i+j i-j+e j-e+p e-p+o p-o+d o-d+n d-n+e n-e sp
+poslijepodneva  p+o p-o+s o-s+l s-l+i l-i+j i-j+e j-e+p e-p+o p-o+d o-d+n d-n+e n-e+v e-v+a v-a sp
+poslijepodnevna p+o p-o+s o-s+l s-l+i l-i+j i-j+e j-e+p e-p+o p-o+d o-d+n d-n+e n-e+v e-v+n v-n+a n-a sp
+postojane       p+o p-o+s o-s+t s-t+o t-o+j o-j+a j-a+n a-n+e n-e sp
+postojano       p+o p-o+s o-s+t s-t+o t-o+j o-j+a j-a+n a-n+o n-o sp
+postoji         p+o p-o+s o-s+t s-t+o t-o+j o-j+i j-i sp
+postupan        p+o p-o+s o-s+t s-t+u t-u+p u-p+a p-a+n a-n sp
+postupna        p+o p-o+s o-s+t s-t+u t-u+p u-p+n p-n+a n-a sp
+postupni        p+o p-o+s o-s+t s-t+u t-u+p u-p+n p-n+i n-i sp
+postupno        p+o p-o+s o-s+t s-t+u t-u+p u-p+n p-n+o n-o sp
+postupnom       p+o p-o+s o-s+t s-t+u t-u+p u-p+n p-n+o n-o+m o-m sp
+posvuda         p+o p-o+s o-s+v s-v+u v-u+d u-d+a d-a sp
+pote{ko^a       p+o p-o+t o-t+e t-e+S e-S+k S-k+o k-o+Cc o-Cc+a Cc-a sp
+pote{ko^e       p+o p-o+t o-t+e t-e+S e-S+k S-k+o k-o+Cc o-Cc+e Cc-e sp
+poticajno       p+o p-o+t o-t+i t-i+c i-c+a c-a+j a-j+n j-n+o n-o sp
+potkraj         p+o p-o+t o-t+k t-k+r k-r+a r-a+j a-j sp
+potom           p+o p-o+t o-t+o t-o+m o-m sp
+potrebna        p+o p-o+t o-t+r t-r+e r-e+b e-b+n b-n+a n-a sp
+pove^anom       p+o p-o+v o-v+e v-e+Cc e-Cc+a Cc-a+n a-n+o n-o+m o-m sp
+pove^anu        p+o p-o+v o-v+e v-e+Cc e-Cc+a Cc-a+n a-n+u n-u sp
+pove~anu        p+o p-o+v o-v+e v-e+C e-C+a C-a+n a-n+u n-u sp
+povi{enog       p+o p-o+v o-v+i v-i+S i-S+e S-e+n e-n+o n-o+g o-g sp
+povi{enoga      p+o p-o+v o-v+i v-i+S i-S+e S-e+n e-n+o n-o+g o-g+a g-a sp
+povla~i         p+o p-o+v o-v+l v-l+a l-a+C a-C+i C-i sp
+povoljan        p+o p-o+v o-v+o v-o+L o-L+a L-a+n a-n sp
+povoljne        p+o p-o+v o-v+o v-o+L o-L+n L-n+e n-e sp
+povoljni        p+o p-o+v o-v+o v-o+L o-L+n L-n+i n-i sp
+povoljnih       p+o p-o+v o-v+o v-o+L o-L+n L-n+i n-i+h i-h sp
+povoljniji      p+o p-o+v o-v+o v-o+L o-L+n L-n+i n-i+j i-j+i j-i sp
+povoljno        p+o p-o+v o-v+o v-o+L o-L+n L-n+o n-o sp
+povoljnog       p+o p-o+v o-v+o v-o+L o-L+n L-n+o n-o+g o-g sp
+povoljnoga      p+o p-o+v o-v+o v-o+L o-L+n L-n+o n-o+g o-g+a g-a sp
+povremeno       p+o p-o+v o-v+r v-r+e r-e+m e-m+e m-e+n e-n+o n-o sp
+po~eo           p+o p-o+C o-C+e C-e+o e-o sp
+po~etkom        p+o p-o+C o-C+e C-e+t e-t+k t-k+o k-o+m o-m sp
+po~etku         p+o p-o+C o-C+e C-e+t e-t+k t-k+u k-u sp
+po~inje         p+o p-o+C o-C+i C-i+N i-N+e N-e sp
+pred            p+r p-r+e r-e+d e-d sp
+predjela        p+r p-r+e r-e+d e-d+j d-j+e j-e+l e-l+a l-a sp
+predjele        p+r p-r+e r-e+d e-d+j d-j+e j-e+l e-l+e l-e sp
+predjelima      p+r p-r+e r-e+d e-d+j d-j+e j-e+l e-l+i l-i+m i-m+a m-a sp
+predve~er       p+r p-r+e r-e+d e-d+v d-v+e v-e+C e-C+e C-e+r e-r sp
+preko           p+r p-r+e r-e+k e-k+o k-o sp
+prema           p+r p-r+e r-e+m e-m+a m-a sp
+premda          p+r p-r+e r-e+m e-m+d m-d+a d-a sp
+premjestila     p+r p-r+e r-e+m e-m+j m-j+e j-e+s e-s+t s-t+i t-i+l i-l+a l-a sp
+premjestilo     p+r p-r+e r-e+m e-m+j m-j+e j-e+s e-s+t s-t+i t-i+l i-l+o l-o sp
+premje{ta       p+r p-r+e r-e+m e-m+j m-j+e j-e+S e-S+t S-t+a t-a sp
+premje{tanja    p+r p-r+e r-e+m e-m+j m-j+e j-e+S e-S+t S-t+a t-a+N a-N+a N-a sp
+premje{tat      p+r p-r+e r-e+m e-m+j m-j+e j-e+S e-S+t S-t+a t-a+t a-t sp
+preosjetljive   p+r p-r+e r-e+o e-o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+e v-e sp
+preosjetljivo{^u p+r p-r+e r-e+o e-o+s o-s+j s-j+e j-e+t e-t+L t-L+i L-i+v i-v+o v-o+S o-S+Cc S-Cc+u Cc-u sp
+preostali       p+r p-r+e r-e+o e-o+s o-s+t s-t+a t-a+l a-l+i l-i sp
+preostalom      p+r p-r+e r-e+o e-o+s o-s+t s-t+a t-a+l a-l+o l-o+m o-m sp
+preporuci       p+r p-r+e r-e+p e-p+o p-o+r o-r+u r-u+c u-c+i c-i sp
+preporu~uje     p+r p-r+e r-e+p e-p+o p-o+r o-r+u r-u+C u-C+u C-u+j u-j+e j-e sp
+preporu~ujemo   p+r p-r+e r-e+p e-p+o p-o+r o-r+u r-u+C u-C+u C-u+j u-j+e j-e+m e-m+o m-o sp
+prestanak       p+r p-r+e r-e+s e-s+t s-t+a t-a+n a-n+a n-a+k a-k sp
+prestati        p+r p-r+e r-e+s e-s+t s-t+a t-a+t a-t+i t-i sp
+pret`no         p+r p-r+e r-e+t e-t+Z t-Z+n Z-n+o n-o sp
+prete`ito       p+r p-r+e r-e+t e-t+e t-e+Z e-Z+i Z-i+t i-t+o t-o sp
+prete`no        p+r p-r+e r-e+t e-t+e t-e+Z e-Z+n Z-n+o n-o sp
+prethodne       p+r p-r+e r-e+t e-t+h t-h+o h-o+d o-d+n d-n+e n-e sp
+prethodnih      p+r p-r+e r-e+t e-t+h t-h+o h-o+d o-d+n d-n+i n-i+h i-h sp
+prevladava      p+r p-r+e r-e+v e-v+l v-l+a l-a+d a-d+a d-a+v a-v+a v-a sp
+prevladavala    p+r p-r+e r-e+v e-v+l v-l+a l-a+d a-d+a d-a+v a-v+a v-a+l a-l+a l-a sp
+prevladavat     p+r p-r+e r-e+v e-v+l v-l+a l-a+d a-d+a d-a+v a-v+a v-a+t a-t sp
+prevladavati    p+r p-r+e r-e+v e-v+l v-l+a l-a+d a-d+a d-a+v a-v+a v-a+t a-t+i t-i sp
+pri             p+r p-r+i r-i sp
+pribli`ava      p+r p-r+i r-i+b i-b+l b-l+i l-i+Z i-Z+a Z-a+v a-v+a v-a sp
+pribli`avanja   p+r p-r+i r-i+b i-b+l b-l+i l-i+Z i-Z+a Z-a+v a-v+a v-a+N a-N+a N-a sp
+pribli`ila      p+r p-r+i r-i+b i-b+l b-l+i l-i+Z i-Z+i Z-i+l i-l+a l-a sp
+pribli`no       p+r p-r+i r-i+b i-b+l b-l+i l-i+Z i-Z+n Z-n+o n-o sp
+pridonijet      p+r p-r+i r-i+d i-d+o d-o+n o-n+i n-i+j i-j+e j-e+t e-t sp
+prija{njih      p+r p-r+i r-i+j i-j+a j-a+S a-S+N S-N+i N-i+h i-h sp
+prije           p+r p-r+i r-i+j i-j+e j-e sp
+prije^i         p+r p-r+i r-i+j i-j+e j-e+Cc e-Cc+i Cc-i sp
+prijeloma       p+r p-r+i r-i+j i-j+e j-e+l e-l+o l-o+m o-m+a m-a sp
+prijepodne      p+r p-r+i r-i+j i-j+e j-e+p e-p+o p-o+d o-d+n d-n+e n-e sp
+prijepodneva    p+r p-r+i r-i+j i-j+e j-e+p e-p+o p-o+d o-d+n d-n+e n-e+v e-v+a v-a sp
+prikladna       p+r p-r+i r-i+k i-k+l k-l+a l-a+d a-d+n d-n+a n-a sp
+prikladnu       p+r p-r+i r-i+k i-k+l k-l+a l-a+d a-d+n d-n+u n-u sp
+prilika         p+r p-r+i r-i+l i-l+i l-i+k i-k+a k-a sp
+prilike         p+r p-r+i r-i+l i-l+i l-i+k i-k+e k-e sp
+primili         p+r p-r+i r-i+m i-m+i m-i+l i-l+i l-i sp
+primi~e         p+r p-r+i r-i+m i-m+i m-i+C i-C+e C-e sp
+primjerena      p+r p-r+i r-i+m i-m+j m-j+e j-e+r e-r+e r-e+n e-n+a n-a sp
+primjerenu      p+r p-r+i r-i+m i-m+j m-j+e j-e+r e-r+e r-e+n e-n+u n-u sp
+primorja        p+r p-r+i r-i+m i-m+o m-o+r o-r+j r-j+a j-a sp
+primorju        p+r p-r+i r-i+m i-m+o m-o+r o-r+j r-j+u j-u sp
+priobalju       p+r p-r+i r-i+o i-o+b o-b+a b-a+L a-L+u L-u sp
+pripadni        p+r p-r+i r-i+p i-p+a p-a+d a-d+n d-n+i n-i sp
+prirodi         p+r p-r+i r-i+r i-r+o r-o+d o-d+i d-i sp
+prirodu         p+r p-r+i r-i+r i-r+o r-o+d o-d+u d-u sp
+pristi`e        p+r p-r+i r-i+s i-s+t s-t+i t-i+Z i-Z+e Z-e sp
+pritjecanja     p+r p-r+i r-i+t i-t+j t-j+e j-e+c e-c+a c-a+N a-N+a N-a sp
+pritje~e        p+r p-r+i r-i+t i-t+j t-j+e j-e+C e-C+e C-e sp
+produbljava     p+r p-r+o r-o+d o-d+u d-u+b u-b+L b-L+a L-a+v a-v+a v-a sp
+prognoza        p+r p-r+o r-o+g o-g+n g-n+o n-o+z o-z+a z-a sp
+prognoze        p+r p-r+o r-o+g o-g+n g-n+o n-o+z o-z+e z-e sp
+prohladno       p+r p-r+o r-o+h o-h+l h-l+a l-a+d a-d+n d-n+o n-o sp
+prolaza         p+r p-r+o r-o+l o-l+a l-a+z a-z+a z-a sp
+prolazak        p+r p-r+o r-o+l o-l+a l-a+z a-z+a z-a+k a-k sp
+prolazan        p+r p-r+o r-o+l o-l+a l-a+z a-z+a z-a+n a-n sp
+prolazna        p+r p-r+o r-o+l o-l+a l-a+z a-z+n z-n+a n-a sp
+prolazno        p+r p-r+o r-o+l o-l+a l-a+z a-z+n z-n+o n-o sp
+proljetne       p+r p-r+o r-o+L o-L+e L-e+t e-t+n t-n+e n-e sp
+prometne        p+r p-r+o r-o+m o-m+e m-e+t e-t+n t-n+e n-e sp
+promijenjiva    p+r p-r+o r-o+m o-m+i m-i+j i-j+e j-e+N e-N+i N-i+v i-v+a v-a sp
+promijenjivo    p+r p-r+o r-o+m o-m+i m-i+j i-j+e j-e+N e-N+i N-i+v i-v+o v-o sp
+promijenjivom   p+r p-r+o r-o+m o-m+i m-i+j i-j+e j-e+N e-N+i N-i+v i-v+o v-o+m o-m sp
+promijenjivu    p+r p-r+o r-o+m o-m+i m-i+j i-j+e j-e+N e-N+i N-i+v i-v+u v-u sp
+promijenjljivo  p+r p-r+o r-o+m o-m+i m-i+j i-j+e j-e+N e-N+L N-L+i L-i+v i-v+o v-o sp
+promjene        p+r p-r+o r-o+m o-m+j m-j+e j-e+n e-n+e n-e sp
+promjenjiva     p+r p-r+o r-o+m o-m+j m-j+e j-e+N e-N+i N-i+v i-v+a v-a sp
+promjenjivo     p+r p-r+o r-o+m o-m+j m-j+e j-e+N e-N+i N-i+v i-v+o v-o sp
+promjenjivom    p+r p-r+o r-o+m o-m+j m-j+e j-e+N e-N+i N-i+v i-v+o v-o+m o-m sp
+promjenjivu     p+r p-r+o r-o+m o-m+j m-j+e j-e+N e-N+i N-i+v i-v+u v-u sp
+promjenjljiva   p+r p-r+o r-o+m o-m+j m-j+e j-e+N e-N+L N-L+i L-i+v i-v+a v-a sp
+promjenjljivo   p+r p-r+o r-o+m o-m+j m-j+e j-e+N e-N+L N-L+i L-i+v i-v+o v-o sp
+promjenjljivom  p+r p-r+o r-o+m o-m+j m-j+e j-e+N e-N+L N-L+i L-i+v i-v+o v-o+m o-m sp
+promjenjljivu   p+r p-r+o r-o+m o-m+j m-j+e j-e+N e-N+L N-L+i L-i+v i-v+u v-u sp
+promjenljiva    p+r p-r+o r-o+m o-m+j m-j+e j-e+n e-n+L n-L+i L-i+v i-v+a v-a sp
+promjenljivo    p+r p-r+o r-o+m o-m+j m-j+e j-e+n e-n+L n-L+i L-i+v i-v+o v-o sp
+promjenljivom   p+r p-r+o r-o+m o-m+j m-j+e j-e+n e-n+L n-L+i L-i+v i-v+o v-o+m o-m sp
+promjenljivu    p+r p-r+o r-o+m o-m+j m-j+e j-e+n e-n+L n-L+i L-i+v i-v+u v-u sp
+promjenom       p+r p-r+o r-o+m o-m+j m-j+e j-e+n e-n+o n-o+m o-m sp
+prosinca        p+r p-r+o r-o+s o-s+i s-i+n i-n+c n-c+a c-a sp
+prostrana       p+r p-r+o r-o+s o-s+t s-t+r t-r+a r-a+n a-n+a n-a sp
+prostrane       p+r p-r+o r-o+s o-s+t s-t+r t-r+a r-a+n a-n+e n-e sp
+prostrano       p+r p-r+o r-o+s o-s+t s-t+r t-r+a r-a+n a-n+o n-o sp
+prostranog      p+r p-r+o r-o+s o-s+t s-t+r t-r+a r-a+n a-n+o n-o+g o-g sp
+proteklih       p+r p-r+o r-o+t o-t+e t-e+k e-k+l k-l+i l-i+h i-h sp
+pro{irit        p+r p-r+o r-o+S o-S+i S-i+r i-r+i r-i+t i-t sp
+pro{iriti       p+r p-r+o r-o+S o-S+i S-i+r i-r+i r-i+t i-t+i t-i sp
+pru`a           p+r p-r+u r-u+Z u-Z+a Z-a sp
+prvi            p+r p-r+v r-v+i v-i sp
+prvih           p+r p-r+v r-v+i v-i+h i-h sp
+prvo            p+r p-r+v r-v+o v-o sp
+prvom           p+r p-r+v r-v+o v-o+m o-m sp
+puhat           p+u p-u+h u-h+a h-a+t a-t sp
+pulenat         p+u p-u+l u-l+e l-e+n e-n+a n-a+t a-t sp
+r               r sp
+radenci         r+a r-a+d a-d+e d-e+n e-n+c n-c+i c-i sp
+radni           r+a r-a+d a-d+n d-n+i n-i sp
+ranijih         r+a r-a+n a-n+i n-i+j i-j+i j-i+h i-h sp
+ranog           r+a r-a+n a-n+o n-o+g o-g sp
+raspolo`ena     r+a r-a+s a-s+p s-p+o p-o+l o-l+o l-o+Z o-Z+e Z-e+n e-n+a n-a sp
+raspolo`ene     r+a r-a+s a-s+p s-p+o p-o+l o-l+o l-o+Z o-Z+e Z-e+n e-n+e n-e sp
+raspolo`eni     r+a r-a+s a-s+p s-p+o p-o+l o-l+o l-o+Z o-Z+e Z-e+n e-n+i n-i sp
+raspolo`enja    r+a r-a+s a-s+p s-p+o p-o+l o-l+o l-o+Z o-Z+e Z-e+N e-N+a N-a sp
+raspolo`enje    r+a r-a+s a-s+p s-p+o p-o+l o-l+o l-o+Z o-Z+e Z-e+N e-N+e N-e sp
+raspolo`enjem   r+a r-a+s a-s+p s-p+o p-o+l o-l+o l-o+Z o-Z+e Z-e+N e-N+e N-e+m e-m sp
+raspolo`enju    r+a r-a+s a-s+p s-p+o p-o+l o-l+o l-o+Z o-Z+e Z-e+N e-N+u N-u sp
+rast            r+a r-a+s a-s+t s-t sp
+raste           r+a r-a+s a-s+t s-t+e t-e sp
+rasti           r+a r-a+s a-s+t s-t+i t-i sp
+razdoblja       r+a r-a+z a-z+d z-d+o d-o+b o-b+L b-L+a L-a sp
+razdoblje       r+a r-a+z a-z+d z-d+o d-o+b o-b+L b-L+e L-e sp
+razdobljima     r+a r-a+z a-z+d z-d+o d-o+b o-b+L b-L+i L-i+m i-m+a m-a sp
+razdra`ljivi    r+a r-a+z a-z+d z-d+r d-r+a r-a+Z a-Z+L Z-L+i L-i+v i-v+i v-i sp
+razdra`ljivost  r+a r-a+z a-z+d z-d+r d-r+a r-a+Z a-Z+L Z-L+i L-i+v i-v+o v-o+s o-s+t s-t sp
+razdra`ljivosti r+a r-a+z a-z+d z-d+r d-r+a r-a+Z a-Z+L Z-L+i L-i+v i-v+o v-o+s o-s+t s-t+i t-i sp
+razmjerno       r+a r-a+z a-z+m z-m+j m-j+e j-e+r e-r+n r-n+o n-o sp
+razvedravanje   r+a r-a+z a-z+v z-v+e v-e+d e-d+r d-r+a r-a+v a-v+a v-a+N a-N+e N-e sp
+razvedravati    r+a r-a+z a-z+v z-v+e v-e+d e-d+r d-r+a r-a+v a-v+a v-a+t a-t+i t-i sp
+razvedrit       r+a r-a+z a-z+v z-v+e v-e+d e-d+r d-r+i r-i+t i-t sp
+razvedriti      r+a r-a+z a-z+v z-v+e v-e+d e-d+r d-r+i r-i+t i-t+i t-i sp
+razvoj          r+a r-a+z a-z+v z-v+o v-o+j o-j sp
+reumati~ara     r+e r-e+u e-u+m u-m+a m-a+t a-t+i t-i+C i-C+a C-a+r a-r+a r-a sp
+reumati~ari     r+e r-e+u e-u+m u-m+a m-a+t a-t+i t-i+C i-C+a C-a+r a-r+i r-i sp
+reumati~arima   r+e r-e+u e-u+m u-m+a m-a+t a-t+i t-i+C i-C+a C-a+r a-r+i r-i+m i-m+a m-a sp
+reumatskih      r+e r-e+u e-u+m u-m+a m-a+t a-t+s t-s+k s-k+i k-i+h i-h sp
+reumom          r+e r-e+u e-u+m u-m+o m-o+m o-m sp
+rijeka          r+i r-i+j i-j+e j-e+k e-k+a k-a sp
+rijeke          r+i r-i+j i-j+e j-e+k e-k+e k-e sp
+rijetki         r+i r-i+j i-j+e j-e+t e-t+k t-k+i k-i sp
+rijetkih        r+i r-i+j i-j+e j-e+t e-t+k t-k+i k-i+h i-h sp
+rije~kome       r+i r-i+j i-j+e j-e+C e-C+k C-k+o k-o+m o-m+e m-e sp
+rosulja         r+o r-o+s o-s+u s-u+L u-L+a L-a sp
+rosuljom        r+o r-o+s o-s+u s-u+L u-L+o L-o+m o-m sp
+s               s sp
+sa              s+a s-a sp
+samo            s+a s-a+m a-m+o m-o sp
+samo{^anec      s+a s-a+m a-m+o m-o+S o-S+Cc S-Cc+a Cc-a+n a-n+e n-e+c e-c sp
+san             s+a s-a+n a-n sp
+sasvim          s+a s-a+s a-s+v s-v+i v-i+m i-m sp
+sati            s+a s-a+t a-t+i t-i sp
+satima          s+a s-a+t a-t+i t-i+m i-m+a m-a sp
+sava            s+a s-a+v a-v+a v-a sp
+se              s+e s-e sp
+sedam           s+e s-e+d e-d+a d-a+m a-m sp
+sedamdeset      s+e s-e+d e-d+a d-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t sp
+sedamdesetiosam s+e s-e+d e-d+a d-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t+i t-i+o i-o+s o-s+a s-a+m a-m sp
+sedamdeseti~etiri s+e s-e+d e-d+a d-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t+i t-i+C i-C+e C-e+t e-t+i t-i+r i-r+i r-i sp
+sedamnaest      s+e s-e+d e-d+a d-a+m a-m+n m-n+a n-a+e a-e+s e-s+t s-t sp
+sedamsto        s+e s-e+d e-d+a d-a+m a-m+s m-s+t s-t+o t-o sp
+sedamstoosam    s+e s-e+d e-d+a d-a+m a-m+s m-s+t s-t+o t-o+o o-o+s o-s+a s-a+m a-m sp
+sedamstopedesetidva s+e s-e+d e-d+a d-a+m a-m+s m-s+t s-t+o t-o+p o-p+e p-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+v d-v+a v-a sp
+sedamstotrideseti~etiri s+e s-e+d e-d+a d-a+m a-m+s m-s+t s-t+o t-o+t o-t+r t-r+i r-i+d i-d+e d-e+s e-s+e s-e+t e-t+i t-i+C i-C+e C-e+t e-t+i t-i+r i-r+i r-i sp
+sedmi           s+e s-e+d e-d+m d-m+i m-i sp
+senja           s+e s-e+N e-N+a N-a sp
+sicilijom       s+i s-i+c i-c+i c-i+l i-l+i l-i+j i-j+o j-o+m o-m sp
+sije~nja        s+i s-i+j i-j+e j-e+C e-C+N C-N+a N-a sp
+sil             s+i s-i+l i-l sp
+sinopti~arka    s+i s-i+n i-n+o n-o+p o-p+t p-t+i t-i+C i-C+a C-a+r a-r+k r-k+a k-a sp
+situacija       s+i s-i+t i-t+u t-u+a u-a+c a-c+i c-i+j i-j+a j-a sp
+sjever          s+j s-j+e j-e+v e-v+e v-e+r e-r sp
+sjevera         s+j s-j+e j-e+v e-v+e v-e+r e-r+a r-a sp
+sjeverac        s+j s-j+e j-e+v e-v+e v-e+r e-r+a r-a+c a-c sp
+sjeverni        s+j s-j+e j-e+v e-v+e v-e+r e-r+n r-n+i n-i sp
+sjevernije      s+j s-j+e j-e+v e-v+e v-e+r e-r+n r-n+i n-i+j i-j+e j-e sp
+sjevernim       s+j s-j+e j-e+v e-v+e v-e+r e-r+n r-n+i n-i+m i-m sp
+sjevernjak      s+j s-j+e j-e+v e-v+e v-e+r e-r+N r-N+a N-a+k a-k sp
+sjevernog       s+j s-j+e j-e+v e-v+e v-e+r e-r+n r-n+o n-o+g o-g sp
+sjevernoga      s+j s-j+e j-e+v e-v+e v-e+r e-r+n r-n+o n-o+g o-g+a g-a sp
+sjevernoj       s+j s-j+e j-e+v e-v+e v-e+r e-r+n r-n+o n-o+j o-j sp
+sjevernom       s+j s-j+e j-e+v e-v+e v-e+r e-r+n r-n+o n-o+m o-m sp
+sjevernome      s+j s-j+e j-e+v e-v+e v-e+r e-r+n r-n+o n-o+m o-m+e m-e sp
+sjeveroistok    s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+i o-i+s i-s+t s-t+o t-o+k o-k sp
+sjeveroistoke   s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+i o-i+s i-s+t s-t+o t-o+k o-k+e k-e sp
+sjeveroistoku   s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+i o-i+s i-s+t s-t+o t-o+k o-k+u k-u sp
+sjeveroisto~ni  s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+i o-i+s i-s+t s-t+o t-o+C o-C+n C-n+i n-i sp
+sjeveroisto~nim s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+i o-i+s i-s+t s-t+o t-o+C o-C+n C-n+i n-i+m i-m sp
+sjeveroisto~njak s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+i o-i+s i-s+t s-t+o t-o+C o-C+N C-N+a N-a+k a-k sp
+sjeveroisto~nog s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+i o-i+s i-s+t s-t+o t-o+C o-C+n C-n+o n-o+g o-g sp
+sjeverozapada   s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+a d-a sp
+sjeverozapadne  s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+n d-n+e n-e sp
+sjeverozapadni  s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+n d-n+i n-i sp
+sjeverozapadnim s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+n d-n+i n-i+m i-m sp
+sjeverozapadnjak s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+N d-N+a N-a+k a-k sp
+sjeverozapadnjaka s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+N d-N+a N-a+k a-k+a k-a sp
+sjeverozapadno  s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+n d-n+o n-o sp
+sjeverozapadnog s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+n d-n+o n-o+g o-g sp
+sjeverozapadnom s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+n d-n+o n-o+m o-m sp
+sjeverozapadu   s+j s-j+e j-e+v e-v+e v-e+r e-r+o r-o+z o-z+a z-a+p a-p+a p-a+d a-d+u d-u sp
+sjeveru         s+j s-j+e j-e+v e-v+e v-e+r e-r+u r-u sp
+skrenut         s+k s-k+r k-r+e r-e+n e-n+u n-u+t u-t sp
+skrenuti        s+k s-k+r k-r+e r-e+n e-n+u n-u+t u-t+i t-i sp
+skretanje       s+k s-k+r k-r+e r-e+t e-t+a t-a+N a-N+e N-e sp
+skretanju       s+k s-k+r k-r+e r-e+t e-t+a t-a+N a-N+u N-u sp
+skretati        s+k s-k+r k-r+e r-e+t e-t+a t-a+t a-t+i t-i sp
+slab            s+l s-l+a l-a+b a-b sp
+slaba           s+l s-l+a l-a+b a-b+a b-a sp
+slabe           s+l s-l+a l-a+b a-b+e b-e sp
+slabi           s+l s-l+a l-a+b a-b+i b-i sp
+slabija         s+l s-l+a l-a+b a-b+i b-i+j i-j+a j-a sp
+slabije         s+l s-l+a l-a+b a-b+i b-i+j i-j+e j-e sp
+slabijeg        s+l s-l+a l-a+b a-b+i b-i+j i-j+e j-e+g e-g sp
+slabiji         s+l s-l+a l-a+b a-b+i b-i+j i-j+i j-i sp
+slabiju         s+l s-l+a l-a+b a-b+i b-i+j i-j+u j-u sp
+slabim          s+l s-l+a l-a+b a-b+i b-i+m i-m sp
+slabit          s+l s-l+a l-a+b a-b+i b-i+t i-t sp
+slabiti         s+l s-l+a l-a+b a-b+i b-i+t i-t+i t-i sp
+slabjet         s+l s-l+a l-a+b a-b+j b-j+e j-e+t e-t sp
+slabjeti        s+l s-l+a l-a+b a-b+j b-j+e j-e+t e-t+i t-i sp
+slabljenja      s+l s-l+a l-a+b a-b+L b-L+e L-e+N e-N+a N-a sp
+slabljenju      s+l s-l+a l-a+b a-b+L b-L+e L-e+N e-N+u N-u sp
+slabo           s+l s-l+a l-a+b a-b+o b-o sp
+slabom          s+l s-l+a l-a+b a-b+o b-o+m o-m sp
+slabu           s+l s-l+a l-a+b a-b+u b-u sp
+slavoniji       s+l s-l+a l-a+v a-v+o v-o+n o-n+i n-i+j i-j+i j-i sp
+slavonski       s+l s-l+a l-a+v a-v+o v-o+n o-n+s n-s+k s-k+i k-i sp
+slijede^eg      s+l s-l+i l-i+j i-j+e j-e+d e-d+e d-e+Cc e-Cc+e Cc-e+g e-g sp
+slijede^ega     s+l s-l+i l-i+j i-j+e j-e+d e-d+e d-e+Cc e-Cc+e Cc-e+g e-g+a g-a sp
+slijede^ih      s+l s-l+i l-i+j i-j+e j-e+d e-d+e d-e+Cc e-Cc+i Cc-i+h i-h sp
+sljede^eg       s+L s-L+e L-e+d e-d+e d-e+Cc e-Cc+e Cc-e+g e-g sp
+sljede^ega      s+L s-L+e L-e+d e-d+e d-e+Cc e-Cc+e Cc-e+g e-g+a g-a sp
+sljede^ih       s+L s-L+e L-e+d e-d+e d-e+Cc e-Cc+i Cc-i+h i-h sp
+sloj            s+l s-l+o l-o+j o-j sp
+slu`be          s+l s-l+u l-u+Z u-Z+b Z-b+e b-e sp
+smanjena        s+m s-m+a m-a+N a-N+e N-e+n e-n+a n-a sp
+smanjene        s+m s-m+a m-a+N a-N+e N-e+n e-n+e n-e sp
+smanjenje       s+m s-m+a m-a+N a-N+e N-e+N e-N+e N-e sp
+smanjiti        s+m s-m+a m-a+N a-N+i N-i+t i-t+i t-i sp
+smanjuje        s+m s-m+a m-a+N a-N+u N-u+j u-j+e j-e sp
+smetnje         s+m s-m+e m-e+t e-t+N t-N+e N-e sp
+smiriti         s+m s-m+i m-i+r i-r+i r-i+t i-t+i t-i sp
+smirivanje      s+m s-m+i m-i+r i-r+i r-i+v i-v+a v-a+N a-N+e N-e sp
+smirivanju      s+m s-m+i m-i+r i-r+i r-i+v i-v+a v-a+N a-N+u N-u sp
+smjera          s+m s-m+j m-j+e j-e+r e-r+a r-a sp
+smo             s+m s-m+o m-o sp
+smrzava         s+m s-m+r m-r+z r-z+a z-a+v a-v+a v-a sp
+smrzavati       s+m s-m+r m-r+z r-z+a z-a+v a-v+a v-a+t a-t+i t-i sp
+sna             s+n s-n+a n-a sp
+sna`na          s+n s-n+a n-a+Z a-Z+n Z-n+a n-a sp
+sni`enog        s+n s-n+i n-i+Z i-Z+e Z-e+n e-n+o n-o+g o-g sp
+snijeg          s+n s-n+i n-i+j i-j+e j-e+g e-g sp
+snijega         s+n s-n+i n-i+j i-j+e j-e+g e-g+a g-a sp
+snijegom        s+n s-n+i n-i+j i-j+e j-e+g e-g+o g-o+m o-m sp
+snje`na         s+N s-N+e N-e+Z e-Z+n Z-n+a n-a sp
+snom            s+n s-n+o n-o+m o-m sp
+sparno          s+p s-p+a p-a+r a-r+n r-n+o n-o sp
+split           s+p s-p+l p-l+i l-i+t i-t sp
+sporo           s+p s-p+o p-o+r o-r+o r-o sp
+spustila        s+p s-p+u p-u+s u-s+t s-t+i t-i+l i-l+a l-a sp
+sras            s+r s-r+a r-a+s a-s sp
+sredine         s+r s-r+e r-e+d e-d+i d-i+n i-n+e n-e sp
+sredini         s+r s-r+e r-e+d e-d+i d-i+n i-n+i n-i sp
+sredinom        s+r s-r+e r-e+d e-d+i d-i+n i-n+o n-o+m o-m sp
+sredi{njem      s+r s-r+e r-e+d e-d+i d-i+S i-S+N S-N+e N-e+m e-m sp
+sredi{njim      s+r s-r+e r-e+d e-d+i d-i+S i-S+N S-N+i N-i+m i-m sp
+sredi{njoj      s+r s-r+e r-e+d e-d+i d-i+S i-S+N S-N+o N-o+j o-j sp
+sredi{te        s+r s-r+e r-e+d e-d+i d-i+S i-S+t S-t+e t-e sp
+sredi{tem       s+r s-r+e r-e+d e-d+i d-i+S i-S+t S-t+e t-e+m e-m sp
+srednje         s+r s-r+e r-e+d e-d+N d-N+e N-e sp
+srednjeg        s+r s-r+e r-e+d e-d+N d-N+e N-e+g e-g sp
+srednjega       s+r s-r+e r-e+d e-d+N d-N+e N-e+g e-g+a g-a sp
+srednjem        s+r s-r+e r-e+d e-d+N d-N+e N-e+m e-m sp
+srednji         s+r s-r+e r-e+d e-d+N d-N+i N-i sp
+srednjim        s+r s-r+e r-e+d e-d+N d-N+i N-i+m i-m sp
+srednjoj        s+r s-r+e r-e+d e-d+N d-N+o N-o+j o-j sp
+srednjom        s+r s-r+e r-e+d e-d+N d-N+o N-o+m o-m sp
+sredozemlja     s+r s-r+e r-e+d e-d+o d-o+z o-z+e z-e+m e-m+L m-L+a L-a sp
+sredozemljem    s+r s-r+e r-e+d e-d+o d-o+z o-z+e z-e+m e-m+L m-L+e L-e+m e-m sp
+sredozemlju     s+r s-r+e r-e+d e-d+o d-o+z o-z+e z-e+m e-m+L m-L+u L-u sp
+sredozemna      s+r s-r+e r-e+d e-d+o d-o+z o-z+e z-e+m e-m+n m-n+a n-a sp
+sredozemne      s+r s-r+e r-e+d e-d+o d-o+z o-z+e z-e+m e-m+n m-n+e n-e sp
+srijedu         s+r s-r+i r-i+j i-j+e j-e+d e-d+u d-u sp
+srijemu         s+r s-r+i r-i+j i-j+e j-e+m e-m+u m-u sp
+sr~ane          s+r s-r+C r-C+a C-a+n a-n+e n-e sp
+sr~ani          s+r s-r+C r-C+a C-a+n a-n+i n-i sp
+sr~anih         s+r s-r+C r-C+a C-a+n a-n+i n-i+h i-h sp
+stabilne        s+t s-t+a t-a+b a-b+i b-i+l i-l+n l-n+e n-e sp
+stabilnije      s+t s-t+a t-a+b a-b+i b-i+l i-l+n l-n+i n-i+j i-j+e j-e sp
+stabilno        s+t s-t+a t-a+b a-b+i b-i+l i-l+n l-n+o n-o sp
+stalno          s+t s-t+a t-a+l a-l+n l-n+o n-o sp
+stanja          s+t s-t+a t-a+N a-N+a N-a sp
+stanje          s+t s-t+a t-a+N a-N+e N-e sp
+stanovnici      s+t s-t+a t-a+n a-n+o n-o+v o-v+n v-n+i n-i+c i-c+i c-i sp
+staru           s+t s-t+a t-a+r a-r+u r-u sp
+stjepana        s+t s-t+j t-j+e j-e+p e-p+a p-a+n a-n+a n-a sp
+sto             s+t s-t+o t-o sp
+stodevedesetidva s+t s-t+o t-o+d o-d+e d-e+v e-v+e v-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+v d-v+a v-a sp
+stodvanaest     s+t s-t+o t-o+d o-d+v d-v+a v-a+n a-n+a n-a+e a-e+s e-s+t s-t sp
+stoga           s+t s-t+o t-o+g o-g+a g-a sp
+stojanovi^      s+t s-t+o t-o+j o-j+a j-a+n a-n+o n-o+v o-v+i v-i+Cc i-Cc sp
+stojedanaest    s+t s-t+o t-o+j o-j+e j-e+d e-d+a d-a+n a-n+a n-a+e a-e+s e-s+t s-t sp
+stoosamdesetidva s+t s-t+o t-o+o o-o+s o-s+a s-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+v d-v+a v-a sp
+stopedesetiosam s+t s-t+o t-o+p o-p+e p-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+o i-o+s o-s+a s-a+m a-m sp
+stosedamnaest   s+t s-t+o t-o+s o-s+e s-e+d e-d+a d-a+m a-m+n m-n+a n-a+e a-e+s e-s+t s-t sp
+stotine         s+t s-t+o t-o+t o-t+i t-i+n i-n+e n-e sp
+stotinu         s+t s-t+o t-o+t o-t+i t-i+n i-n+u n-u sp
+sto~etrdesetidva s+t s-t+o t-o+C o-C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+v d-v+a v-a sp
+strelec         s+t s-t+r t-r+e r-e+l e-l+e l-e+c e-c sp
+strujanja       s+t s-t+r t-r+u r-u+j u-j+a j-a+N a-N+a N-a sp
+stupanj         s+t s-t+u t-u+p u-p+a p-a+N a-N sp
+stupnja         s+t s-t+u t-u+p u-p+N p-N+a N-a sp
+stupnjeva       s+t s-t+u t-u+p u-p+N p-N+e N-e+v e-v+a v-a sp
+stvaranje       s+t s-t+v t-v+a v-a+r a-r+a r-a+N a-N+e N-e sp
+stvarati        s+t s-t+v t-v+a v-a+r a-r+a r-a+t a-t+i t-i sp
+su              s+u s-u sp
+subote          s+u s-u+b u-b+o b-o+t o-t+e t-e sp
+subotu          s+u s-u+b u-b+o b-o+t o-t+u t-u sp
+suho            s+u s-u+h u-h+o h-o sp
+sumaglica       s+u s-u+m u-m+a m-a+g a-g+l g-l+i l-i+c i-c+a c-a sp
+sumaglice       s+u s-u+m u-m+a m-a+g a-g+l g-l+i l-i+c i-c+e c-e sp
+sumaglicom      s+u s-u+m u-m+a m-a+g a-g+l g-l+i l-i+c i-c+o c-o+m o-m sp
+sunca           s+u s-u+n u-n+c n-c+a c-a sp
+sunce           s+u s-u+n u-n+c n-c+e c-e sp
+sun~ana         s+u s-u+n u-n+C n-C+a C-a+n a-n+a n-a sp
+sun~anih        s+u s-u+n u-n+C n-C+a C-a+n a-n+i n-i+h i-h sp
+sun~anije       s+u s-u+n u-n+C n-C+a C-a+n a-n+i n-i+j i-j+e j-e sp
+sun~anim        s+u s-u+n u-n+C n-C+a C-a+n a-n+i n-i+m i-m sp
+sun~ano         s+u s-u+n u-n+C n-C+a C-a+n a-n+o n-o sp
+sun~anog        s+u s-u+n u-n+C n-C+a C-a+n a-n+o n-o+g o-g sp
+susnje`ica      s+u s-u+s u-s+N s-N+e N-e+Z e-Z+i Z-i+c i-c+a c-a sp
+susnje`icom     s+u s-u+s u-s+N s-N+e N-e+Z e-Z+i Z-i+c i-c+o c-o+m o-m sp
+susnje`icu      s+u s-u+s u-s+N s-N+e N-e+Z e-Z+i Z-i+c i-c+u c-u sp
+sustav          s+u s-u+s u-s+t s-t+a t-a+v a-v sp
+sustava         s+u s-u+s u-s+t s-t+a t-a+v a-v+a v-a sp
+sustavom        s+u s-u+s u-s+t s-t+a t-a+v a-v+o v-o+m o-m sp
+sutra           s+u s-u+t u-t+r t-r+a r-a sp
+sve             s+v s-v+e v-e sp
+svetog          s+v s-v+e v-e+t e-t+o t-o+g o-g sp
+svetoga         s+v s-v+e v-e+t e-t+o t-o+g o-g+a g-a sp
+svi             s+v s-v+i v-i sp
+svje`e          s+v s-v+j v-j+e j-e+Z e-Z+e Z-e sp
+svje`ija        s+v s-v+j v-j+e j-e+Z e-Z+i Z-i+j i-j+a j-a sp
+svje`ije        s+v s-v+j v-j+e j-e+Z e-Z+i Z-i+j i-j+e j-e sp
+t               t sp
+tako            t+a t-a+k a-k+o k-o sp
+tako}er         t+a t-a+k a-k+o k-o+dz o-dz+e dz-e+r e-r sp
+tamo            t+a t-a+m a-m+o m-o sp
+te              t+e t-e sp
+tegoba          t+e t-e+g e-g+o g-o+b o-b+a b-a sp
+tegobe          t+e t-e+g e-g+o g-o+b o-b+e b-e sp
+tek             t+e t-e+k e-k sp
+temperatura     t+e t-e+m e-m+p m-p+e p-e+r e-r+a r-a+t a-t+u t-u+r u-r+a r-a sp
+temperaturama   t+e t-e+m e-m+p m-p+e p-e+r e-r+a r-a+t a-t+u t-u+r u-r+a r-a+m a-m+a m-a sp
+temperature     t+e t-e+m e-m+p m-p+e p-e+r e-r+a r-a+t a-t+u t-u+r u-r+e r-e sp
+temperaturom    t+e t-e+m e-m+p m-p+e p-e+r e-r+a r-a+t a-t+u t-u+r u-r+o r-o+m o-m sp
+temperaturu     t+e t-e+m e-m+p m-p+e p-e+r e-r+a r-a+t a-t+u t-u+r u-r+u r-u sp
+terezino        t+e t-e+r e-r+e r-e+z e-z+i z-i+n i-n+o n-o sp
+tiho            t+i t-i+h i-h+o h-o sp
+tijekom         t+i t-i+j i-j+e j-e+k e-k+o k-o+m o-m sp
+tim             t+i t-i+m i-m sp
+time            t+i t-i+m i-m+e m-e sp
+tirenskim       t+i t-i+r i-r+e r-e+n e-n+s n-s+k s-k+i k-i+m i-m sp
+tirenskog       t+i t-i+r i-r+e r-e+n e-n+s n-s+k s-k+o k-o+g o-g sp
+tirenskom       t+i t-i+r i-r+e r-e+n e-n+s n-s+k s-k+o k-o+m o-m sp
+tirenskome      t+i t-i+r i-r+e r-e+n e-n+s n-s+k s-k+o k-o+m o-m+e m-e sp
+tisu^e          t+i t-i+s i-s+u s-u+Cc u-Cc+e Cc-e sp
+ti~e            t+i t-i+C i-C+e C-e sp
+tjedna          t+j t-j+e j-e+d e-d+n d-n+a n-a sp
+tlak            t+l t-l+a l-a+k a-k sp
+tlaka           t+l t-l+a l-a+k a-k+a k-a sp
+tlom            t+l t-l+o l-o+m o-m sp
+tlu             t+l t-l+u l-u sp
+tmurna          t+m t-m+u m-u+r u-r+n r-n+a n-a sp
+tmurno          t+m t-m+u m-u+r u-r+n r-n+o n-o sp
+to              t+o t-o sp
+toga            t+o t-o+g o-g+a g-a sp
+tokova          t+o t-o+k o-k+o k-o+v o-v+a v-a sp
+tom             t+o t-o+m o-m sp
+toplije         t+o t-o+p o-p+l p-l+i l-i+j i-j+e j-e sp
+toplijeg        t+o t-o+p o-p+l p-l+i l-i+j i-j+e j-e+g e-g sp
+toplo           t+o t-o+p o-p+l p-l+o l-o sp
+toplom          t+o t-o+p o-p+l p-l+o l-o+m o-m sp
+tramontana      t+r t-r+a r-a+m a-m+o m-o+n o-n+t n-t+a t-a+n a-n+a n-a sp
+tramontane      t+r t-r+a r-a+m a-m+o m-o+n o-n+t n-t+a t-a+n a-n+e n-e sp
+trava           t+r t-r+a r-a+v a-v+a v-a sp
+trave           t+r t-r+a r-a+v a-v+e v-e sp
+travnjaka       t+r t-r+a r-a+v a-v+N v-N+a N-a+k a-k+a k-a sp
+tre^e           t+r t-r+e r-e+Cc e-Cc+e Cc-e sp
+treba           t+r t-r+e r-e+b e-b+a b-a sp
+trebaju         t+r t-r+e r-e+b e-b+a b-a+j a-j+u j-u sp
+trebala         t+r t-r+e r-e+b e-b+a b-a+l a-l+a l-a sp
+trebale         t+r t-r+e r-e+b e-b+a b-a+l a-l+e l-e sp
+trebali         t+r t-r+e r-e+b e-b+a b-a+l a-l+i l-i sp
+trebalo         t+r t-r+e r-e+b e-b+a b-a+l a-l+o l-o sp
+tri             t+r t-r+i r-i sp
+trideset        t+r t-r+i r-i+d i-d+e d-e+s e-s+e s-e+t e-t sp
+tridesetijedan  t+r t-r+i r-i+d i-d+e d-e+s e-s+e s-e+t e-t+i t-i+j i-j+e j-e+d e-d+a d-a+n a-n sp
+tridesetipet    t+r t-r+i r-i+d i-d+e d-e+s e-s+e s-e+t e-t+i t-i+p i-p+e p-e+t e-t sp
+tridesetitri    t+r t-r+i r-i+d i-d+e d-e+s e-s+e s-e+t e-t+i t-i+t i-t+r t-r+i r-i sp
+trideseti{est   t+r t-r+i r-i+d i-d+e d-e+s e-s+e s-e+t e-t+i t-i+S i-S+e S-e+s e-s+t s-t sp
+trinaest        t+r t-r+i r-i+n i-n+a n-a+e a-e+s e-s+t s-t sp
+tristo          t+r t-r+i r-i+s i-s+t s-t+o t-o sp
+tristojedanaeset t+r t-r+i r-i+s i-s+t s-t+o t-o+j o-j+e j-e+d e-d+a d-a+n a-n+a n-a+e a-e+s e-s+e s-e+t e-t sp
+tristoosamdesetijedan t+r t-r+i r-i+s i-s+t s-t+o t-o+o o-o+s o-s+a s-a+m a-m+d m-d+e d-e+s e-s+e s-e+t e-t+i t-i+j i-j+e j-e+d e-d+a d-a+n a-n sp
+tristotridesetidevet t+r t-r+i r-i+s i-s+t s-t+o t-o+t o-t+r t-r+i r-i+d i-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+e d-e+v e-v+e v-e+t e-t sp
+tu              t+u t-u sp
+tunisa          t+u t-u+n u-n+i n-i+s i-s+a s-a sp
+tunisom         t+u t-u+n u-n+i n-i+s i-s+o s-o+m o-m sp
+tuti{           t+u t-u+t u-t+i t-i+S i-S sp
+u               u sp
+udare           u+d u-d+a d-a+r a-r+e r-e sp
+udari           u+d u-d+a d-a+r a-r+i r-i sp
+udarima         u+d u-d+a d-a+r a-r+i r-i+m i-m+a m-a sp
+uglavno         u+g u-g+l g-l+a l-a+v a-v+n v-n+o n-o sp
+uglavnom        u+g u-g+l g-l+a l-a+v a-v+n v-n+o n-o+m o-m sp
+ugodno          u+g u-g+o g-o+d o-d+n d-n+o n-o sp
+ujutro          u+j u-j+u j-u+t u-t+r t-r+o r-o sp
+umjerana        u+m u-m+j m-j+e j-e+r e-r+a r-a+n a-n+a n-a sp
+umjeren         u+m u-m+j m-j+e j-e+r e-r+e r-e+n e-n sp
+umjerena        u+m u-m+j m-j+e j-e+r e-r+e r-e+n e-n+a n-a sp
+umjerene        u+m u-m+j m-j+e j-e+r e-r+e r-e+n e-n+e n-e sp
+umjereni        u+m u-m+j m-j+e j-e+r e-r+e r-e+n e-n+i n-i sp
+umjereno        u+m u-m+j m-j+e j-e+r e-r+e r-e+n e-n+o n-o sp
+umjerenom       u+m u-m+j m-j+e j-e+r e-r+e r-e+n e-n+o n-o+m o-m sp
+umjerenu        u+m u-m+j m-j+e j-e+r e-r+e r-e+n e-n+u n-u sp
+una             u+n u-n+a n-a sp
+unutra{njost    u+n u-n+u n-u+t u-t+r t-r+a r-a+S a-S+N S-N+o N-o+s o-s+t s-t sp
+unutra{njosti   u+n u-n+u n-u+t u-t+r t-r+a r-a+S a-S+N S-N+o N-o+s o-s+t s-t+i t-i sp
+uobi~ajeno      u+o u-o+b o-b+i b-i+C i-C+a C-a+j a-j+e j-e+n e-n+o n-o sp
+upozorava       u+p u-p+o p-o+z o-z+o z-o+r o-r+a r-a+v a-v+a v-a sp
+upozoravaju     u+p u-p+o p-o+z o-z+o z-o+r o-r+a r-a+v a-v+a v-a+j a-j+u j-u sp
+upozoravamo     u+p u-p+o p-o+z o-z+o z-o+r o-r+a r-a+v a-v+a v-a+m a-m+o m-o sp
+upozorenje      u+p u-p+o p-o+z o-z+o z-o+r o-r+e r-e+N e-N+e N-e sp
+upozorenjem     u+p u-p+o p-o+z o-z+o z-o+r o-r+e r-e+N e-N+e N-e+m e-m sp
+upozoriti       u+p u-p+o p-o+z o-z+o z-o+r o-r+i r-i+t i-t+i t-i sp
+usporeno        u+s u-s+p s-p+o p-o+r o-r+e r-e+n e-n+o n-o sp
+ustalilo        u+s u-s+t s-t+a t-a+l a-l+i l-i+l i-l+o l-o sp
+ustalio         u+s u-s+t s-t+a t-a+l a-l+i l-i+o i-o sp
+uticati         u+t u-t+i t-i+c i-c+a c-a+t a-t+i t-i sp
+uti~e           u+t u-t+i t-i+C i-C+e C-e sp
+utjecaj         u+t u-t+j t-j+e j-e+c e-c+a c-a+j a-j sp
+utjecaja        u+t u-t+j t-j+e j-e+c e-c+a c-a+j a-j+a j-a sp
+utjecajem       u+t u-t+j t-j+e j-e+c e-c+a c-a+j a-j+e j-e+m e-m sp
+utjecati        u+t u-t+j t-j+e j-e+c e-c+a c-a+t a-t+i t-i sp
+utorak          u+t u-t+o t-o+r o-r+a r-a+k a-k sp
+utorka          u+t u-t+o t-o+r o-r+k r-k+a k-a sp
+uvijek          u+v u-v+i v-i+j i-j+e j-e+k e-k sp
+uvjeta          u+v u-v+j v-j+e j-e+t e-t+a t-a sp
+uvjete          u+v u-v+j v-j+e j-e+t e-t+e t-e sp
+uvjeti          u+v u-v+j v-j+e j-e+t e-t+i t-i sp
+uz              u+z u-z sp
+uzburkano       u+z u-z+b z-b+u b-u+r u-r+k r-k+a k-a+n a-n+o n-o sp
+uzdah           u+z u-z+d z-d+a d-a+h a-h sp
+uzrokovane      u+z u-z+r z-r+o r-o+k o-k+o k-o+v o-v+a v-a+n a-n+e n-e sp
+uzrokovanih     u+z u-z+r z-r+o r-o+k o-k+o k-o+v o-v+a v-a+n a-n+i n-i+h i-h sp
+uzrokovat       u+z u-z+r z-r+o r-o+k o-k+o k-o+v o-v+a v-a+t a-t sp
+uzrokovati      u+z u-z+r z-r+o r-o+k o-k+o k-o+v o-v+a v-a+t a-t+i t-i sp
+uzrokuje        u+z u-z+r z-r+o r-o+k o-k+u k-u+j u-j+e j-e sp
+u~inak          u+C u-C+i C-i+n i-n+a n-a+k a-k sp
+v               v sp
+vakula          v+a v-a+k a-k+u k-u+l u-l+a l-a sp
+valoviti        v+a v-a+l a-l+o l-o+v o-v+i v-i+t i-t+i t-i sp
+valovito        v+a v-a+l a-l+o l-o+v o-v+i v-i+t i-t+o t-o sp
+ve^             v+e v-e+Cc e-Cc sp
+ve^a            v+e v-e+Cc e-Cc+a Cc-a sp
+ve^e            v+e v-e+Cc e-Cc+e Cc-e sp
+ve^eg           v+e v-e+Cc e-Cc+e Cc-e+g e-g sp
+ve^em           v+e v-e+Cc e-Cc+e Cc-e+m e-m sp
+ve^i            v+e v-e+Cc e-Cc+i Cc-i sp
+ve^ih           v+e v-e+Cc e-Cc+i Cc-i+h i-h sp
+ve^ina          v+e v-e+Cc e-Cc+i Cc-i+n i-n+a n-a sp
+ve^ini          v+e v-e+Cc e-Cc+i Cc-i+n i-n+i n-i sp
+ve^inom         v+e v-e+Cc e-Cc+i Cc-i+n i-n+o n-o+m o-m sp
+vedrije         v+e v-e+d e-d+r d-r+i r-i+j i-j+e j-e sp
+vedro           v+e v-e+d e-d+r d-r+o r-o sp
+velebita        v+e v-e+l e-l+e l-e+b e-b+i b-i+t i-t+a t-a sp
+velebitskom     v+e v-e+l e-l+e l-e+b e-b+i b-i+t i-t+s t-s+k s-k+o k-o+m o-m sp
+velebitskome    v+e v-e+l e-l+e l-e+b e-b+i b-i+t i-t+s t-s+k s-k+o k-o+m o-m+e m-e sp
+veoma           v+e v-e+o e-o+m o-m+a m-a sp
+ve~er           v+e v-e+C e-C+e C-e+r e-r sp
+ve~eras         v+e v-e+C e-C+e C-e+r e-r+a r-a+s a-s sp
+ve~ernjim       v+e v-e+C e-C+e C-e+r e-r+N r-N+i N-i+m i-m sp
+vidljivost      v+i v-i+d i-d+L d-L+i L-i+v i-v+o v-o+s o-s+t s-t sp
+vijest          v+i v-i+j i-j+e j-e+s e-s+t s-t sp
+vikend          v+i v-i+k i-k+e k-e+n e-n+d n-d sp
+vikenda         v+i v-i+k i-k+e k-e+n e-n+d n-d+a d-a sp
+visini          v+i v-i+s i-s+i s-i+n i-n+i n-i sp
+visoka          v+i v-i+s i-s+o s-o+k o-k+a k-a sp
+visokih         v+i v-i+s i-s+o s-o+k o-k+i k-i+h i-h sp
+visokom         v+i v-i+s i-s+o s-o+k o-k+o k-o+m o-m sp
+vi{a            v+i v-i+S i-S+a S-a sp
+vi{e            v+i v-i+S i-S+e S-e sp
+vi{em           v+i v-i+S i-S+e S-e+m e-m sp
+vjerojatno      v+j v-j+e j-e+r e-r+o r-o+j o-j+a j-a+t a-t+n t-n+o n-o sp
+vjerojatnost    v+j v-j+e j-e+r e-r+o r-o+j o-j+a j-a+t a-t+n t-n+o n-o+s o-s+t s-t sp
+vjetar          v+j v-j+e j-e+t e-t+a t-a+r a-r sp
+vjetra          v+j v-j+e j-e+t e-t+r t-r+a r-a sp
+vjetrom         v+j v-j+e j-e+t e-t+r t-r+o r-o+m o-m sp
+vjetrovito      v+j v-j+e j-e+t e-t+r t-r+o r-o+v o-v+i v-i+t i-t+o t-o sp
+vla`ni          v+l v-l+a l-a+Z a-Z+n Z-n+i n-i sp
+vlasta          v+l v-l+a l-a+s a-s+t s-t+a t-a sp
+vodostaj        v+o v-o+d o-d+o d-o+s o-s+t s-t+a t-a+j a-j sp
+vodostaju       v+o v-o+d o-d+o d-o+s o-s+t s-t+a t-a+j a-j+u j-u sp
+vratima         v+r v-r+a r-a+t a-t+i t-i+m i-m+a m-a sp
+vrbe            v+r v-r+b r-b+e b-e sp
+vremena         v+r v-r+e r-e+m e-m+e m-e+n e-n+a n-a sp
+vremenom        v+r v-r+e r-e+m e-m+e m-e+n e-n+o n-o+m o-m sp
+vremenska       v+r v-r+e r-e+m e-m+e m-e+n e-n+s n-s+k s-k+a k-a sp
+vremenske       v+r v-r+e r-e+m e-m+e m-e+n e-n+s n-s+k s-k+e k-e sp
+vremenski       v+r v-r+e r-e+m e-m+e m-e+n e-n+s n-s+k s-k+i k-i sp
+vremensko       v+r v-r+e r-e+m e-m+e m-e+n e-n+s n-s+k s-k+o k-o sp
+vremenskog      v+r v-r+e r-e+m e-m+e m-e+n e-n+s n-s+k s-k+o k-o+g o-g sp
+vremenu         v+r v-r+e r-e+m e-m+e m-e+n e-n+u n-u sp
+vrhu            v+r v-r+h r-h+u h-u sp
+vrijeme         v+r v-r+i r-i+j i-j+e j-e+m e-m+e m-e sp
+vrlo            v+r v-r+l r-l+o l-o sp
+vru^e           v+r v-r+u r-u+Cc u-Cc+e Cc-e sp
+vr{nak          v+r v-r+S r-S+n S-n+a n-a+k a-k sp
+vukovar         v+u v-u+k u-k+o k-o+v o-v+a v-a+r a-r sp
+z               z sp
+za              z+a z-a sp
+zabjelili       z+a z-a+b a-b+j b-j+e j-e+l e-l+i l-i+l i-l+i l-i sp
+zadr`at         z+a z-a+d a-d+r d-r+Z r-Z+a Z-a+t a-t sp
+zadr`ati        z+a z-a+d a-d+r d-r+Z r-Z+a Z-a+t a-t+i t-i sp
+zadr`ava        z+a z-a+d a-d+r d-r+Z r-Z+a Z-a+v a-v+a v-a sp
+zadr`e          z+a z-a+d a-d+r d-r+Z r-Z+e Z-e sp
+zadru           z+a z-a+d a-d+r d-r+u r-u sp
+zagorju         z+a z-a+g a-g+o g-o+r o-r+j r-j+u j-u sp
+zagreb          z+a z-a+g a-g+r g-r+e r-e+b e-b sp
+zagrebu         z+a z-a+g a-g+r g-r+e r-e+b e-b+u b-u sp
+zahladnjenje    z+a z-a+h a-h+l h-l+a l-a+d a-d+N d-N+e N-e+N e-N+e N-e sp
+zahla}enje      z+a z-a+h a-h+l h-l+a l-a+dz a-dz+e dz-e+N e-N+e N-e sp
+zahvatiti       z+a z-a+h a-h+v h-v+a v-a+t a-t+i t-i+t i-t+i t-i sp
+zale}u          z+a z-a+l a-l+e l-e+dz e-dz+u dz-u sp
+zamijeniti      z+a z-a+m a-m+i m-i+j i-j+e j-e+n e-n+i n-i+t i-t+i t-i sp
+zapada          z+a z-a+p a-p+a p-a+d a-d+a d-a sp
+zapadne         z+a z-a+p a-p+a p-a+d a-d+n d-n+e n-e sp
+zapadni         z+a z-a+p a-p+a p-a+d a-d+n d-n+i n-i sp
+zapadnim        z+a z-a+p a-p+a p-a+d a-d+n d-n+i n-i+m i-m sp
+zapadnjak       z+a z-a+p a-p+a p-a+d a-d+N d-N+a N-a+k a-k sp
+zapadnoeuropske z+a z-a+p a-p+a p-a+d a-d+n d-n+o n-o+e o-e+u e-u+r u-r+o r-o+p o-p+s p-s+k s-k+e k-e sp
+zapadnog        z+a z-a+p a-p+a p-a+d a-d+n d-n+o n-o+g o-g sp
+zapadnoj        z+a z-a+p a-p+a p-a+d a-d+n d-n+o n-o+j o-j sp
+zapadnom        z+a z-a+p a-p+a p-a+d a-d+n d-n+o n-o+m o-m sp
+zapadnu         z+a z-a+p a-p+a p-a+d a-d+n d-n+u n-u sp
+zapadu          z+a z-a+p a-p+a p-a+d a-d+u d-u sp
+zapuhat         z+a z-a+p a-p+u p-u+h u-h+a h-a+t a-t sp
+zapuhati        z+a z-a+p a-p+u p-u+h u-h+a h-a+t a-t+i t-i sp
+zasad           z+a z-a+s a-s+a s-a+d a-d sp
+zastoja         z+a z-a+s a-s+t s-t+o t-o+j o-j+a j-a sp
+zatim           z+a z-a+t a-t+i t-i+m i-m sp
+zato            z+a z-a+t a-t+o t-o sp
+zatopljenje     z+a z-a+t a-t+o t-o+p o-p+L p-L+e L-e+N e-N+e N-e sp
+zavoda          z+a z-a+v a-v+o v-o+d o-d+a d-a sp
+za{tita         z+a z-a+S a-S+t S-t+i t-i+t i-t+a t-a sp
+za{tititi       z+a z-a+S a-S+t S-t+i t-i+t i-t+i t-i+t i-t+i t-i sp
+za{titu         z+a z-a+S a-S+t S-t+i t-i+t i-t+u t-u sp
+zbog            z+b z-b+o b-o+g o-g sp
+zdravstvo       z+d z-d+r d-r+a r-a+v a-v+s v-s+t s-t+v t-v+o v-o sp
+zemlje          z+e z-e+m e-m+L m-L+e L-e sp
+zemlji          z+e z-e+m e-m+L m-L+i L-i sp
+zemlju          z+e z-e+m e-m+L m-L+u L-u sp
+znatnije        z+n z-n+a n-a+t a-t+n t-n+i n-i+j i-j+e j-e sp
+znatno          z+n z-n+a n-a+t a-t+n t-n+o n-o sp
+zna~ajnije      z+n z-n+a n-a+C a-C+a C-a+j a-j+n j-n+i n-i+j i-j+e j-e sp
+zna~i           z+n z-n+a n-a+C a-C+i C-i sp
+zoran           z+o z-o+r o-r+a r-a+n a-n sp
+zrak            z+r z-r+a r-a+k a-k sp
+zraka           z+r z-r+a r-a+k a-k+a k-a sp
+zraku           z+r z-r+a r-a+k a-k+u k-u sp
+{amac           S+a S-a+m a-m+a m-a+c a-c sp
+{esnaest        S+e S-e+s e-s+n s-n+a n-a+e a-e+s e-s+t s-t sp
+{est            S+e S-e+s e-s+t s-t sp
+{esto           S+e S-e+s e-s+t s-t+o t-o sp
+{estodvadesetiosam S+e S-e+s e-s+t s-t+o t-o+d o-d+v d-v+a v-a+d a-d+e d-e+s e-s+e s-e+t e-t+i t-i+o i-o+s o-s+a s-a+m a-m sp
+{esto{ezdeseti~etiri S+e S-e+s e-s+t s-t+o t-o+S o-S+e S-e+z e-z+d z-d+e d-e+s e-s+e s-e+t e-t+i t-i+C i-C+e C-e+t e-t+i t-i+r i-r+i r-i sp
+{esto~etrdesetisedam S+e S-e+s e-s+t s-t+o t-o+C o-C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t+i t-i+s i-s+e s-e+d e-d+a d-a+m a-m sp
+{etnju          S+e S-e+t e-t+N t-N+u N-u sp
+{ezdeset        S+e S-e+z e-z+d z-d+e d-e+s e-s+e s-e+t e-t sp
+{ezdeseti{est   S+e S-e+z e-z+d z-d+e d-e+s e-s+e s-e+t e-t+i t-i+S i-S+e S-e+s e-s+t s-t sp
+{ire            S+i S-i+r i-r+e r-e sp
+{iri            S+i S-i+r i-r+i r-i sp
+{kifi^          S+k S-k+i k-i+f i-f+i f-i+Cc i-Cc sp
+{to             S+t S-t+o t-o sp
+{tovi{e         S+t S-t+o t-o+v o-v+i v-i+S i-S+e S-e sp
+~apka           C+a C-a+p a-p+k p-k+a k-a sp
+~emu            C+e C-e+m e-m+u m-u sp
+~esto           C+e C-e+s e-s+t s-t+o t-o sp
+~etiri          C+e C-e+t e-t+i t-i+r i-r+i r-i sp
+~etiristo       C+e C-e+t e-t+i t-i+r i-r+i r-i+s i-s+t s-t+o t-o sp
+~etiristodevedesetiosam C+e C-e+t e-t+i t-i+r i-r+i r-i+s i-s+t s-t+o t-o+d o-d+e d-e+v e-v+e v-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+o i-o+s o-s+a s-a+m a-m sp
+~etiristopedesetipet C+e C-e+t e-t+i t-i+r i-r+i r-i+s i-s+t s-t+o t-o+p o-p+e p-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+p i-p+e p-e+t e-t sp
+~etrdeset       C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t sp
+~etrdesetijedan C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t+i t-i+j i-j+e j-e+d e-d+a d-a+n a-n sp
+~etrdesetipet   C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t+i t-i+p i-p+e p-e+t e-t sp
+~etrdesetitri   C+e C-e+t e-t+r t-r+d r-d+e d-e+s e-s+e s-e+t e-t+i t-i+t i-t+r t-r+i r-i sp
+~etriri         C+e C-e+t e-t+r t-r+i r-i+r i-r+i r-i sp
+~etristodvedesetidva C+e C-e+t e-t+r t-r+i r-i+s i-s+t s-t+o t-o+d o-d+v d-v+e v-e+d e-d+e d-e+s e-s+e s-e+t e-t+i t-i+d i-d+v d-v+a v-a sp
+~etrnaest       C+e C-e+t e-t+r t-r+n r-n+a n-a+e a-e+s e-s+t s-t sp
+~etvrtak        C+e C-e+t e-t+v t-v+r v-r+t r-t+a t-a+k a-k sp
+~e{^e           C+e C-e+S e-S+Cc S-Cc+e Cc-e sp
+~e{^i           C+e C-e+S e-S+Cc S-Cc+i Cc-i sp
+~itavom         C+i C-i+t i-t+a t-a+v a-v+o v-o+m o-m sp
+~vora           C+v C-v+o v-o+r o-r+a r-a sp
+~vorova         C+v C-v+o v-o+r o-r+o r-o+v o-v+a v-a sp

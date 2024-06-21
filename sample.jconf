@@ -1,0 +1,33 @@
+# VoxForge configurations:
+-input mic
+-v julius_dict    # pronunciation dictionary
+-mapunk <sil>
+-h hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)
+-hlist tiedlist     # HMMList to map logical phone to physical
+-d language_model.bingram
+-smpFreq 16000      # sampling rate (Hz)
+-spmodel "sil"           # name of a short-pause silence model
+-b 4000
+-lmp 12 -6
+-lmp2 12 -6
+-fallback1pass
+-multipath
+-iwsp
+-iwcd1 max
+-no_ccd
+-sepnum 150
+-b2 360
+-n 40
+-s 2000
+-m 8000
+-lookuprange 5
+-sb 80
+-forcedict
+
+# you may need to adjust your "-lv" value to prevent the recognizer inadvertently 
+# recognizing non-speech sounds:
+-lv 100          # level threshold (0-32767)
+
+# comment these out for debugging:
+-logfile julius.log
+-quiet

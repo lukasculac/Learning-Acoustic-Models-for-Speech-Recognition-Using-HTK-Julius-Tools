@@ -1,0 +1,377 @@
+STAT: jconf successfully finalized
+STAT: *** loading AM00 _default
+Stat: init_phmm: Reading in HMM definition
+Stat: rdhmmdef: ascii format HMM definition
+Stat: rdhmmdef: limit check passed
+Stat: check_hmm_restriction: an HMM with several arcs from initial state found: "sp"
+Stat: rdhmmdef: this HMM requires multipath handling at decoding
+Stat: rdhmmdef: no <SID> embedded
+Stat: rdhmmdef: assign SID by the order of appearance
+Stat: init_phmm: defined HMMs:  1707
+Stat: init_phmm: loading ascii hmmlist
+Stat: init_phmm: logical names:  1971 in HMMList
+Stat: init_phmm: base phones:    35 used in logical
+Stat: init_phmm: finished reading HMM definitions
+STAT: m_fusion: force multipath HMM handling by user request
+STAT: making pseudo bi/mono-phone for IW-triphone
+Stat: hmm_lookup: 444 pseudo phones are added to logical HMM list
+STAT: *** AM00 _default loaded
+STAT: *** loading LM00 _default
+Stat: init_voca: read 1451 words
+Stat: init_ngram: reading in binary n-gram from language_model.bingram
+Stat: ngram_read_bin: file version: 5
+Stat: ngram_read_bin_v5: this is backward 3-gram file
+stat: ngram_read_bin_v5: reading 1-gram
+stat: ngram_read_bin_v5: reading 2-gram
+stat: ngram_read_bin_v5: reading 3-gram
+Stat: ngram_read_bin_v5: reading additional LR 2-gram
+Stat: ngram_read_bin: making entry name index
+Stat: init_ngram: neither "<unk>" nor "<UNK>" was found, assuming close vocabulary LM
+Stat: init_ngram: finished reading n-gram
+Stat: init_ngram: unknown word entry was set to "<sil>"
+Stat: init_ngram: mapping dictonary words to n-gram entries
+Warning: ngram_lookup: "SENT-END" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "SENT-START" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "alpa" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "breze" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "budimpe{te" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "devetoga" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "dobili" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "europska" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "europskoga" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "formira" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "formiranje" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "hidrometeorolo{koga" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "hrvatske" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "hrvatskome" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "jaki" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "jug" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "jugoisto~njak" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "jugozapadak" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "k" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "kojega" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "ligurskoga" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "ligurskome" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "lo{a" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "magli" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "mjestimi~nim" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "najosjetljiviji" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "naobla~it" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "nepogodne" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "nestabilan" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "nestabilnosti" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "no^" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "oborinom" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "oja~ava" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "osje^at" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "oslabio" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "otvorenomu" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "podru~ja" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "pokoji" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "premjestila" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "premje{tat" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "preostali" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "prevladavala" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "pri" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "prija{njih" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "primorju" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "promijenjljivo" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "promjenom" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "prvi" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "rasti" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "rijetkih" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "rije~kome" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "sjeveroistoku" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "sjeveroisto~nog" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "skretati" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "sljede^eg" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "sras" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "svje`ija" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "temperaturama" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "tisu^e" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "tre^e" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "uti~e" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "velebitskome" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "visokom" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "vjerojatnost" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "vrbe" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "zapadnoeuropske" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "{kifi^" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "~emu" not exist in N-gram, treat as unknown
+Warning: ngram_lookup: "~itavom" not exist in N-gram, treat as unknown
+Stat: init_ngram: finished word-to-ngram mapping
+STAT: *** LM00 _default loaded
+STAT: ------
+STAT: All models are ready, go for final fusion
+STAT: [1] create MFCC extraction instance(s)
+STAT: *** create MFCC calculation modules from AM
+STAT: AM 0 _default: create a new module MFCC01
+STAT: 1 MFCC modules created
+STAT: [2] create recognition processing instance(s) with AM and LM
+STAT: composing recognizer instance SR00 _default (AM00 _default, LM00 _default)
+STAT: Building HMM lexicon tree
+STAT: lexicon size: 24573 nodes
+STAT: coordination check passed
+STAT: make successor lists for unigram factoring
+STAT: done
+STAT:  1-gram factoring values has been pre-computed
+STAT: SR00 _default composed
+STAT: [3] initialize for acoustic HMM calculation
+Stat: outprob_init: state-level mixture PDFs, use calc_mix()
+Stat: addlog: generating addlog table (size = 1953 kB)
+Stat: addlog: addlog table generated
+STAT: [4] prepare MFCC storage(s)
+STAT: [5] prepare for real-time decoding
+STAT: All init successfully done
+
+STAT: ###### initialize input device
+----------------------- System Information begin ---------------------
+JuliusLib rev.4.6 (fast)
+
+Engine specification:
+ -  Base setup   : fast
+ -  Supported LM : DFA, N-gram, Word
+ -  Extension    : NoPThread NoMBR
+ -  Compiled by  : msvc
+Library configuration: version 4.6
+ - Audio input
+    primary A/D-in driver   : pa-dsound (PortAudio library (DirectSound))
+    available drivers       :
+    wavefile formats        : WAV and RAW
+    max. length of an input : 320000 samples, 150 words
+ - Language Model
+    class N-gram support    : yes
+    MBR weight support      : no
+    word id unit            : short (2 bytes)
+ - Acoustic Model
+    multi-path treatment    : autodetect
+ - External library
+    file decompression by   : zlib
+ - Process hangling
+    fork on adinnet input   : no
+ - built-in SIMD instruction set for DNN
+    SSE AVX FMA
+    FMA is available maximum on this cpu, use it
+ - built-in CUDA support: no
+
+
+------------------------------------------------------------
+Configuration of Modules
+
+ Number of defined modules: AM=1, LM=1, SR=1
+
+ Acoustic Model (with input parameter spec.):
+ - AM00 "_default"
+	hmmfilename=hmm15/hmmdefs
+	hmmmapfilename=tiedlist
+
+ Language Model:
+ - LM00 "_default"
+	vocabulary filename=julius_dict
+	n-gram  filename=language_model.bingram (binary format)
+
+ Recognizer:
+ - SR00 "_default" (AM00, LM00)
+
+------------------------------------------------------------
+Speech Analysis Module(s)
+
+[MFCC01]  for [AM00 _default]
+
+ Acoustic analysis condition:
+	       parameter = MFCC_0_D_N_Z (25 dim. from 12 cepstrum + c0, abs energy supressed with CMN)
+	sample frequency = 16000 Hz
+	   sample period =  625  (1 = 100ns)
+	     window size =  400 samples (25.0 ms)
+	     frame shift =  160 samples (10.0 ms)
+	    pre-emphasis = 0.97
+	    # filterbank = 24
+	   cepst. lifter = 22
+	      raw energy = False
+	energy normalize = False
+	    delta window = 2 frames (20.0 ms) around
+	     hi freq cut = OFF
+	     lo freq cut = OFF
+	 zero mean frame = OFF
+	       use power = OFF
+	             CVN = OFF
+	            VTLN = OFF
+
+    spectral subtraction = off
+
+ cep. mean normalization = yes, real-time MAP-CMN, updating initial mean with last 500 input frames
+  initial mean from file = N/A
+   beginning data weight = 100.00
+ cep. var. normalization = no
+
+	 base setup from = Julius defaults
+
+------------------------------------------------------------
+Acoustic Model(s)
+
+[AM00 "_default"]
+
+ HMM Info:
+    1707 models, 2014 states, 2014 mpdfs, 2014 Gaussians are defined
+	      model type = context dependency handling ON
+      training parameter = MFCC_N_D_Z_0
+	   vector length = 25
+	number of stream = 1
+	     stream info = [0-24]
+	cov. matrix type = DIAGC
+	   duration type = NULLD
+	max mixture size = 1 Gaussians
+     max length of model = 5 states
+     logical base phones = 35
+       model skip trans. = exist, require multi-path handling
+      skippable models = sp (1 model(s))
+
+ AM Parameters:
+        Gaussian pruning = none (full computation)  (-gprune)
+    short pause HMM name = "sil" specified, "sil" applied (physical)  (-sp)
+  cross-word CD on pass1 = handle by approx. (use max. prob. of same LC)
+   sp transition penalty = -1.0
+
+------------------------------------------------------------
+Language Model(s)
+
+[LM00 "_default"] type=n-gram
+
+ N-gram info:
+	            spec = 3-gram, backward (right-to-left)
+	        OOV word = <sil>(id=9)
+	        OOV size = 70 words in dict
+	    wordset size = 1390
+	  1-gram entries =       1390  (  0.0 MB)
+	  2-gram entries =       5399  (  0.1 MB) (87% are valid contexts)
+	  3-gram entries =       9172  (  0.1 MB)
+	LR 2-gram entries=       5399  (  0.0 MB)
+	           pass1 = given additional forward 2-gram
+
+ Vocabulary Info:
+        vocabulary size  = 1451 words, 10591 models
+        average word len = 7.3 models, 21.9 states
+       maximum state num = 57 nodes per word
+       transparent words = not exist
+       words under class = not exist
+
+ Parameters:
+	(-silhead)head sil word = 2: "<s> @0.000000 [<s>] sil(sil)"
+	(-siltail)tail sil word = 3: "</s> @0.000000 [</s>] sil(sil)"
+
+------------------------------------------------------------
+Recognizer(s)
+
+[SR00 "_default"]  AM00 "_default"  +  LM00 "_default"
+
+ Lexicon tree:
+	 total node num =  24573
+	  root node num =    319
+	(150 hi-freq. words are separated from tree lexicon)
+	  leaf node num =   1451
+	 fact. node num =   1451
+
+ Inter-word N-gram cache: 
+	root node to be cached = 191 / 319 (isolated only)
+	word ends to be cached = 1390 (all)
+	  max. allocation size = 1MB
+	(-lmp)  pass1 LM weight = 12.0  ins. penalty = -6.0
+	(-lmp2) pass2 LM weight = 12.0  ins. penalty = -6.0
+	(-transp)trans. penalty = +0.0 per word
+	(-cmalpha)CM alpha coef = 0.050000
+
+	 inter-word short pause = on (append "sil" for each word tail)
+	  sp transition penalty = -1.0
+ Search parameters: 
+	    multi-path handling = yes, multi-path mode enabled
+	(-b) trellis beam width = 4000
+	(-bs)score pruning thres= disabled
+	(-n)search candidate num= 40
+	(-s)  search stack size = 2000
+	(-m)    search overflow = after 8000 hypothesis poped
+	        2nd pass method = searching sentence, generating N-best
+	(-b2)  pass2 beam width = 360
+	(-lookuprange)lookup range= 5  (tm-5 <= t <tm+5)
+	(-sb)2nd scan beamthres = 80.0 (in logscore)
+	(-n)        search till = 40 candidates found
+	(-output)    and output = 1 candidates out of above
+	 factoring score: 1-gram prob. (statically assigned beforehand)
+	short pause segmentation = off
+	fall back on search fail = on, adopt 1st pass result as final
+
+------------------------------------------------------------
+Decoding algorithm:
+
+	1st pass input processing = real time, on-the-fly
+	1st pass method = 1-best approx. generating indexed trellis
+	output word confidence measure based on search-time scores
+
+------------------------------------------------------------
+FrontEnd:
+
+ Input stream:
+	             input type = waveform
+	           input source = microphone
+	    device API          = default
+	          sampling freq. = 16000 Hz
+	         threaded A/D-in = not supported (live input may be dropped)
+	   zero frames stripping = on
+	         silence cutting = on
+	             level thres = 100 / 32767
+	         zerocross thres = 60 / sec.
+	             head margin = 300 msec.
+	             tail margin = 400 msec.
+	              chunk size = 1000 samples
+	       FVAD switch value = -1 (disabled)
+	    long-term DC removal = off
+	    level scaling factor = 1.00 (disabled)
+	      reject short input = off
+	      reject  long input = off
+
+----------------------- System Information end -----------------------
+
+Notice for feature extraction (01),
+	*************************************************************
+	* Cepstral mean normalization for real-time decoding:       *
+	* NOTICE: The first input may not be recognized, since      *
+	*         no initial mean is available on startup.          *
+	*************************************************************
+Stat: adin_portaudio: audio cycle buffer length = 256000 bytes
+Stat: adin_portaudio: sound capture devices:
+  1 [Windows DirectSound: Primary Sound Capture Driver]
+  2 [Windows DirectSound: Microphone (Realtek(R) Audio)]
+Stat: adin_portaudio: APIs: DirectSound
+Stat: adin_portaudio: -- DirectSound selected
+Stat: adin_portaudio: [Windows DirectSound: Primary Sound Capture Driver]
+Stat: adin_portaudio: (you can specify device by "PORTAUDIO_DEV_NUM=number"
+Stat: adin_portaudio: try to set default low latency from portaudio: 0 msec
+Stat: adin_portaudio: latency was set to 30.000000 msec
+Warning: strip: sample 35-53 has zero value, stripped
+Warning: strip: sample 227-247 has zero value, stripped
+Warning: strip: sample 16-32 has zero value, stripped
+Warning: strip: sample 37-52 has zero value, stripped
+Warning: strip: sample 84-99 has zero value, stripped
+Warning: strip: sample 450-467 has zero value, stripped
+Warning: strip: sample 201-222 has zero value, stripped
+Warning: strip: sample 836-852 has zero value, stripped
+Warning: strip: sample 107-123 has zero value, stripped
+Warning: strip: sample 130-149 has zero value, stripped
+Warning: strip: sample 239-255 has zero value, stripped
+Warning: strip: sample 307-326 has zero value, stripped
+Warning: strip: sample 326-358 has zero value, stripped
+Warning: strip: sample 368-389 has zero value, stripped
+Warning: strip: sample 104-131 has zero value, stripped
+Warning: strip: sample 231-249 has zero value, stripped
+Warning: strip: sample 23-43 has zero value, stripped
+Warning: strip: sample 312-328 has zero value, stripped
+Warning: strip: sample 333-348 has zero value, stripped
+Warning: strip: sample 380-395 has zero value, stripped
+Warning: strip: sample 246-263 has zero value, stripped
+Warning: strip: sample 0-18 has zero value, stripped
+Warning: strip: sample 132-148 has zero value, stripped
+Warning: strip: sample 803-819 has zero value, stripped
+Warning: strip: sample 826-845 has zero value, stripped
+Warning: strip: sample 35-51 has zero value, stripped
+Warning: strip: sample 103-122 has zero value, stripped
+Warning: strip: sample 122-154 has zero value, stripped
+Warning: strip: sample 164-185 has zero value, stripped
