@@ -1,0 +1,5 @@
+sentence1: <s> promjenjivo do prete`ito obla~no mjestimice ki{a mogu^i pljuskovi i grmljavina </s>
+wseq1: <s> promjenjivo do prete`ito obla~no mjestimice ki{a mogu^i pljuskovi i grmljavina </s>
+phseq1: sil | p r o m j e N i v o | d o | p r e t e Z i t o | o b l a C n o | m j e s t i m i c e | k i S a | m o g u Cc i | p L u s k o v i | i | g r m L a v i n a | sil
+cmscore1: 0.809 0.966 0.985 0.999 0.962 0.985 0.888 0.989 0.991 0.710 0.890 1.000
+score1: -12569.776367 (AM: -12386.751953  LM: -183.024002)

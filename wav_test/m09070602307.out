@@ -1,0 +1,5 @@
+sentence1: <s> slabo do umjereno jugo i jugozapadnjak more malo do umjereno valovito </s>
+wseq1: <s> slabo do umjereno jugo i jugozapadnjak more malo do umjereno valovito </s>
+phseq1: sil | s l a b o | d o | u m j e r e n o | j u g o | i | j u g o z a p a d N a k | m o r e | m a l o | d o | u m j e r e n o | v a l o v i t o | sil
+cmscore1: 1.000 0.998 0.716 0.976 0.961 0.672 0.832 0.985 0.997 0.865 0.936 0.317 1.000
+score1: -10565.330078 (AM: -10380.490234  LM: -184.839600)

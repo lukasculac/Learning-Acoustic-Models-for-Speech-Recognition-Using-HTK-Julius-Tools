@@ -1,0 +1,5 @@
+sentence1: <s> u nedjelju sun~ano i ponovno toplije </s>
+wseq1: <s> u nedjelju sun~ano i ponovno toplije </s>
+phseq1: sil | u | n e d j e L u | s u n C a n o | i | p o n o v n o | t o p l i j e | sil
+cmscore1: 0.782 0.995 0.937 0.994 0.981 0.989 0.547 1.000
+score1: -6390.174805 (AM: -6246.350098  LM: -143.824799)

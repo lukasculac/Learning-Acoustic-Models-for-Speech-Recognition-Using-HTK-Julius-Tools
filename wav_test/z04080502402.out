@@ -1,0 +1,5 @@
+sentence1: <s> more na otvorenom dijelu srednjeg i sjevernog jadrana ponegdje pet stanje <uzdah> </s>
+wseq1: <s> more na otvorenom dijelu srednjeg i sjevernog jadrana ponegdje pet stanje <uzdah> </s>
+phseq1: sil | m o r e | n a | o t v o r e n o m | d i j e l u | s r e d N e g | i | s j e v e r n o g | j a d r a n a | p o n e g d j e | p e t | s t a N e | uzdah | sil
+cmscore1: 0.797 0.986 0.919 0.926 0.999 0.985 0.973 0.972 0.935 0.936 0.710 0.981 0.978 1.000
+score1: -12856.205078 (AM: -12641.596680  LM: -214.607986)

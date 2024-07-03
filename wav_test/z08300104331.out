@@ -1,0 +1,5 @@
+sentence1: <s> izvje{taj pomorskog meteorolo{kog centra split od trinaest sati </s>
+wseq1: <s> izvje{taj pomorskog meteorolo{kog centra split od trinaest sati </s>
+phseq1: sil | i z v j e S t a j | p o m o r s k o g | m e t e o r o l o S k o g | c e n t r a | s p l i t | o d | t r i n a e s t | s a t i | sil
+cmscore1: 1.000 0.994 0.999 0.906 0.989 0.903 0.155 0.999 0.791 1.000
+score1: -9171.137695 (AM: -9034.700195  LM: -136.437607)

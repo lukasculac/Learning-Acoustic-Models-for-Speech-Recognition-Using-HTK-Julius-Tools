@@ -1,0 +1,5 @@
+sentence1: <s> i prognoza za slijede^ih dvanaest sati promjenljivo ili prete`ito obla~no s ki{om pljuskovima i grmljavinom <uzdah> te malo svje`ije </s>
+wseq1: <s> i prognoza za slijede^ih dvanaest sati promjenljivo ili prete`ito obla~no s ki{om pljuskovima i grmljavinom <uzdah> te malo svje`ije </s>
+phseq1: sil | i | p r o g n o z a | z a | s l i j e d e Cc i h | d v a n a e s t | s a t i | p r o m j e n L i v o | i l i | p r e t e Z i t o | o b l a C n o | s | k i S o m | p L u s k o v i m a | i | g r m L a v i n o m | uzdah | t e | m a l o | s v j e Z i j e | sil
+cmscore1: 0.973 0.999 1.000 0.997 0.848 0.998 0.757 0.832 0.979 0.990 0.999 0.999 0.978 0.999 0.973 0.876 0.574 0.554 0.981 0.379 1.000
+score1: -16555.382813 (AM: -16232.956055  LM: -322.426849)

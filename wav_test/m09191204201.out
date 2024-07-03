@@ -1,0 +1,5 @@
+sentence1: <s> biometeorolo{ka prognoza za sutra ciklona uzrokuje nepovoljne biometeorolo{ke uvjete </s>
+wseq1: <s> biometeorolo{ka prognoza za sutra ciklona uzrokuje nepovoljne biometeorolo{ke uvjete </s>
+phseq1: sil | b i o m e t e o r o l o S k a | p r o g n o z a | z a | s u t r a | c i k l o n a | u z r o k u j e | n e p o v o L n e | b i o m e t e o r o l o S k e | u v j e t e | sil
+cmscore1: 0.992 0.996 1.000 0.957 0.890 0.998 0.997 0.982 0.984 0.138 1.000
+score1: -14414.467773 (AM: -14261.163086  LM: -153.304794)

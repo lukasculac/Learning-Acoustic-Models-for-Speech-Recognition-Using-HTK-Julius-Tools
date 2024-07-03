@@ -1,0 +1,5 @@
+sentence1: <s> drava </s>
+wseq1: <s> drava </s>
+phseq1: sil | d r a v a | sil
+cmscore1: 1.000 0.203 1.000
+score1: -1229.067993 (AM: -1145.185547  LM: -83.882401)

@@ -1,0 +1,5 @@
+sentence1: <s> izgledi vremena do kraja tjedna sun~ano i vrlo toplo <uzdah> </s>
+wseq1: <s> izgledi vremena do kraja tjedna sun~ano i vrlo toplo <uzdah> </s>
+phseq1: sil | i z g l e d i | v r e m e n a | d o | k r a j a | t j e d n a | s u n C a n o | i | v r l o | t o p l o | uzdah | sil
+cmscore1: 0.969 1.000 0.962 0.932 0.991 0.842 0.998 0.977 0.942 0.526 0.906 1.000
+score1: -9430.721680 (AM: -9241.298828  LM: -189.422379)

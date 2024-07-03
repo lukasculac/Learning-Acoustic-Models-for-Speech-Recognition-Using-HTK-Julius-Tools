@@ -1,0 +1,5 @@
+sentence1: <s> i {est i na sjevernom jadranu djelomice sun~ano s umjerenom naoblakom </s>
+wseq1: <s> i {est i na sjevernom jadranu djelomice sun~ano s umjerenom naoblakom </s>
+phseq1: sil | i | S e s t | i | n a | s j e v e r n o m | j a d r a n u | d j e l o m i c e | s u n C a n o | s | u m j e r e n o m | n a o b l a k o m | sil
+cmscore1: 1.000 0.637 0.823 0.769 0.978 0.986 0.901 1.000 0.985 0.918 0.997 0.155 1.000
+score1: -9795.185547 (AM: -9531.924805  LM: -263.260803)

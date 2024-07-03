@@ -1,0 +1,5 @@
+sentence1: <s> biometeorolo{ka prognoza za sutra <uzdah> </s>
+wseq1: <s> biometeorolo{ka prognoza za sutra <uzdah> </s>
+phseq1: sil | b i o m e t e o r o l o S k a | p r o g n o z a | z a | s u t r a | uzdah | sil
+cmscore1: 0.990 0.998 1.000 0.998 0.849 0.980 1.000
+score1: -5997.359375 (AM: -5905.193359  LM: -92.166000)

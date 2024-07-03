@@ -1,0 +1,5 @@
+sentence1: <s> na jadranu umjereno do jako jugo a potkraj dana slaba do umjerena bura i isto~njak </s>
+wseq1: <s> na jadranu umjereno do jako jugo a potkraj dana slaba do umjerena bura i isto~njak </s>
+phseq1: sil | n a | j a d r a n u | u m j e r e n o | d o | j a k o | j u g o | a | p o t k r a j | d a n a | s l a b a | d o | u m j e r e n a | b u r a | i | i s t o C N a k | sil
+cmscore1: 0.995 0.994 0.915 0.992 0.627 0.993 0.928 0.647 0.999 0.399 0.998 0.978 0.996 0.950 0.856 0.981 1.000
+score1: -11693.200195 (AM: -11435.006836  LM: -258.193207)

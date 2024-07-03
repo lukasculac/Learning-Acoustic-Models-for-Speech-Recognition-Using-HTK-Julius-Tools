@@ -1,0 +1,5 @@
+sentence1: <s> u ve^em dijelu zemlje biometeorolo{ki ^e uvjeti biti ne{to povoljniji zato ^e se mnogi osje^ati bolje a kroni~ni bolesnici imat ^e slabije izra`ene tegobe </s>
+wseq1: <s> u ve^em dijelu zemlje biometeorolo{ki ^e uvjeti biti ne{to povoljniji zato ^e se mnogi osje^ati bolje a kroni~ni bolesnici imat ^e slabije izra`ene tegobe </s>
+phseq1: sil | u | v e Cc e m | d i j e l u | z e m L e | b i o m e t e o r o l o S k i | Cc e | u v j e t i | b i t i | n e S t o | p o v o L n i j i | z a t o | Cc e | s e | m n o g i | o s j e Cc a t i | b o L e | a | k r o n i C n i | b o l e s n i c i | i m a t | Cc e | s l a b i j e | i z r a Z e n e | t e g o b e | sil
+cmscore1: 0.504 0.964 0.999 0.997 0.984 0.998 0.974 0.996 0.952 0.978 0.243 0.877 0.769 0.937 0.987 0.978 0.980 0.741 0.999 0.872 0.993 0.985 0.988 0.957 0.287 1.000
+score1: -25488.929688 (AM: -25084.763672  LM: -404.166016)

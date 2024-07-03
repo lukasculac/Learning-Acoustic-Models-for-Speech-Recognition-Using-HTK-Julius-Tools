@@ -1,0 +1,5 @@
+sentence1: <s> no^u uz obalu mjestimice udari bure trideset do ~etrdeset ~vorova sutra ^e oslabjeti </s>
+wseq1: <s> no^u uz obalu mjestimice udari bure trideset do ~etrdeset ~vorova sutra ^e oslabjeti </s>
+phseq1: sil | n o Cc u | u z | o b a l u | m j e s t i m i c e | u d a r i | b u r e | t r i d e s e t | d o | C e t r d e s e t | C v o r o v a | s u t r a | Cc e | o s l a b j e t i | sil
+cmscore1: 0.534 0.857 0.999 0.954 0.997 0.998 0.980 1.000 0.587 0.998 0.988 0.994 0.994 0.405 1.000
+score1: -11719.528320 (AM: -11492.283203  LM: -227.245209)

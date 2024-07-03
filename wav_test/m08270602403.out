@@ -1,0 +1,5 @@
+sentence1: <s> poslijepodne u unutra{njosti slab do umjeren sjeverozapadni i sjeverni vjetar <uzdah> </s>
+wseq1: <s> poslijepodne u unutra{njosti slab do umjeren sjeverozapadni i sjeverni vjetar <uzdah> </s>
+phseq1: sil | p o s l i j e p o d n e | u | u n u t r a S N o s t i | s l a b | d o | u m j e r e n | s j e v e r o z a p a d n i | i | s j e v e r n i | v j e t a r | uzdah | sil
+cmscore1: 0.982 0.987 0.844 0.981 0.999 0.973 0.996 1.000 0.959 0.972 0.893 0.968 1.000
+score1: -11444.118164 (AM: -11220.346680  LM: -223.771194)

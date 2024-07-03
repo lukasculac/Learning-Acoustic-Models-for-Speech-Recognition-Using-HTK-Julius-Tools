@@ -1,0 +1,5 @@
+sentence1: <s> umjereno na otvorenom moru ju`nog jadrana poja~ano jugo </s>
+wseq1: <s> umjereno na otvorenom moru ju`nog jadrana poja~ano jugo </s>
+phseq1: sil | u m j e r e n o | n a | o t v o r e n o m | m o r u | j u Z n o g | j a d r a n a | p o j a C a n o | j u g o | sil
+cmscore1: 0.275 0.886 0.995 0.960 0.708 0.989 0.714 0.945 0.340 1.000
+score1: -9728.351563 (AM: -9540.895508  LM: -187.455582)

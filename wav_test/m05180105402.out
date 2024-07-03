@@ -1,0 +1,5 @@
+sentence1: <s> tegobe mogu imati i kroni~ni bolesnici s time da ^e nepovoljniji utjecaj slabije biti izra`en na istoku zemlje </s>
+wseq1: <s> tegobe mogu imati i kroni~ni bolesnici s time da ^e nepovoljniji utjecaj slabije biti izra`en na istoku zemlje </s>
+phseq1: sil | t e g o b e | m o g u | i m a t i | i | k r o n i C n i | b o l e s n i c i | s | t i m e | d a | Cc e | n e p o v o L n i j i | u t j e c a j | s l a b i j e | b i t i | i z r a Z e n | n a | i s t o k u | z e m L e | sil
+cmscore1: 0.985 0.998 0.996 0.995 0.536 0.995 0.980 0.993 0.982 0.803 0.930 0.989 0.999 0.991 0.993 0.914 0.956 1.000 0.264 1.000
+score1: -16531.062500 (AM: -16288.271484  LM: -242.791168)

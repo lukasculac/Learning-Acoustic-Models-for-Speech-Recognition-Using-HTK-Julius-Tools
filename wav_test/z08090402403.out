@@ -1,0 +1,5 @@
+sentence1: <s> u dalmaciji mjestimice grmljavina danju ve^ini krajeva prestanak oborina a na jadranu i djelomi~no razvedravanje </s>
+wseq1: <s> u dalmaciji mjestimice grmljavina danju ve^ini krajeva prestanak oborina a na jadranu i djelomi~no razvedravanje </s>
+phseq1: sil | u | d a l m a c i j i | m j e s t i m i c e | g r m L a v i n a | d a N u | v e Cc i n i | k r a j e v a | p r e s t a n a k | o b o r i n a | a | n a | j a d r a n u | i | d j e l o m i C n o | r a z v e d r a v a N e | sil
+cmscore1: 0.162 0.959 0.982 0.882 0.481 0.809 1.000 0.136 1.000 0.337 0.985 0.959 0.829 0.961 0.999 0.024 1.000
+score1: -17711.511719 (AM: -17289.966797  LM: -421.545593)

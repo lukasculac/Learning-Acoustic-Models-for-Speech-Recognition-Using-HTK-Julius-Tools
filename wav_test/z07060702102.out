@@ -1,0 +1,5 @@
+sentence1: <s> postupna naoblaka <uzdah> mjestimice s pljuskovima i grmljavinom <uzdah> vjetar slab a na jadranu povremeno umjeren jugozapadnjak </s>
+wseq1: <s> postupna naoblaka <uzdah> mjestimice s pljuskovima i grmljavinom <uzdah> vjetar slab a na jadranu povremeno umjeren jugozapadnjak </s>
+phseq1: sil | p o s t u p n a | n a o b l a k a | uzdah | m j e s t i m i c e | s | p L u s k o v i m a | i | g r m L a v i n o m | uzdah | v j e t a r | s l a b | a | n a | j a d r a n u | p o v r e m e n o | u m j e r e n | j u g o z a p a d N a k | sil
+cmscore1: 0.972 0.998 0.815 0.943 1.000 0.603 1.000 0.950 0.917 0.886 0.999 0.831 0.919 0.988 0.729 0.998 0.687 0.931 1.000
+score1: -17934.199219 (AM: -17596.125000  LM: -338.074768)

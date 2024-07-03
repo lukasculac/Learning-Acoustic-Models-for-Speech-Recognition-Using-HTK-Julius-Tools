@@ -1,0 +1,5 @@
+sentence1: <s> more dva do tri vidljivost deset do dvadeset kilometara mjestimice oko ~etiri kilometra zbog sumaglice <uzdah> prete`ito vedro </s>
+wseq1: <s> more dva do tri vidljivost deset do dvadeset kilometara mjestimice oko ~etiri kilometra zbog sumaglice <uzdah> prete`ito vedro </s>
+phseq1: sil | m o r e | d v a | d o | t r i | v i d L i v o s t | d e s e t | d o | d v a d e s e t | k i l o m e t a r a | m j e s t i m i c e | o k o | C e t i r i | k i l o m e t r a | z b o g | s u m a g l i c e | uzdah | p r e t e Z i t o | v e d r o | sil
+cmscore1: 0.975 0.994 0.999 0.945 0.970 1.000 0.998 0.958 0.997 0.981 0.984 0.971 0.998 0.907 0.998 0.942 0.289 0.999 0.549 1.000
+score1: -15737.413086 (AM: -15492.410156  LM: -245.002777)

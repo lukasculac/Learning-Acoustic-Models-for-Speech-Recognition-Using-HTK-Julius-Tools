@@ -1,0 +1,5 @@
+sentence1: <s> prostrana ciklona nad zapadnim europom te zapadnim i srednjim sredozemljem sporo se {iri prema jadranu </s>
+wseq1: <s> prostrana ciklona nad zapadnim europom te zapadnim i srednjim sredozemljem sporo se {iri prema jadranu </s>
+phseq1: sil | p r o s t r a n a | c i k l o n a | n a d | z a p a d n i m | e u r o p o m | t e | z a p a d n i m | i | s r e d N i m | s r e d o z e m L e m | s p o r o | s e | S i r i | p r e m a | j a d r a n u | sil
+cmscore1: 0.930 0.996 0.970 0.925 0.077 0.956 0.924 0.994 0.824 0.987 0.998 0.999 0.954 0.893 0.977 0.575 1.000
+score1: -14195.465820 (AM: -13853.326172  LM: -342.139221)

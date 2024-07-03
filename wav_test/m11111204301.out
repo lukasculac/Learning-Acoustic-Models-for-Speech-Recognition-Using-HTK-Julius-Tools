@@ -1,0 +1,5 @@
+sentence1: <s> biometeorolo{ka prognoza za sutra zbog razmjerno povoljnih biometeorolo{kih prilika </s>
+wseq1: <s> biometeorolo{ka prognoza za sutra zbog razmjerno povoljnih biometeorolo{kih prilika </s>
+phseq1: sil | b i o m e t e o r o l o S k a | p r o g n o z a | z a | s u t r a | z b o g | r a z m j e r n o | p o v o L n i h | b i o m e t e o r o l o S k i h | p r i l i k a | sil
+cmscore1: 0.994 0.998 1.000 0.956 0.744 0.985 0.954 0.632 0.930 0.029 1.000
+score1: -14997.759766 (AM: -14818.288086  LM: -179.472000)

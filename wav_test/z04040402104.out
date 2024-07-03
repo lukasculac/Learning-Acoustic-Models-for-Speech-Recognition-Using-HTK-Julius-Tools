@@ -1,0 +1,5 @@
+sentence1: <s> <uzdah> podno velebita s olujnim udarima <uzdah> a na ju`nom jadranu ve^inom umjereno i jako jugo </s>
+wseq1: <s> <uzdah> podno velebita s olujnim udarima <uzdah> a na ju`nom jadranu ve^inom umjereno i jako jugo </s>
+phseq1: sil | uzdah | p o d n o | v e l e b i t a | s | o l u j n i m | u d a r i m a | uzdah | a | n a | j u Z n o m | j a d r a n u | v e Cc i n o m | u m j e r e n o | i | j a k o | j u g o | sil
+cmscore1: 1.000 0.936 0.999 0.986 0.994 0.994 0.688 0.934 0.976 0.856 0.995 0.961 0.969 0.994 0.992 0.981 0.285 1.000
+score1: -16383.175781 (AM: -16098.269531  LM: -284.906403)

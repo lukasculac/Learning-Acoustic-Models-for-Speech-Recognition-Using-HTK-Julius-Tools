@@ -1,0 +1,5 @@
+sentence1: <s> izvje{taj o vodostaju rijeka za dana{nji dan srijedu prvih sije~nja <greska> </s>
+wseq1: <s> izvje{taj o vodostaju rijeka za dana{nji dan srijedu prvih sije~nja <greska> </s>
+phseq1: sil | i z v j e S t a j | o | v o d o s t a j u | r i j e k a | z a | d a n a S N i | d a n | s r i j e d u | p r v i h | s i j e C N a | greska | sil
+cmscore1: 1.000 0.977 0.558 1.000 0.997 0.995 0.999 0.897 0.133 0.882 0.812 0.233 1.000
+score1: -13527.977539 (AM: -13235.819336  LM: -292.157990)

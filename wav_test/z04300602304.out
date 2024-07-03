@@ -1,0 +1,5 @@
+sentence1: <s> a na jadranu od sedamnaest do dvadeset dva <uzdah> najvi{a dnevna izme}u dvadeset pet i trideset stupnjeva </s>
+wseq1: <s> a na jadranu od sedamnaest do dvadeset dva <uzdah> najvi{a dnevna izme}u dvadeset pet i trideset stupnjeva </s>
+phseq1: sil | a | n a | j a d r a n u | o d | s e d a m n a e s t | d o | d v a d e s e t | d v a | uzdah | n a j v i S a | d n e v n a | i z m e dz u | d v a d e s e t | p e t | i | t r i d e s e t | s t u p N e v a | sil
+cmscore1: 0.148 0.797 0.998 0.999 0.996 0.999 0.911 0.986 0.816 0.886 0.999 0.974 0.974 0.964 0.972 0.996 0.988 0.840 1.000
+score1: -16495.191406 (AM: -16202.664063  LM: -292.527588)

@@ -1,0 +1,5 @@
+sentence1: <s> mjestimice udari juga trideset do ~etrdeset ~vorova najprije na srednjem u no^i i sutra i na ostalom dijelu jadrana <uzdah> </s>
+wseq1: <s> mjestimice udari juga trideset do ~etrdeset ~vorova najprije na srednjem u no^i i sutra i na ostalom dijelu jadrana <uzdah> </s>
+phseq1: sil | m j e s t i m i c e | u d a r i | j u g a | t r i d e s e t | d o | C e t r d e s e t | C v o r o v a | n a j p r i j e | n a | s r e d N e m | u | n o Cc i | i | s u t r a | i | n a | o s t a l o m | d i j e l u | j a d r a n a | uzdah | sil
+cmscore1: 0.964 1.000 0.992 0.980 0.997 0.968 0.998 0.744 0.975 0.981 0.384 0.998 0.836 0.641 0.970 0.974 0.119 1.000 0.964 0.808 0.927 1.000
+score1: -17665.355469 (AM: -17327.537109  LM: -337.819244)

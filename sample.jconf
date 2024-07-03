@@ -1,5 +1,5 @@
 # VoxForge configurations:
--input mic
+-input file 
 -v julius_dict    # pronunciation dictionary
 -mapunk <sil>
 -h hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)

@@ -1,0 +1,5 @@
+sentence1: <s> od sredine no^i na sjevernom jadranu ki{a mjestimice pljuskovi i grmljavina </s>
+wseq1: <s> od sredine no^i na sjevernom jadranu ki{a mjestimice pljuskovi i grmljavina </s>
+phseq1: sil | o d | s r e d i n e | n o Cc i | n a | s j e v e r n o m | j a d r a n u | k i S a | m j e s t i m i c e | p L u s k o v i | i | g r m L a v i n a | sil
+cmscore1: 0.991 0.986 1.000 0.958 0.997 0.972 0.992 0.968 0.990 1.000 0.331 0.921 1.000
+score1: -11032.615234 (AM: -10835.842773  LM: -196.772430)

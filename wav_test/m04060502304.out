@@ -1,0 +1,5 @@
+sentence1: <s> more dva do tri vidljivost deset do dvadeset kilometara </s>
+wseq1: <s> more dva do tri vidljivost deset do dvadeset kilometara </s>
+phseq1: sil | m o r e | d v a | d o | t r i | v i d L i v o s t | d e s e t | d o | d v a d e s e t | k i l o m e t a r a | sil
+cmscore1: 0.959 0.982 0.999 0.937 0.958 0.994 0.931 0.986 0.997 0.532 1.000
+score1: -9920.013672 (AM: -9786.068359  LM: -133.945206)

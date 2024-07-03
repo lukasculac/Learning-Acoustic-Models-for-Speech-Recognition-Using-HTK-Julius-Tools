@@ -1,0 +1,5 @@
+sentence1: <s> samo ponegdje mogu^a sasvim slaba ki{a </s>
+wseq1: <s> samo ponegdje mogu^a sasvim slaba ki{a </s>
+phseq1: sil | s a m o | p o n e g d j e | m o g u Cc a | s a s v i m | s l a b a | k i S a | sil
+cmscore1: 1.000 0.986 0.945 0.623 0.999 0.970 0.350 1.000
+score1: -7012.586426 (AM: -6817.447266  LM: -195.139206)

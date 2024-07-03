@@ -1,0 +1,5 @@
+sentence1: <s> malo do umjereno obla~no na sjevernom jadranu ja~a naoblaka <uzdah> a u no^i mjestimice ki{a malo toplije </s>
+wseq1: <s> malo do umjereno obla~no na sjevernom jadranu ja~a naoblaka <uzdah> a u no^i mjestimice ki{a malo toplije </s>
+phseq1: sil | m a l o | d o | u m j e r e n o | o b l a C n o | n a | s j e v e r n o m | j a d r a n u | j a C a | n a o b l a k a | uzdah | a | u | n o Cc i | m j e s t i m i c e | k i S a | m a l o | t o p l i j e | sil
+cmscore1: 0.866 0.999 0.991 0.985 0.495 0.997 0.990 0.466 0.986 0.602 0.963 0.679 0.829 0.925 0.993 0.663 0.995 0.754 1.000
+score1: -17281.376953 (AM: -16940.589844  LM: -340.786804)

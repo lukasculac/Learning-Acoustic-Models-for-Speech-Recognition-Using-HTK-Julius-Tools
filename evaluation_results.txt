@@ -1,0 +1,1569 @@
+Reference: ujutro je potrebna odgovaraju^a za{tita od hladno^e a ponegdje i magla
+Hypothesis: ujutro je potrebna odgovaraju^a za{tita od hladno^e a ponegdje i magle
+WER: 0.09
+Similarity: 90.91%
+SER: 1
+------------------------------
+Reference: vjetar u kopnenim krajevima ve^inom slab a du` obale uglavnom umjerena i jaka bura te sjeverozapadnjak
+Hypothesis: vjetar u kopnenim krajevima ve^inom slab a du` obale uglavnom umjerena i jaka bura te sjeverozapadnjak
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za poslijepodne
+Hypothesis: vremenska prognoza za poslijepodne
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: a na jadranu od minus jedan do ~etiri stupnja najvi{a dnevna uglavnom od minus tri do dva
+Hypothesis: a na jadranu od minus jedan do ~etiri stupnja najvi{a dnevna uglavnom od minus tri do dva <uzdah>
+WER: 0.06
+Similarity: 94.44%
+SER: 1
+------------------------------
+Reference: u gorskom kotaru lici od {est do devet a na jadranu izme}u trinaest i sedamnaest
+Hypothesis: u gorskom kotaru i lici od {est do devet a na jadranu izme}u trinaest i sedamnaest
+WER: 0.07
+Similarity: 18.75%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za poslijepodne u ve^ini krajeva promjenljivo obla~no najsun~anije na jadranu <uzdah>
+Hypothesis: vremenska prognoza za poslijepodne u ve^ini krajeva promjenjivo obla~no najsun~anije na jadranu <uzdah>
+WER: 0.08
+Similarity: 92.31%
+SER: 1
+------------------------------
+Reference: more jedan do dva ponegdje na otvorenom dva do tri
+Hypothesis: more jedan do dva ponegdje na otvorenom dva do tri
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vidljivost deset do dvadeset kilometara malo do umjereno obla~no ne{to vi{e naoblake na sjevernom jadranu
+Hypothesis: vidljivost deset do dvadeset kilometara malo do umjereno obla~no ne{to vi{e naoblake na sjevernom jadranu
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: umjereno do poja~ano jugo more malo do umjereno valovito na otvorenom valovito
+Hypothesis: umjereno do poja~ano jugo more malo do umjereno valovito na otvorenom valovito
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vidljivost deset do dvadeset kilometara naoblaka mjestimice s ki{om ili pljuskovima i grmljavinom na sjevernom <uzdah> do kraja dana i na srednjem a u no^i i na ju`nom jadranu
+Hypothesis: vidljivost deset do dvadeset kilometara naoblaka mjestimice s ki{om ili pljuskovima i grmljavinom na sjevernom <uzdah> do kraja dana i na srednjem a u no^i i na ju`nom jadranu
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: biometeorolo{ka prognoza za sutra u unutra{njosti zemlje biometeorolo{ki ^e uvjeti biti nepovoljni <uzdah>
+Hypothesis: biometeorolo{ka prognoza za sutra u unutra{njosti zemlje biometeorolo{ki ^e uvjeti biti nepovoljni <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: uz postupno zatopljenje mnogi bi ljudi mogli biti razdra`ljivi te patiti od glavobolje
+Hypothesis: uz postupno zatopljenje mnogi bi ljudi mogli biti razdra`ljivi te patiti od glavobolje
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: a na ju`nom jadranu biometeorolo{ki ^e uvjeti biti povoljni
+Hypothesis: a na ju`nom jadranu biometeorolo{ki ^e uvjeti biti povoljni
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: biometeorolo{ka prognoza za danas u cijeloj ^e zemlji vrijeme uglavnom povoljno djelovati na ljude
+Hypothesis: biometeorolo{ka prognoza za danas u cijeloj ^e zemlji vrijeme uglavnom povoljno djelovati na ljude
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: promjenljivo obla~no u unutra{njosti ponegdje malo snijega a u utorak i srijedu na jadranu mjestimice ki{a <uzdah>
+Hypothesis: promijenjivo obla~no u unutra{njosti ponegdje malo snijega a u utorak i srijedu na jadranu mjestimice ki{a <uzdah>
+WER: 0.06
+Similarity: 94.12%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za poslijepodne
+Hypothesis: vremenska prognoza za poslijepodne
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za sutra umjereno i znatno obla~no ponegdje u unutra{njosti ponajprije u gorskim predjelima malo snijega a u dalmaciji slaba ki{a
+Hypothesis: vremenska prognoza za sutra umjereno i znatno obla~no ponegdje u unutra{njosti ponajprije u gorskim predjelima malo snijega a u dalmaciji slaba ki{a
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: na ju`nom dijelu jadrana umjeren do jak jugozapadni vjetar postupno ^e okrenuti na zapadni i sjeverozapadni
+Hypothesis: na ju`nom dijelu jadrana umjeren do jak jugozapadni vjetar postupno ^e okrenuti na zapadni i sjeverozapadni <uzdah>
+WER: 0.06
+Similarity: 94.12%
+SER: 1
+------------------------------
+Reference: tijekom no^i i jutra na sjevernom i dijelu srednjeg jadrana vidljivost ponegdje manja od jednog kilometra zbog kratkotrajna magla
+Hypothesis: <uzdah> tijekom no^i i jutra na sjevernome i dijelu srednjega jadrana vidljivost ponegdje manja od jednog kilometra zbog kratkotrajne magle
+WER: 0.26
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: vukovar dva ~etiri nula dvjesto ~etrdeset ilok dva sedam {est dvjesto sedamdeset {est
+Hypothesis: vukovar <sil> dva ~etiri nula dvjesto ~etrdeset <uzdah> ilok <sil> dva sedam {est <sil> dvjesto sedamdeset {est
+WER: 0.31
+Similarity: 11.76%
+SER: 1
+------------------------------
+Reference: <uzdah> vjetar uglavnom slab zapadni i jugozapadni na jadranu u no^i i ujutro bura <uzdah> a danju povremeno umjeren sjeverozapadnjak
+Hypothesis: <uzdah> vjetar uglavnom slab zapadni i jugozapadni <uzdah> na jadranu u no^i i ujutro bura <uzdah> a danju povremeno umjeren sjeverozapadnjak
+WER: 0.05
+Similarity: 33.33%
+SER: 1
+------------------------------
+Reference: <uzdah> sun~ano ili promjenjivo obla~no
+Hypothesis: sun~ano ili promjenjivo obla~no
+WER: 0.20
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: izvje{taj pomorskoga meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda stanje
+Hypothesis: izvje{taj pomorskog meteorolo{kog centra split dr`avnog hidrometeorolo{kog zavoda <sil> stanje
+WER: 0.33
+Similarity: 60.00%
+SER: 1
+------------------------------
+Reference: more dva do tri vidljivost deset do dvadeset kilometara
+Hypothesis: <uzdah> more dva do tri <sil> vidljivost <uzdah> deset do dvadeset kilometara
+WER: 0.33
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: <uzdah> prostrana dolina {iri se sa zapada jugozapada preko ligurskog i tirenskog mora prema jadranu gdje slabit polje povi{enog tlaka
+Hypothesis: <uzdah> prostrana dolina {iri se sa zapada i jugozapada preko ligurskog i tirenskog  mora prema jadranu <uzdah> gdje slabi polje povi{enog tlaka
+WER: 0.15
+Similarity: 31.82%
+SER: 1
+------------------------------
+Reference: i prognoza za slijede^ih dvanaest sati prete`ito obla~no mjestimice s ki{om i grmljavinom <uzdah>
+Hypothesis: i prognoza za slijede^ih dvanaest sati prete`ito obla~no mjestimice s ki{om i grmljavinom
+WER: 0.07
+Similarity: 92.86%
+SER: 1
+------------------------------
+Reference: na sjevernom i dijelu srednjeg jadrana mjestimice udari bure a na ju`nom i ponegdje na dijelu srednjeg jadrana mjestimice udari juga trideset do ~etrdeset ~vorova
+Hypothesis: na sjevernom i dijelu srednjeg jadrana mjestimice udari bure <uzdah> a na ju`nom i ponegdje na dijelu srednjeg jadrana mjestimice udari juga trideset do ~etrdeset ~vorova
+WER: 0.04
+Similarity: 34.62%
+SER: 1
+------------------------------
+Reference: na sjevernom i dijelu srednjeg jadrana po~etku umjerena do jaka bura
+Hypothesis: na sjevernome i dijelu srednjeg jadrana na po~etku umjerena do jaka bura
+WER: 0.18
+Similarity: 41.67%
+SER: 1
+------------------------------
+Reference: mogli imati kroni~ni bolesnici pa se bolesnicima s krvo`ilnim bolestima astmati~arima i reumati~arima preporu~uje izbjegavanje napore
+Hypothesis: mogli bi imati kroni~ni bolesnici pa se bolesnicima s krvo`ilnim bolestima astmati~arima i reumati~arima preporu~uje izbjegavanje napora
+WER: 0.12
+Similarity: 5.88%
+SER: 1
+------------------------------
+Reference: dana{nji izvje{taj o vodostaju rijeka
+Hypothesis: dana{nji izvje{taj o vodostaju rijeka
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: drava
+Hypothesis: drava
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: ponegdje umjeren sjeverozapadnjak
+Hypothesis: ponegdje umjeren sjeverozapadnjak
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: <uzdah> no^u uz obalu tiho ili burin ~etiri do trinaest ~vorova more jedan do dva <uzdah> vidljivost poslijepodne i na otvorenom ju`nog jadrana ponegdje dva do tri
+Hypothesis: <uzdah> no^u uz obalu tiho ili burin <sil> ~etiri do trinaest ~vorova more jedan do dva <uzdah> <greska> poslijepodne i na otvorenom ju`nog jadrana ponegdje dva do tri
+WER: 0.07
+Similarity: 25.00%
+SER: 1
+------------------------------
+Reference: izvje{taj pomorskoga meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda stanje
+Hypothesis: izvje{taj pomorskoga meteorolo{kog centra split dr`avnog hidrometeorolo{kog zavoda <udarac> stanje
+WER: 0.22
+Similarity: 70.00%
+SER: 1
+------------------------------
+Reference: <uzdah> i prognoza za slijede^ih dvanaest sati
+Hypothesis: <uzdah> i prognoza za slijede^ih dvanaest sati
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: udari juga mjestimice trideset do ~etrdeset ~vorova stanje <uzdah> dolina s frontalnim sustavom premje{ta se sa zapada prema jadranu
+Hypothesis: udari juga mjestimice trideset do ~etrdeset ~vorova <sil> stanje <uzdah> dolina s frontalnim sustavom premje{ta sa zapada prema jadranu
+WER: 0.11
+Similarity: 57.89%
+SER: 1
+------------------------------
+Reference: i prognoza za slijede^ih dvanaest sati promjenljivo ili prete`ito obla~no s ki{om pljuskovima i grmljavinom <uzdah> te malo svje`ije
+Hypothesis: i prognoza za slijede^ih dvanaest sati promjenljivo ili prete`ito obla~no s ki{om pljuskovima i grmljavinom <uzdah> te malo svje`ije
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: umjerena do poja~ana bura
+Hypothesis: umjerena do poja~ana bura
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: <uzdah> vremenska prognoza za jadran za prvih dvanaest sati
+Hypothesis: vremenska prognoza za jadran za prvih dvanaest sati
+WER: 0.11
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: poslijepodne vjetar slabiji <papir> osjetno hladnije nego danas osobito u unutra{njosti s temperaturom izme}u minus tri <uzdah>
+Hypothesis: <uzdah> poslijepodne vjetar slabiji <papir> osjetno hladnije nego danas osobito u unutra{njosti s temperaturom izme}u minus tri <uzdah>
+WER: 0.06
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: hladno s temperaturom zraka od minus {est do minus jedan na jadranu ve^inom od pet do deset stupnjeva
+Hypothesis: hladno s temperaturom zraka od minus {est do minus jedan na jadranu ve^inom od pet do deset stupnjeva
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za sutra na jadranu sun~ano u unutra{njosti djelomice sun~ano s promjenljivom naoblakom i samo ponegdje malo snijega uglavnom u gorskom kotaru lici slavoniji
+Hypothesis: vremenska prognoza za sutra na jadranu sun~ano u unutra{njosti djelomice sun~ano s promjenjivom naoblakom i samo ponegdje malo snijega uglavnom u gorskom kotaru lici i slavoniji
+WER: 0.08
+Similarity: 88.46%
+SER: 1
+------------------------------
+Reference: na sjevernom i dijelu srednjeg jadrana ponegdje magla
+Hypothesis: na sjevernom i dijelu srednjeg jadrana ponegdje magla
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za slijede^ih dvanaest sati slabo do umjereno jugo na otvorenom moru srednjeg i ju`nog jadrana ponegdje poja~ano <uzdah>
+Hypothesis: vremenska prognoza za slijede^ih dvanaest sati slabo do umjereno jugo na otvorenom moru srednjeg i ju`nog jadrana ponegdje poja~ano <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: tegobe mogu imati i kroni~ni bolesnici s time da ^e nepovoljniji utjecaj slabije biti izra`en na istoku zemlje
+Hypothesis: tegobe mogu imati i kroni~ni bolesnici s time da ^e nepovoljni utjecaj slabije biti izra`en na istoku zemlje
+WER: 0.06
+Similarity: 94.44%
+SER: 1
+------------------------------
+Reference: najni`a jutarnja temperatura uglavnom od minus trinaest do minus osam stupnjeva <uzdah>
+Hypothesis: najni`a jutarnja temperatura uglavnom od minus trinaest do minus osam stupnjeva <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: stanje sa sjeverozapada prema jadranu pribli`ava se dolina s oslabljenim frontalnim sustavom
+Hypothesis: stanje sa sjeverozapada prema jadranu pribli`ava se dolina s oslabljenim frontalnim sustavom <uzdah>
+WER: 0.08
+Similarity: 92.31%
+SER: 1
+------------------------------
+Reference: vremenski utjecaj na ljude bit ^e razmjerno nepovoljan neki bi meteoropati mogli imati glavobolje a umjereno pote{ko^e mogu^e pojaviti <uzdah>
+Hypothesis: vremenski utjecaj na ljude bit ^e razmjerno nepovoljan neki bi meteoropati mogli imati glavobolje a umjerene pote{ko^e mogu se pojaviti <uzdah>
+WER: 0.15
+Similarity: 76.19%
+SER: 1
+------------------------------
+Reference: vjetar sava zagreb minus dva pet devet minus dvjesto pedeset devet
+Hypothesis: rijeka sava <sil> zagreb minus dva pet devet minus dvjesto pedeset devet
+WER: 0.18
+Similarity: 8.33%
+SER: 1
+------------------------------
+Reference: vremensko izvje{^e ankica stojanovi^
+Hypothesis: vremensko izvje{^e ankica stojanovi^
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: od sredine no^i na sjevernom jadranu ki{a mjestimice pljuskovi i grmljavina
+Hypothesis: od sredine no^i na sjevernom jadranu ki{a mjestimice pljuskovi i grmljavina
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: jugo deset do dvadeset mjestimice do dvadeset ~etiri na sjevernom jadranu skrenut ^e na jugozapadnjak <uzdah> osam do {esnaest ~vorova
+Hypothesis: jugo deset do dvadeset mjestimice do dvadeset ~etiri na sjevernom jadranu skrenut ^e na jugozapadnjak <uzdah> osam do {esnaest ~vorova
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: zbog povoljnoga biometeorolo{kog utjecaja u cijeloj zemlji ve^ina ^e ljudi biti dobro raspolo`ena
+Hypothesis: zbog povoljnoga biometeorolo{kog utjecaja u cijeloj zemlji ve^ina ^e ljudi biti dobro raspolo`ena <uzdah>
+WER: 0.08
+Similarity: 92.86%
+SER: 1
+------------------------------
+Reference: najvi{a temperatura od dvadeset do dvadeset pet stupnjeva
+Hypothesis: najvi{a temperatura od dvadeset do dvadeset pet stupnjeva
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: promjenjivo do prete`ito obla~no mjestimice ki{a mogu^i pljuskovi i grmljavina
+Hypothesis: promjenjivo do prete`ito obla~no  mjestimice ki{a mogu^i pljuskovi i grmljavina
+WER: 0.00
+Similarity: 100.00%
+SER: 1
+------------------------------
+Reference: plitka dolina sa zapada usporeno se {iri prema jadranu gdje polje povi{enog tlaka polako slabi
+Hypothesis: plitka dolina sa zapada usporeno se {iri prema jadranu gdje polje povi{enog tlaka polako slabi
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: jugo slabo do umjereno ponegdje poja~ano mjestimice sumaglica <uzdah> more malo do umjereno valovito toplo
+Hypothesis: jugo slabo do umjereno ponegdje poja~ano mjestimice sumaglica <uzdah> more malo do umjereno valovito toplo
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: najvi{a dnevna temperatura u ve^ini krajeva od petnaest do dvadeset na jadranu i u slavoniji mjestimice i do dvadeset tri stupnja
+Hypothesis: najvi{a dnevna temperatura u ve^ini krajeva od petnaest do dvadeset na jadranu i u slavoniji mjestimice i do dvadeset tri stupnja
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za poslijepodne <uzdah> sun~ano samo ponegdje u hrvatskom zagorju i me}imurju nave~er ja~i razvoj oblaka uz pljusak i grmljavinu
+Hypothesis: vremenska prognoza za poslijepodne <uzdah> sun~ano a samo ponegdje u hrvatskom zagorju i me}imurju nave~er ja~i razvoj oblaka uz pljusak i grmljavinu
+WER: 0.05
+Similarity: 27.27%
+SER: 1
+------------------------------
+Reference: a na jadranu ve^inom jaka bura s olujnim u no^i mjestimice i orkanskim udarima
+Hypothesis: a na jadranu ve^inom jaka bura s olujnim u no^i mjestimice i orkanskim udarima
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: ujutro uz obalu umjerena do poja~ana bura
+Hypothesis: ujutro uz obalu umjerena do poja~ana bura
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: umjereno do jako jugo na sjevernom jadranu u skretanju na jugozapadni vjetar <uzdah>
+Hypothesis: umjereno do jako jugo na sjevernom jadranu u skretanju na jugozapadni vjetar
+WER: 0.08
+Similarity: 92.31%
+SER: 1
+------------------------------
+Reference: poslijepodne u unutra{njosti slab do umjeren sjeverozapadni i sjeverni vjetar <uzdah>
+Hypothesis: poslijepodne u unutra{njosti slab do umjeren sjeverozapadni i sjeverni vjetar <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: na jadranu umjereno do jako jugo poslijepodne na sjevernom i dijelu srednjeg jadrana bura i sjeverozapadnjak <uzdah>
+Hypothesis: na jadranu umjereno do jako jugo a poslijepodne na sjevernome i dijelu srednjeg jadrana bura i sjeverozapadnjak <uzdah>
+WER: 0.12
+Similarity: 33.33%
+SER: 1
+------------------------------
+Reference: dunav ilok tri nula dva tristo dva <uzdah> drava botovo ~etiri dva ~etrdeset dva
+Hypothesis: <uzdah> dunav ilok tri nula dva tristo dva <sil> drava botovo ~etiri dva  ~etrdeset i dva
+WER: 0.21
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: mjestimice udari juga trideset do ~etrdeset ~vorova najprije na srednjem u no^i i sutra i na ostalom dijelu jadrana <uzdah>
+Hypothesis: mjestimice udari juga trideset do ~etrdeset ~vorova najprije na srednjem u no^i i sutra i na ostalom dijelu jadrana <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: postupno ja~a naoblaka na sjevernom sredinom dana i na srednjem jadranu <uzdah>
+Hypothesis: postupno ja~a naoblaka na sjevernom sredinom dana i na srednjem jadranu
+WER: 0.08
+Similarity: 91.67%
+SER: 1
+------------------------------
+Reference: zato ^e se promjenljivo obla~no i nestabilno vrijeme mjestimice ki{a ili pljuskovi mogu^a i grmljavina
+Hypothesis: zadr`at ^e se promjenljivo obla~no i nestabilno vrijeme mjestimice ki{a ili pljuskovi mogu^a i grmljavina
+WER: 0.07
+Similarity: 93.33%
+SER: 1
+------------------------------
+Reference: slabo do umjereno jugo i jugozapadnjak more malo do umjereno valovito
+Hypothesis: slabo do umjereno jugo i jugozapadnjak more malo do umjereno valovito <uzdah>
+WER: 0.09
+Similarity: 91.67%
+SER: 1
+------------------------------
+Reference: slab do umjeren sjeverozapadnjak a na ju`nom jadranu jo{ u po~etku slabo do umjereno jugo i jugozapadnjak more malo do umjereno valovito svje`ije
+Hypothesis: slab do umjeren sjeverozapadnjak a na ju`nom jadranu jo{ u po~etku slabo do umjereno jugo i jugozapadnjak <uzdah> more malo do umjereno valovito svje`ije
+WER: 0.04
+Similarity: 70.83%
+SER: 1
+------------------------------
+Reference: vjetar slab do umjeren isto~ni i sjeveroisto~ni na jadranu jo{ ujutro mjestimice jaka bura koja ^e postupno slabjeti
+Hypothesis: <uzdah> vjetar slab do umjeren isto~ni i sjeveroisto~ni na jadranu jo{ ujutro mjestimice jaka bura koja ^e postupno slabjeti
+WER: 0.06
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za jadran za prvih dvanaest sati
+Hypothesis: <uzdah> vremenska prognoza za jadran za prvih dvanaest sati
+WER: 0.12
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: prostrana ciklona nad zapadnim europom te zapadnim i srednjim sredozemljem sporo se {iri prema jadranu
+Hypothesis: prostrana ciklona nad zapadnom europom te zapadnim i srednjim sredozemljem sporo se {iri prema jadranu
+WER: 0.07
+Similarity: 93.33%
+SER: 1
+------------------------------
+Reference: more jedan do dva u no^i na otvorenome mjestimice dva do tri
+Hypothesis: <uzdah> more jedan do dva u no^i na otvorenom mjestimice dva do tri
+WER: 0.17
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: <uzdah> vremenska prognoza za slijede^ih dvanaest sati vedro
+Hypothesis: <uzdah> vremenska prognoza za slijede^ih dvanaest sati <sil> vedro
+WER: 0.12
+Similarity: 77.78%
+SER: 1
+------------------------------
+Reference: zbog pribli`avanja fronte u unutra{njosti ^e prevladavati nepovoljni biometeorolo{ki uvjeti <uzdah>
+Hypothesis: zbog pribli`avanja fronte u unutra{njosti ^e prevladavati nepovoljni biometeorolo{ki uvjeti <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: no^u uz obalu burin pet do petnaest ~vorova more jedan do dva ponegdje dva do tri
+Hypothesis: no^u uz obalu burin pet do petnaest ~vorova more jedan do dva ponegdje dva do tri
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: biometeorolo{ka prognoza za sutra ciklona uzrokuje nepovoljne biometeorolo{ke uvjete
+Hypothesis: biometeorolo{ka prognoza za sutra ciklona uzrokuje nepovoljne biometeorolo{ke uvjete
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: u po~etku kod senja jo{ udari bure na jugu jadrana levanta trideset do trideset osam ~vorova <uzdah> polako ^e slabiti prestati
+Hypothesis: u po~etku kod senja jo{ udari bure na jugu jadrana levanta trideset do trideset osam ~vorova polako ^e slabjeti i prestati
+WER: 0.14
+Similarity: 80.95%
+SER: 1
+------------------------------
+Reference: zbog utjecaja ciklone biometeorolo{ki ^e uvjeti biti nepovoljni u cijeloj zemlji
+Hypothesis: zbog utjecaja ciklone biometeorolo{ki ^e uvjeti biti <udarac> nepovoljni <udarac> u cijeloj <udarac> zemlji <udarac>
+WER: 0.36
+Similarity: 46.67%
+SER: 1
+------------------------------
+Reference: zato bi ljudi osjetljivi na vrijeme mogli imati glavobolju biti lo{e raspolo`eni <uzdah>
+Hypothesis: zato bi ljudi osjetljivi na vrijeme mogli imati glavobolju biti lo{e raspolo`eni <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vjetar uglavnom slab zapadni i sjeverozapadni najvi{a dnevna temperatura od dvadeset tri do dvadeset osam stupnjeva
+Hypothesis: vjetar uglavnom slab zapadni i sjeverozapadni najvi{a dnevna temperatura od dvadeset tri do dvadeset osam stupnjeva
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za sutra u ve^ini predjela prete`ito sun~ano mjestimice umjerena naoblaka uz mogu^nost kratkotrajne ki{e i pljuskova i to na jadranu <uzdah>
+Hypothesis: vremenska prognoza za sutra u ve^ini predjela prete`ito sun~ano mjestimice umjerena naoblaka uz mogu^nost kratkotrajne ki{e i pljuskova i to na jadranu <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: anticiklonalni greben sa zapada {iri se prema jadranu vremenska prognoza za jadran za prvih dvanaest sati
+Hypothesis: anticiklonalni greben sa zapada {iri se prema jadranu vremenska prognoza za jadran za prvih dvanaest sati <uzdah>
+WER: 0.06
+Similarity: 94.12%
+SER: 1
+------------------------------
+Reference: vjetar slab na jadranu ponegdje umjeren zapadnjak i sjeverozapadnjak najvi{a temperatura od dvadeset jedan do dvadeset {est stupnjeva
+Hypothesis: vjetar slab na jadranu ponegdje umjeren zapadnjak i sjeverozapadnjak najvi{a temperatura od dvadeset jedan do dvadeset {est stupnjeva
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za sutra umjereno i znatno obla~no na jadranu s ki{om u kopnenim predjelima s ki{om i snijegom
+Hypothesis: vremenska prognoza za sutra umjereno i znatno obla~no na jadranu s ki{om a u kopnenim predjelima s ki{om i snijegom
+WER: 0.05
+Similarity: 60.00%
+SER: 1
+------------------------------
+Reference: izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda stanje
+Hypothesis: izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda stanje <uzdah>
+WER: 0.11
+Similarity: 90.00%
+SER: 1
+------------------------------
+Reference: sun~ano tiho ili burin danju uz obalu slab maestral na otvorenom ju`nog i dijela srednjeg jadrana umjerena i poja~an sjeverozapadni vjetar
+Hypothesis: sun~ano tiho ili burin danju uz obalu slab maestral <uzdah> na otvorenom ju`nog i dijela srednjeg jadrana umjeren i poja~an sjeverozapadni vjetar <uzdah>
+WER: 0.14
+Similarity: 39.13%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za sutra ja~a naoblaka koja ^e ve^ prijepodne zahvatiti sjeverni jadran i zapadne predjele do kraja dana pro{irit ^e se na cijelu zemlju <uzdah>
+Hypothesis: vremenska prognoza za sutra ja~a naoblaka koja ^e ve^ prijepodne zahvatiti sjeverni jadran i zapadne predjele <uzdah> do kraja dana pro{irit ^e se na cijelu zemlju <uzdah>
+WER: 0.04
+Similarity: 59.26%
+SER: 1
+------------------------------
+Reference: na sjevernom i srednjem jadranu te u gorskom kotaru ponegdje mo`e pasti ki{a u no^i i ujutro u kopnenim predjelima mjestimice magla ili sumaglica <uzdah>
+Hypothesis: na sjevernom i srednjem jadranu te u gorskom kotaru ponegdje mo`e pasti ki{a u no^i i ujutro u kopnenim predjelima mjestimice magla ili sumaglica <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: more dva do tri vidljivost deset do dvadeset kilometara mjestimice oko ~etiri kilometra zbog sumaglice <uzdah> prete`ito vedro
+Hypothesis: more dva do tri vidljivost deset do dvadeset kilometara mjestimice oko ~etiri kilometra zbog sumaglice prete`ito vedro
+WER: 0.06
+Similarity: 83.33%
+SER: 1
+------------------------------
+Reference: a tijekom no^i u slabljenju na {est do {esnaest ~vorova
+Hypothesis: a tijekom  no^i u slabljenju na {est do {esnaest ~vorova
+WER: 0.00
+Similarity: 100.00%
+SER: 1
+------------------------------
+Reference: jugo osam do {esnaest ~vorova more u poja~anju na dva do tri
+Hypothesis: jugo od osam do {esnaest ~vorova more u poja~anju na dva do tri
+WER: 0.08
+Similarity: 7.69%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za slijede^ih dvanaest sati
+Hypothesis: vremenska prognoza za slijede^ih dvanaest sati
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda upozorenje <uzdah>
+Hypothesis: izvje{taj pomorskog meteorolo{kog centra split dr`avnog hidrometeorolo{kog zavoda upozorenje
+WER: 0.20
+Similarity: 80.00%
+SER: 1
+------------------------------
+Reference: sutra ponegdje neverini
+Hypothesis: sutra ponegdje neverini
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: no^u uz obalu mjestimice udari bure trideset do ~etrdeset ~vorova sutra ^e oslabjeti
+Hypothesis: u no^i uz obalu mjestimice udari bure trideset do ~etrdeset ~vorova sutra ^e oslabjeti
+WER: 0.15
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: jugo od ~etrnaest do dvadeset osam ~vorova ^e oslabjeti <uzdah> a zatim ve^inom jugozapadni i zapadni vjetar {est do osamnaest ~vorova
+Hypothesis: jugo od ~etrnaest do dvadeset osam ~vorova ^e oslabjeti <uzdah> a zatim ve^inom jugozapadni i zapadni vjetar od {est do osamnaest ~vorova
+WER: 0.05
+Similarity: 77.27%
+SER: 1
+------------------------------
+Reference: a drugdje jugozapadnog i zapadnog vjetra od trideset do ~etrdeset pet ~vorova <uzdah> po~eo no^i oslabiti <uzdah>
+Hypothesis: a drugdje jugozapadnog i zapadnog vjetra od trideset do ~etrdeset pet ~vorova <uzdah> koji ^e u no^i oslabiti
+WER: 0.24
+Similarity: 72.22%
+SER: 1
+------------------------------
+Reference: dnevna od dvadeset jedan do dvadeset {est stupnjeva
+Hypothesis: dnevna od dvadeset jedan do dvadeset {est stupnjeva <uzdah>
+WER: 0.12
+Similarity: 88.89%
+SER: 1
+------------------------------
+Reference: ve^inom s umjerenom a na ju`nom dijelu mjestimice i pove^anom naoblakom <uzdah> vjetar slab do umjeren sjeveroisto~njak a na jadranu umjerena i jaka bura
+Hypothesis: ve^inom s umjerenom a na ju`nom dijelu mjestimice i pove^anom naoblakom <uzdah> vjetar slab do umjeren sjeveroisto~njak a na jadranu umjerena i jaka bura
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: biometeorolo{ka prognoza za sutra zbog razmjerno povoljnih biometeorolo{kih prilika
+Hypothesis: biometeorolo{ka prognoza za sutra <papir> zbog razmjerno pogodnih biometeorolo{kih prilika
+WER: 0.22
+Similarity: 40.00%
+SER: 1
+------------------------------
+Reference: <uzdah> no^u du` obale more jedan do dva vidljivost deset do dvadeset kilometara malo do umjereno obla~no <uzdah> temperatura bez ve^e promjene
+Hypothesis: <uzdah> no^u du` obale more jedan do dva vidljivost deset do dvadeset kilometara <uzdah> malo do umjereno obla~no <uzdah> temperatura bez ve^e promjene
+WER: 0.05
+Similarity: 56.52%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za sutra prete`no obla~no uglavnom u no^i i prijepodne s oborinama <uzdah> na jadranu ki{a mjestimice s grmljavinom <uzdah>
+Hypothesis: vremenska prognoza za sutra prete`no obla~no uglavnom u no^i i prijepodne s oborinama <uzdah> na jadranu ki{a mjestimice s grmljavinom <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: na otvorenom moru sjeverozapadni vjetar ~etiri do dvanaest ~vorova <uzdah> more jedan do dva na otvorenom srednjeg i ju`nog jadrana te ponegdje uz obalu tijekom poslijepodne na dva do tri
+Hypothesis: na otvorenom moru sjeverozapadni vjetar ~etiri do dvanaest ~vorova <uzdah> more jedan do dva na otvorenom srednjeg i ju`nog jadrana <uzdah> te ponegdje uz obalu tijekom poslijepodneva dva do tri
+WER: 0.10
+Similarity: 76.67%
+SER: 1
+------------------------------
+Reference: a danju u gorskome kotaru lici i dalmatinskome zale}u <uzdah> vjetar slab na jadranu mjestimice umjeren maestral
+Hypothesis: a danju u gorskome kotaru lici i dalmatinskome zale}u <uzdah>  vjetar slab na jadranu mjestimice umjeren maestral
+WER: 0.00
+Similarity: 100.00%
+SER: 1
+------------------------------
+Reference: <uzdah> burin na otvorenom moru sjeverozapadnjak pet do trinaest ~vorova
+Hypothesis: burin na otvorenom moru sjeverozapadnjak vjetar pet do trinaest ~vorova
+WER: 0.20
+Similarity: 40.00%
+SER: 1
+------------------------------
+Reference: uglavnom poslijepodne i na sjevernom jadranu
+Hypothesis: uglavnom poslijepodne i na sjevernom jadranu
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda upozorenje <uzdah>
+Hypothesis: izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda upozorenje <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: more jedan do dva na otvorenom dijelu ju`nog jadrana ponegdje dva do tri
+Hypothesis: more jedan do dva na otvorenom dijelu ju`noga jadrana ponegdje dva do tri
+WER: 0.08
+Similarity: 92.31%
+SER: 1
+------------------------------
+Reference: a na ju`nom jadranu biometeorolo{ki uvjeti ^e biti povoljni
+Hypothesis: a na ju`nom jadranu biometeorolo{ki uvjeti ^e biti povoljni
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: izvje{taj o vodostaju rijeka za dana{nji dan srijedu prvih sije~nja <greska>
+Hypothesis: izvje{^e o vodostaju rijeka za dana{nji dan srijedu prvi sije~nja dvije tisu^e tre^e
+WER: 0.45
+Similarity: 61.54%
+SER: 1
+------------------------------
+Reference: zapuhat ^e umjeren sjeveroisto~njak a na ve^em dijelu jadrana umjerena i jaka bura <uzdah> temperatura zraka u padu
+Hypothesis: zapuhat ^e umjeren sjeveroisto~njak a na ve^em dijelu jadrana umjerena i jaka bura <uzdah> temperatura zraka u padu
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: u drugom dijelu dana oborine posvuda trebali prestati
+Hypothesis: u drugom dijelu dana oborine bi posvuda trebale prestati
+WER: 0.25
+Similarity: 55.56%
+SER: 1
+------------------------------
+Reference: polje malo povi{enog atmosferskog tlaka zadr`ava se nad jadranom <uzdah> a ciklona se nad zapadnim sredozemljem sporo premje{ta prema italiji
+Hypothesis: polje malo povi{enog atmosferskog tlaka zadr`ava se nad jadranom <uzdah> a ciklona se nad zapadnim sredozemljem sporo premje{ta prema italiji
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: gdje ponegdje mo`e pasti malo ki{e potkraj dana sa zapada nova naoblaka <uzdah> puhat ^e slab do umjeren u no^i i ujutro mjestimice i jak zapadnjak jugozapadnjak <uzdah>
+Hypothesis: gdje ponegdje mo`e pasti i malo ki{e potkraj dana sa zapada nova naoblaka <uzdah> puhat ^e slab do umjeren u no^i i ujutro mjestimice i jak zapadnjak i jugozapadnjak
+WER: 0.11
+Similarity: 13.79%
+SER: 1
+------------------------------
+Reference: ponegdje mogu^a i ja~e nevrijeme <uzdah> s jakim sjevernim i sjeveroisto~ni vjetrom <uzdah>
+Hypothesis: ponegdje je mogu^e i ja~e nevrijeme <uzdah> s jakim sjevernim i sjeveroisto~nim vjetrom <uzdah>
+WER: 0.23
+Similarity: 7.14%
+SER: 1
+------------------------------
+Reference: ujutro ponegdje sumaglica i magla ponajprije uz rijeke <uzdah> vjetar slab u no^i i ujutro na jadranu umjerena podno velebita i jaka bura s olujnim udarima <uzdah>
+Hypothesis: ujutro ponegdje sumaglica i magla ponajprije uz rijeke <uzdah> vjetar slab u no^i i ujutro na jadranu umjerena podno velebita i jaka bura s olujnim udarima
+WER: 0.04
+Similarity: 96.30%
+SER: 1
+------------------------------
+Reference: jugo ve^inom umjereno u srijedu sun~ano i ponovno toplije
+Hypothesis: jugo ve^inom umjereno u srijedu sun~ano i ponovno toplije
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: u subotu prolazno pobolj{anje vremena a u nedjelju novo naobla~enje poslijepodne u ve^em dijelu zemlje ponovno mjestimice ki{a
+Hypothesis: u subotu prolazno pobolj{anje vremena a u nedjelju novo naobla~enje poslijepodne u ve^em dijelu zemlje ponovno mjestimice ki{a
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: drava terezino polje minus jedan pet sedam minus sto pedeset sedam <uzdah>
+Hypothesis: drava terezino polje minus jedan pet sedam minus sto pedeset sedam
+WER: 0.08
+Similarity: 91.67%
+SER: 1
+------------------------------
+Reference: dunav ilok tri nula nula tristo drava botovo pet devet pedeset devet
+Hypothesis: dunav ilok tri nula nula tristo drava botovo pet devet pedeset devet <uzdah>
+WER: 0.08
+Similarity: 92.31%
+SER: 1
+------------------------------
+Reference: na jadranu jako a mjestimice i olujno jugo postupno sve toplije
+Hypothesis: na jadranu jako a mjestimice i olujno jugo postupno sve toplije
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: temperatura od minus sedam do minus ~etiri stupnja <uzdah> na jadranu od jedan na sjevernome do deset stupnjeva na ju`nome dijelu
+Hypothesis: temperatura od minus sedam do minus ~etiri stupnja <uzdah> na jadranu od jedan na sjevernome do deset stupnjeva na ju`nome dijelu
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: najvi{a temperatura u ve^ini krajeva od petnaest do dvadeset <uzdah>
+Hypothesis: najvi{a temperatura u ve^ini krajeva od petnaest do dvadeset
+WER: 0.10
+Similarity: 90.00%
+SER: 1
+------------------------------
+Reference: sava slavonski brod {est {est ~etiri {est {ezdeset ~etiri
+Hypothesis: sava slavonski brod {est {est ~etiri {esto {ezdeset ~etiri
+WER: 0.11
+Similarity: 88.89%
+SER: 1
+------------------------------
+Reference: najobla~nije prema kraju dana na sjevernom jadranu i u gorskom kotaru gdje mo`e pasti malo ki{e <uzdah> zapuhat ^e slab poslijepodne umjeren jugozapadni i ju`ni vjetar <uzdah>
+Hypothesis: najobla~nije prema kraju dana na sjevernome jadranu i u gorskom kotaru gdje mo`e pasti i malo ki{e <uzdah> zapuhat ^e slab poslijepodne umjeren jugozapadni i ju`ni vjetar <uzdah>
+WER: 0.07
+Similarity: 46.43%
+SER: 1
+------------------------------
+Reference: a na ve^em dijelu jadrana jugo ^e ja~ati <uzdah> jutarnja temperatura od minus jedan do ~etiri na jadranu izme}u pet i deset stupnjeva <uzdah>
+Hypothesis: a na ve^em dijelu jadrana jugo ^e ja~ati <uzdah> jutarnja temperatura od minus jedan do ~etiri a na jadranu izme}u pet i deset stupnjeva <uzdah>
+WER: 0.04
+Similarity: 64.00%
+SER: 1
+------------------------------
+Reference: i {est i na sjevernom jadranu djelomice sun~ano s umjerenom naoblakom
+Hypothesis: unutra{njosti i na sjevernom jadranu djelomice sun~ano s umjerenom naoblakom
+WER: 0.18
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za sutra prete`ito sun~ano i malo toplije <uzdah>
+Hypothesis: vremenska prognoza za sutra prete`ito sun~ano i malo toplije <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: jutarnja temperatura od ~etiri do devet na jadranu od deset do ~etrnaest stupnjeva dnevna uglavnom od dvadeset jedan do dvadeset {est stupnjeva
+Hypothesis: jutarnja temperatura od ~etiri do devet na jadranu od  deset do ~etrnaest stupnjeva dnevna uglavnom od dvadeset jedan do dvadeset {est stupnjeva
+WER: 0.00
+Similarity: 100.00%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za sutra ve^inom sun~ano osobito na jadranu <uzdah>
+Hypothesis: vremenska prognoza za sutra ve^inom sun~ano osobito na jadranu <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: najni`a jutarnja temperatura od jedanaest do ~etrnaest stupnjeva u lici od sedam do devet <uzdah> a na jadranu izme}u ~etrnaest i sedamnaest stupnjeva
+Hypothesis: najni`a jutarnja temperatura od jedanaest do ~etrnaest stupnjeva u lici od sedam do devet <uzdah> a na jadranu izme}u ~etrnaest i sedamnaest stupnjeva
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vidljivost deset do dvadeset kilometara
+Hypothesis: vidljivost deset do dvadeset kilometara
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda upozorenje <uzdah>
+Hypothesis: izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda upozorenje <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za jadran za prvih dvanaest sati uz obalu bura {est do ~etrnaest potkraj dana i u no^i dvanaest do dvadeset ~etiri ~vora
+Hypothesis: vremenska prognoza za jadran za prvih dvanaest sati uz obalu bura {est do ~etrnaest potkraj dana i u no^i dvanaest do dvadeset ~etiri ~vora
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: <uzdah> podno velebita s olujnim udarima <uzdah> a na ju`nom jadranu ve^inom umjereno i jako jugo
+Hypothesis: <uzdah> podno velebita s olujnim udarima <uzdah> a na ju`nom jadranu ve^inom umjereno i jako jugo <uzdah>
+WER: 0.06
+Similarity: 94.12%
+SER: 1
+------------------------------
+Reference: izvje{taj pomorskoga meteorolo{koga centra split upozorenje mjestimice udari juga trideset do ~etrdeset sutra do pedeset ~vorova <uzdah>
+Hypothesis: izvje{taj pomorskoga meteorolo{koga centra split upozorenje mjestimice udari juga trideset do ~etrdeset sutra do pedeset ~vorova <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: more na otvorenom dijelu srednjeg i sjevernog jadrana ponegdje pet stanje <uzdah>
+Hypothesis: more na otvorenom dijelu srednjeg i sjevernom jadrana ponegdje pet <sil> stanje <uzdah>
+WER: 0.17
+Similarity: 69.23%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za slijede^ih dvanaest sati <uzdah> prijepodne obla~no s ki{om zatim promjenjivo obla~no sa sun~anim razdobljima <uzdah>
+Hypothesis: <uzdah> vremenska prognoza za slijede^ih dvanaest sati <uzdah> prijepodne obla~no s ki{om zatim promjenjivo obla~no sa sun~anim razdobljima <uzdah>
+WER: 0.06
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: temperatura od minus dva do plus tri stupnja a na jadranu od pet na sjevernom do trinaest stupnjeva na ju`nom
+Hypothesis: temperatura od minus dva do plus tri stupnja a na jadranu od pet na sjevernom do trinaest stupnjeva na ju`nom
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: more dva do tri no^u uz obalu jedan do dva
+Hypothesis: more dva do tri no^u uz obalu jedan do dva
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: prostrano ciklonalno polje nad tirenskim i ligurskim morem te jadranom polako se popunjava a po visini se jo{ zadr`ava nestabilni zrak
+Hypothesis: prostrano ciklonalno polje nad tirenskim i ligurskim morem te jadranom polako se popunjava a po visini se jo{  zadr`ava nestabilan zrak
+WER: 0.05
+Similarity: 95.24%
+SER: 1
+------------------------------
+Reference: vjetar uglavnom ju`ni i jugozapadni zatim ponegdje zapadni i sjeverozapadni
+Hypothesis: vjetar uglavnom ju`ni i jugozapadni zatim ponegdje zapadni i sjeverozapadni
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za sutra sun~ano i malo toplije ujutro u unutra{njosti mjestimice magla a danju na sjevernom jadranu te u zapadnim i sjeverozapadnim kopnenim podru~jima
+Hypothesis: vremenska prognoza za sutra sun~ano i malo toplije ujutro u unutra{njosti mjestimice magla a danju na sjevernom jadranu te u zapadnom i sjeverozapadnim kopnenim podru~jima
+WER: 0.04
+Similarity: 96.00%
+SER: 1
+------------------------------
+Reference: <uzdah> vremenska prognoza za jadran za prvih dvanaest sati
+Hypothesis: vremenska prognoza za jadran za prvih dvanaest sati
+WER: 0.11
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: drava osijek minus sedam tri minus sedamdeset tri
+Hypothesis: drava osijek minus sedam tri <sil> minus sedamdeset tri
+WER: 0.12
+Similarity: 55.56%
+SER: 1
+------------------------------
+Reference: sava zagreb minus dva devet tri minus dvjesto devedeset tri
+Hypothesis: sava zagreb minus dva devet tri <sil> minus dvjesto devedeset tri
+WER: 0.10
+Similarity: 54.55%
+SER: 1
+------------------------------
+Reference: vidljivost oko dvadeset kilometara do kraja dana i u no^i djelomice naoblake
+Hypothesis: vidljivost oko dvadeset kilometara do kraja dana i u no^i djelomice naoblaka
+WER: 0.08
+Similarity: 91.67%
+SER: 1
+------------------------------
+Reference: anticiklonalno polje nad jadranom polako ^e slabiti <sil> vremenska prognoza za jadran za prvih dvanaest sati <uzdah>
+Hypothesis: anticiklonalno polje nad jadranom polako ^e slabiti <sil> vremenska prognoza za jadran za prvih dvanaest sati
+WER: 0.06
+Similarity: 94.12%
+SER: 1
+------------------------------
+Reference: vidljivost deset do dvadeset kilometara prete`ito vedro ponegdje s malom do umjerenom naoblakom
+Hypothesis: vidljivost deset do dvadeset kilometara <sil> prete`ito vedro ponegdje s malom do umjerenom naoblakom
+WER: 0.08
+Similarity: 35.71%
+SER: 1
+------------------------------
+Reference: kupa radenci osam {esto osamdeset {est kupa karlovac ~etiri dva ~etrdeset dva
+Hypothesis: kupa radenci osam {est osamdeset {est kupa karlovac ~etiri dva ~etrdeset dva
+WER: 0.08
+Similarity: 91.67%
+SER: 1
+------------------------------
+Reference: izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda upozorenje mjestimi~ni neverini
+Hypothesis: izvje{taj pomorskog meteorolo{kog centra split dr`avnog hidrometeorolo{kog zavoda upozorenje mjestimi~ni neverini
+WER: 0.09
+Similarity: 90.91%
+SER: 1
+------------------------------
+Reference: tegobe zbog vremena mogli bi imati i kroni~ni bolesnici
+Hypothesis: tegobe zbog vremena mogli bi imati i kroni~ni bolesnici
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: a na jadranu od sedamnaest do dvadeset dva <uzdah> najvi{a dnevna izme}u dvadeset pet i trideset stupnjeva
+Hypothesis: <uzdah> a na jadranu od sedamnaest do dvadeset dva <uzdah> najvi{a dnevna izme}u dvadeset pet i trideset stupnjeva
+WER: 0.06
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: greben anticiklone polako ja~a sa sjeverozapada prema jadranu a ciklona nad jonskim morem popunjava i pomi~e na istok <uzdah>
+Hypothesis: greben anticiklone polako ja~a sa sjeverozapada prema jadranu a ciklona nad jonskim morem popunjava se i pomi~e na istok <uzdah>
+WER: 0.05
+Similarity: 70.00%
+SER: 1
+------------------------------
+Reference: bura na otvorenom tramontana {est do osamnaest mjestimice dvadeset dva ~vora <uzdah>
+Hypothesis: bura na otvorenom tramontana {est do osamnaest mjestimice dvadeset dva ~vora
+WER: 0.08
+Similarity: 91.67%
+SER: 1
+------------------------------
+Reference: vjetar povremeno umjerena najvi{a dnevna uglavnom od osamnaest do dvadeset tri stupnja <uzdah>
+Hypothesis: vjetar povremeno umjeren a najvi{a dnevna uglavnom od osamnaest do dvadeset <t> tri stupnja
+WER: 0.31
+Similarity: 14.29%
+SER: 1
+------------------------------
+Reference: vjetar povremeno umjeren sjeverni na jadranu bura i sjeverozapadnjak najprije na sjevernom dijelu
+Hypothesis: vjetar povremeno umjeren sjeverni na jadranu bura i sjeverozapadnjak najprije na sjevernom dijelu
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: temperatura od minus jedan do ~etiri stupnja na jadranu od {est na sjevernom do trinaest na njegovom ju`nom dijelu vremenski izgledi do sredine slijede^ega tjedna
+Hypothesis: temperatura od minus jedna do ~etiri stupnja a na jadranu od {est na sjevernom do trinaest na njegovom ju`nom dijelu <uzdah> vremenski izgledi do sredine slijede^ega tjedna
+WER: 0.12
+Similarity: 22.22%
+SER: 1
+------------------------------
+Reference: prete`ito sun~ano povremeno s umjerenom naoblakom vi{e oblaka prijepodne u najisto~nijim predjelima te sredinom dana na sjevernom jadranu i u gorskom kotaru
+Hypothesis: prete`ito sun~ano povremeno s umjerenom naoblakom vi{e oblaka prije podne u najisto~nijim predjelima te sredinom dana na sjevernom jadranu i u gorskom kotaru
+WER: 0.09
+Similarity: 34.78%
+SER: 1
+------------------------------
+Reference: jutarnja temperatura od minus deset do minus {est stupnjeva <uzdah> a na jadranu od minus jedan na sjevernom do osam na ju`nom
+Hypothesis: jutarnja temperatura od minus deset do minus {est stupnjeva <uzdah> a na jadranu od minus jedan na sjevernom do osam na ju`nom
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: stanje nad zapadnim i srednjim sredozemljem te jadranom zadr`ava se ciklonalno polje
+Hypothesis: stanje nad zapadnim i srednjim sredozemljem te jadranom zadr`ava se ciklonalno polje
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za slijede^ih dvanaest sati uz obalu slaba do umjerena bura ponegdje velebitskom kanalu i na srednjem jadranu kratkotrajno poja~ana <uzdah>
+Hypothesis: vremenska prognoza za slijede^ih dvanaest sati <uzdah> uz obalu slaba do umjerena bura ponegdje u velebitskom kanalu i na srednjem jadranu kratkotrajno poja~ana <uzdah>
+WER: 0.09
+Similarity: 25.00%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za sutra <uzdah> sun~ano i jo{ malo toplije u sjeverozapadnim podru~jima povremeno ^e biti umjerene naoblake
+Hypothesis: vremenska prognoza za sutra <uzdah> sun~ano i jo{ malo toplije u sjeverozapadnim podru~jima povremeno ^e biti umjerene naoblake
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za sutra <uzdah> u no^i i ujutro ve^ini krajeva unutra{njosti obla~no ponegdje uz vrlo slab snijeg uglavnom u gorskom kotaru i lici
+Hypothesis: vremenska prognoza za sutra <uzdah> u no^i i ujutro u ve^ini krajeva unutra{njosti obla~no ponegdje uz vrlo slab snijeg uglavnom u gorskom kotaru i lici
+WER: 0.04
+Similarity: 36.00%
+SER: 1
+------------------------------
+Reference: vremenska prognoza za sutra uglavnom sun~ano ujutro u unutra{njosti magla mjestimice a samo u gorskom kotaru i lici ponegdje malo snijega
+Hypothesis: vremenska prognoza za sutra uglavnom sun~ano ujutro u unutra{njosti magla mjestimice a samo u gorskome kotaru i lici ponegdje malo snijega
+WER: 0.05
+Similarity: 95.24%
+SER: 1
+------------------------------
+Reference: a najvi{a dnevna od dvanaest do sedamnaest na jadranu od sedamnaest do dvadeset jedan stupanj
+Hypothesis: <uzdah> a najvi{a dnevna od dvanaest do sedamnaest na jadranu od sedamnaest do dvadeset jedan stupanj
+WER: 0.07
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: toplo i sparno s najvi{om temperaturom izme}u dvadeset dva do dvadeset sedam stupnjeva
+Hypothesis: toplo i sparno s najvi{om temperaturom izme}u dvadeset dva i dvadeset sedam stupnjeva
+WER: 0.08
+Similarity: 92.31%
+SER: 1
+------------------------------
+Reference: potkraj dana sa zapada nova naoblaka <uzdah>
+Hypothesis: potkraj dana sa zapada nova naoblaka <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: puhat ^e slab do umjeren u no^i i ujutro mjestimice i jak zapadnjak i jugozapadnjak <uzdah> na ju`nom jadranu jugo
+Hypothesis: puhat ^e slab do umjeren u no^i i ujutro mjestimice i jak zapadnjak i jugozapadnjak <uzdah> na ju`nom jadranu jugo
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vjetar uglavnom slab na jadranu u no^i i ujutro mjestimice umjerena bura <uzdah>
+Hypothesis: vjetar uglavnom slab na jadranu u no^i i ujutro mjestimice umjerena bura <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: more malo do umjereno valovito temperatura bez promjene ili malo vi{a
+Hypothesis: more malo do umjereno valovito <sil> temperatura bez promjene ili malo vi{a
+WER: 0.09
+Similarity: 41.67%
+SER: 1
+------------------------------
+Reference: more umjereno valovito i valovito no^na i jutarnja temperatura od dva
+Hypothesis: more umjereno valovito i valovito no^na i jutarnja temperatura u padu
+WER: 0.18
+Similarity: 81.82%
+SER: 1
+------------------------------
+Reference: na jadranu od devetnaest do dvadeset ~etiri <uzdah> a najvi{a dnevna od dvadeset dva do dvadeset sedam <uzdah>
+Hypothesis: na jadranu od devetnaest do dvadeset ~etiri <uzdah> a najvi{a dnevna od dvadeset dva do dvadeset sedam <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za slijede^ih dvanaest sati <uzdah> slaba do umjerena bura i sjeverozapadnjak more malo do umjereno valovito samo na otvorenom ju`nog jadrana <uzdah>
+Hypothesis: vremenska prognoza za sljede^ih dvanaest sati slaba do umjerena bura i sjeverozapadnjak more malo do umjereno valovito samo na otvorenom ju`nog jadrana <uzdah>
+WER: 0.08
+Similarity: 20.83%
+SER: 1
+------------------------------
+Reference: izgledi vremena do kraja tjedna sun~ano i vrlo toplo <uzdah>
+Hypothesis: izgledi vremena do kraja tjedna sun~ano i vrlo toplo <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: u no^i bura {est do ~etrnaest samo mjestimice uz obalu do osamnaest ~vorova <uzdah> more dva do tri <uzdah>
+Hypothesis: u no^i bura {est do ~etrnaest samo mjestimice uz obalu do osamnaest ~vorova <uzdah> more dva do tri <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za slijede^ih dvanaest sati prete`ito vedro slaba do umjerena bura do jutra ^e sasvim oslabjeti <uzdah>
+Hypothesis: vremenska prognoza za slijede^ih dvanaest sati prete`ito vedro slaba do umjerena bura do jutra ^e sasvim oslabjeti <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: postupna naoblaka <uzdah> mjestimice s pljuskovima i grmljavinom <uzdah> vjetar slab a na jadranu povremeno umjeren jugozapadnjak
+Hypothesis: postupna naoblaka <uzdah> mjestimice s pljuskovima i grmljavinom vjetar slab a na jadranu povremeno umjeren jugozapadnjak
+WER: 0.06
+Similarity: 47.06%
+SER: 1
+------------------------------
+Reference: zatim slab do umjeren sjeverozapadnjak i zapadnjak <uzdah> najni`a temperatura izme}u minus deset i minus pet <uzdah>
+Hypothesis: zatim slab do umjeren sjeverozapadnjak i zapadnjak <uzdah> najni`a temperatura izme}u minus deset i minus pet <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: na jadranu od minus ~etiri do oprostite od minus jedan do ~etiri <uzdah>
+Hypothesis: na jadranu od minus ~etiri oprostite od minus jedan do ~etiri <uzdah>
+WER: 0.08
+Similarity: 38.46%
+SER: 1
+------------------------------
+Reference: a krajem dana i u no^i mjestimice u sredi{njim i isto~nim predjelima <uzdah>
+Hypothesis: a krajem dana i u no^i mjestimice u sredi{njim i isto~nim predjelima <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: more dva do tri na otvorenom tri do ~etiri na otvorenom sjevernog i srednjeg jadrana u no^i ponegdje pet <uzdah>
+Hypothesis: more dva do tri na otvorenom tri do ~etiri <uzdah> na otvorenom sjevernog i srednjeg jadrana u no^i ponegdje pet <uzdah>
+WER: 0.05
+Similarity: 42.86%
+SER: 1
+------------------------------
+Reference: na jadranu u no^i i prijepodne umjerena i jaka u dalmaciji mjestimice olujna bura <uzdah>
+Hypothesis: na jadranu u no^i i prijepodne umjerena i jaka u dalmaciji mjestimice olujna bura <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vidljivost dvadeset kilometara <uzdah> vedro i malo do umjereno obla~no <uzdah>
+Hypothesis: vidljivost dvadeset kilometara <uzdah> vedro ili malo do umjereno obla~no <uzdah>
+WER: 0.09
+Similarity: 90.91%
+SER: 1
+------------------------------
+Reference: na jadranu jugo u petak razmjerno toplo zatim postupno hladnije
+Hypothesis: na jadranu jugo <uzdah> u petak razmjerno toplo zatim postupno hladnije <uzdah>
+WER: 0.20
+Similarity: 25.00%
+SER: 1
+------------------------------
+Reference: more dva do tri na srednjem i ju`nom jadranu tri do ~etiri <uzdah>
+Hypothesis: more dva do tri na srednjem i ju`nom jadranu tri do ~etiri <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vidljivost deset do dvadeset kilometara prete`ito obla~no na sjevernom jadranu mjestimice ki{a pljuskovi i grmljavina
+Hypothesis: vidljivost deset do dvadeset kilometara prete`ito obla~no na sjevernom jadranu mjestimice ki{a pljuskovi i grmljavina
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: prognoza vremena za sutra
+Hypothesis: prognoza vremena za sutra <uzdah>
+WER: 0.25
+Similarity: 80.00%
+SER: 1
+------------------------------
+Reference: vidljivost pet do petnaest kilometara
+Hypothesis: vidljivost pet do petnaest kilometara
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: uglavnom vedro
+Hypothesis: uglavnom vedro
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: <uzdah> pobolj{anje vremena <uzdah>
+Hypothesis: pogor{anje vremena
+WER: 0.75
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: na jadranu od sedam do dvanaest najvi{a dnevna od tri do osam
+Hypothesis: na jadranu od sedam do dvanaest najvi{a dnevna od tri do osam
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: izvje{taj pomorskog meteorolo{kog centra split upozorenje <uzdah>
+Hypothesis: izvje{taj pomorskog meteorolo{kog centra split upozorenje <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: more umjereno valovito i valovito obla~no s ki{om i pljuskovima mjestimice
+Hypothesis: more umjereno valovito i valovito <sil> obla~no s ki{om i pljuskovima mjestimice
+WER: 0.09
+Similarity: 41.67%
+SER: 1
+------------------------------
+Reference: djelomice sun~ano s promjenjivom naoblakom vi{e oblaka poslijepodne i osobito nave~er u zapadnim predjelima unutra{njosti i na sjevernom jadranu
+Hypothesis: djelomice sun~ano s promjenjljivom naoblakom vi{e oblaka poslijepodne i osobito nave~er u zapadnim predjelima u unutra{njosti i na sjevernom jadranu
+WER: 0.11
+Similarity: 65.00%
+SER: 1
+------------------------------
+Reference: u dalmaciji mjestimice grmljavina danju ve^ini krajeva prestanak oborina a na jadranu i djelomi~no razvedravanje
+Hypothesis: u dalmaciji mjestimice grmljavina danju u ve^ini krajeva prestanak oborina a na jadranu i djelomi~no razvedravanje
+WER: 0.07
+Similarity: 31.25%
+SER: 1
+------------------------------
+Reference: stanje anticiklona s europskog kopna pru`a greben prema jadranu
+Hypothesis: stanje anticiklona s europskog kopna pru`a greben prema jadranu
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vidljivost dvadeset kilometara prete`ito vedro temperatura ^e jo{ malo porasti
+Hypothesis: <uzdah> vidljivost dvadeset kilometara <sil> prete`ito vedro <sil> temperatura ^e jo{ malo porasti
+WER: 0.30
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: more dva do tri vidljivost dvadeset kilometara prete`ito vedro temperatura ^e jo{ malo porasti
+Hypothesis: more dva do tri vidljivost dvadeset kilometara prete`ito vedro temperatura ^e jo{ malo porasti
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: na sjevernom jadranu promjenljivo ili prete`ito obla~no drugdje vedro ali do kraja dana ^e se djelomice naobla~iti
+Hypothesis: na sjevernom jadranu promjenljivo ili prete`ito obla~no drugdje vedro ali do kraja dana ^e se djelomice naobla~iti
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: umjerena do jaka bura brzo ^e oslabjeti i okrenuti na umjerena dijelu srednjeg i ju`nog jadrana ponegdje kratkotrajno i jak sjeverozapadnjak
+Hypothesis: umjerena do jaka bura brzo ^e oslabjeti i okrenuti na umjeren na dijelu srednjeg i ju`nog jadrana ponegdje kratkotrajno i jak sjeverozapadnjak
+WER: 0.10
+Similarity: 45.45%
+SER: 1
+------------------------------
+Reference: vjetar slab i umjeren sjeverni i sjeveroisto~ni a na jadranu umjerena do jaka na sjevernom i srednjem ponegdje vrlo jaka bura
+Hypothesis: vjetar slab i umjeren sjeverni i sjeveroisto~ni a na jadranu umjerena do jaka a na sjevernom i srednjem ponegdje vrlo jaka bura
+WER: 0.05
+Similarity: 59.09%
+SER: 1
+------------------------------
+Reference: prete`ito sun~ano i vru^e
+Hypothesis: prete`ito sun~ano i vru^e
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: temperatura od dvadeset devet stupnjeva do trideset ~etiri
+Hypothesis: temperatura od dvadeset devet stupnjeva do trideset ~etiri
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: jutarnja temperatura zraka uglavnom od sedam do dvanaest stupnjeva dnevna temperatura bez ve^e promjene
+Hypothesis: jutarnja temperatura zraka uglavnom od sedam do dvanaest stupnjeva dnevna temperatura bez ve^e promjene
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: more nula do dva samo ponegdje dva do tri
+Hypothesis: more nula do dva samo ponegdje dva do tri
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za slijede^ih dvanaest sati sun~ano i vru^e tiho ili burin danju slab samo ponegdje umjeren maestral
+Hypothesis: vremenska prognoza za slijede^ih dvanaest sati sun~ano i vru^e <sil> tiho ili burin danju slab samo ponegdje umjeren maestral
+WER: 0.06
+Similarity: 47.37%
+SER: 1
+------------------------------
+Reference: na ju`nom dijelu srednjeg jadrana jo{ danas poslije podne manja mogu^nost neverina uglavnom du` obale
+Hypothesis: na ju`nom dijelu srednjeg jadrana jo{ danas poslije podne manja mogu^nost neverina a uglavnom du` obale
+WER: 0.07
+Similarity: 75.00%
+SER: 1
+------------------------------
+Reference: poslijepodne i osobito nave~er postupna naoblaka sa sjeverozapada mogu^nost za lokalne pljuskove i grmljavinu najve^a me}imurju hrvatskom zagorju i podravini <uzdah>
+Hypothesis: poslijepodne i osobito nave~er postupna naoblaka sa sjeverozapada mogu^nost za lokalne pljuskove i grmljavinu najve^a je u me}imurju hrvatskom zagorju i podravini <uzdah>
+WER: 0.10
+Similarity: 65.22%
+SER: 1
+------------------------------
+Reference: na sjevernom promjenljivo obla~no mjestimice s pljuskovima i grmljavinom <uzdah>
+Hypothesis: na sjevernom promjenjljivo obla~no s mjestimi~nim pljuskovima i grmljavinom <uzdah>
+WER: 0.30
+Similarity: 70.00%
+SER: 1
+------------------------------
+Reference: a frontalni poreme^aj pomi~e se sa sjevernog jadrana na istok jugoistok
+Hypothesis: frontalni poreme^aj pomi~e se sa sjevernog jadrana na istok i jugoistok
+WER: 0.18
+Similarity: 9.09%
+SER: 1
+------------------------------
+Reference: biometeorolo{ka prognoza za sutra
+Hypothesis: biometeorolo{ka prognoza za sutra
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vjetar ve^inom slab na jadranu slab do umjeren sjeverozapadnjak i zapadnjak
+Hypothesis: vjetar ve^inom slab na jadranu slab do umjeren sjeverozapadnjak i zapadnjak
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: jutarnja temperatura od minus jedan do ~etiri na jadranu izme}u pet i deset stupnjeva <uzdah>
+Hypothesis: jutarnja temperatura od minus jedan do ~etiri na jadranu izme}u pet i deset stupnjeva
+WER: 0.07
+Similarity: 93.33%
+SER: 1
+------------------------------
+Reference: izvje{taj pomorskog meteorolo{kog centra split od trinaest sati
+Hypothesis: izvje{taj pomorskog meteorolo{kog centra split od trinaest sati
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: na otvorenom moru sjeverni i sjeverozapadni vjetar deset do dvadeset ~vorova <uzdah>
+Hypothesis: na otvorenom moru sjeverni i sjeverozapadni vjetar deset do dvadeset ~vorova <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: stanje
+Hypothesis: stanje
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: umjerena do jaka ponegdje vrlo jaka bura oslabit ^e do kraja dana na slabu do umjerenu
+Hypothesis: umjerena do jaka ponegdje vrlo jaka bura oslabit ^e do kraja dana na slabu do umjerenu
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: na otvorenom sjevernog jadrana jugozapadni vjetar deset do devetnaest ~vorova
+Hypothesis: na otvorenom sjevernog jadrana jugozapadni vjetar deset do devetnaest ~vorova
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: samo ponegdje mogu^a sasvim slaba ki{a
+Hypothesis: samo ponegdje je mogu^a sasvim slaba ki{a
+WER: 0.17
+Similarity: 28.57%
+SER: 1
+------------------------------
+Reference: more na otvorenom dijelu srednjeg i sjevernog jadrana ponegdje pet
+Hypothesis: more na otvorenom dijelu srednjeg i sjevernog jadrana ponegdje pet
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: u subotu i nedjelju ujutro magla zatim djelomice sun~ano <uzdah>
+Hypothesis: u subotu i nedjelju ujutro magla zatim djelomice sun~ano <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: gdje se sutra o~ekuje formiranje ciklone
+Hypothesis: gdje se sutra o~ekuje formiranje ciklone
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za poslijepodne <uzdah>
+Hypothesis: vremenska prognoza za poslijepodne <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: na sjevernom i otvorenome moru srednjeg jadrana mjestimice smanjena na ~etiri kilometra zbog sumaglice <uzdah> vedro i vru^e
+Hypothesis: na sjevernom i otvorenome moru srednjeg jadrana mjestimice smanjena na ~etiri kilometra zbog sumaglice vedro i vru^e
+WER: 0.06
+Similarity: 77.78%
+SER: 1
+------------------------------
+Reference: samo ponegdje slaba ki{a uglavnom na rije~kome podru~ju i u gorskome kotaru <uzdah> na srednjem i ju`nom jadranu djelomice sun~ano <uzdah>
+Hypothesis: samo je ponegdje slaba ki{a uglavnom na rije~kome podru~ju i u gorskome kotaru <uzdah> na srednjem i ju`nom jadranu djelomice sun~ano <uzdah>
+WER: 0.05
+Similarity: 4.55%
+SER: 1
+------------------------------
+Reference: jutra i dalje razmjerno hladno uz najni`u temperaturu uglavnom izme}u minus sedam i minus jedan na jadranu od jedan do pet
+Hypothesis: jutro i dalje razmjerno hladno uz najni`u temperaturu uglavnom izme}u minus sedam i minus jedan na jadranu od jedan do pet
+WER: 0.05
+Similarity: 95.24%
+SER: 1
+------------------------------
+Reference: biometeorolo{ka prognoza za sutra <uzdah>
+Hypothesis: biometeorolo{ka prognoza za sutra <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: u odnosu se zabjelili i kornati mjestimice padao i prije nekoliko dana
+Hypothesis: ponovno su se zabjelili i kornati gdje je snijeg padao i prije nekoliko dana
+WER: 0.42
+Similarity: 28.57%
+SER: 1
+------------------------------
+Reference: jutarnja temperatura od minus deset do minus pet na jadranu od minus tri do dva
+Hypothesis: jutarnja temperatura od minus deset do minus pet na jadranu od minus tri do dva
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: jo{ ujutro na ju`nom jadranu uglavnom umjeren ju`ni i jugozapadni vjetar
+Hypothesis: jo{ ujutro na ju`nom jadranu uglavnom umjereni ju`ni i jugozapadni vjetar
+WER: 0.09
+Similarity: 90.91%
+SER: 1
+------------------------------
+Reference: vjetar slab na jadranu ujutro ponegdje umjerena bura poslijepodne na otvorenome moru sjeverozapadnjak
+Hypothesis: vjetar slab na jadranu ujutro ponegdje umjerena bura a poslijepodne na otvorenome moru sjeverozapadnjak
+WER: 0.08
+Similarity: 57.14%
+SER: 1
+------------------------------
+Reference: najni`a temperatura od devet do ~etrnaest stupnjeva na jadranu od petnaest do dvadeset <uzdah>
+Hypothesis: <uzdah> najni`a temperatura od devet do ~etrnaest stupnjeva na jadranu od petnaest do dvadeset
+WER: 0.14
+Similarity: 0.00%
+SER: 1
+------------------------------
+Reference: na sjevernom jadranu i u zapadnim krajevima ve^a naoblaka s pljuskovima i grmljavinom
+Hypothesis: na sjevernom jadranu i u zapadnim krajevima ve^a naoblaka s pljuskovima i grmljavinom
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: izvje{^e pomorskog meteorolo{kog centra split dr`avnog hidrometeorolo{kog zavoda
+Hypothesis: izvje{^e pomorskog meteorolo{kog centra split dr`avnog hidrometeorolo{kog zavoda
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za jadran za prvih dvanaest sati <uzdah>
+Hypothesis: vremenska prognoza za jadran za prvih dvanaest sati <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: temperatura zraka bez ve^e promjene
+Hypothesis: temperatura zraka bez ve^e promjene
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: umjereno na otvorenom moru ju`nog jadrana poja~ano jugo
+Hypothesis: umjereno na otvorenom moru ju`nog jadrana poja~ano jugo
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: a najvi{a dnevna od dvadeset {est do trideset jedan stupanj
+Hypothesis: a najvi{a dnevna od dvadeset {est do trideset jedan stupanj
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: biometeorolo{ka prognoza za sutra prilike ^e biti razmjerno povoljne pa ^e pote{ko^e uzrokovane vremenom biti slabije izra`ene u odnosu na prethodne dane
+Hypothesis: biometeorolo{ka prognoza za sutra prilike ^e biti razmjerno povoljne pa ^e pote{ko^e uzrokovane vremenom biti slabije izra`ene u odnosu na prethodne dane
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vjetar slab u gorju povremeno umjeren jugozapadni i zapadni
+Hypothesis: vjetar slab u gorju povremeno umjeren jugozapadni i zapadni <uzdah>
+WER: 0.11
+Similarity: 90.00%
+SER: 1
+------------------------------
+Reference: na sjevernom jadranu u no^i i ujutro ponegdje do jaka bura
+Hypothesis: na sjevernom jadranu u no^i i ujutro ponegdje do jaka bura
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: na jadranu umjereno do jako jugo a potkraj dana slaba do umjerena bura i isto~njak
+Hypothesis: na jadranu umjereno do jako jugo a potkraj dana slaba do umjerena bura i isto~njak
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za poslijepodne djelomice sun~ano s promjenjivom naoblakom <uzdah>
+Hypothesis: vremenska prognoza za poslijepodne djelomice sun~ano s promjenjivom naoblakom <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: najvi{a je od deset do {esnaest sati a no^u je umjerena <uzdah>
+Hypothesis: najvi{a je od deset do {esnaest sati a no^u je umjerena <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: izvje{taj pomorskoga meteorolo{koga centra split dr`avnog hidrometeorolo{kog zavoda upozorenje
+Hypothesis: izvje{taj pomorskoga meteorolo{koga centra split dr`avnog hidrometeorolo{kog zavoda upozorenje
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: <uzdah> vremenska prognoza za jadran za prvih dvanaest sati
+Hypothesis: <uzdah> vremenska prognoza za jadran za prvih dvanaest sati
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za poslijepodne obla~no na jadranu ponegdje ki{a a u zapadnim podru~jima unutra{njosti malo snijega osobito potkraj dana i u no^i
+Hypothesis: vremenska prognoza za poslijepodne obla~no na jadranu ponegdje ki{a a u zapadnim podru~jima unutra{njosti malo snijega osobito potkraj dana i u no^i
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: mjestimice s kratkotrajnom ki{om kra^a sun~ana razdoblja uglavnom u sredi{njim i isto~nim predjelima te na sjevernom jadranu <uzdah>
+Hypothesis: mjestimice s <greska> kratkotrajnom ki{om kra^a sun~ana razdoblja uglavnom u sredi{njim i isto~nim predjelima te na sjevernom jadranu <uzdah>
+WER: 0.06
+Similarity: 10.53%
+SER: 1
+------------------------------
+Reference: najvi{a dnevna od ni{tice do ~etiri <uzdah> uz dugotrajnu maglu malo ni`a a na jadranu od devet do ~etrnaest stupnjeva
+Hypothesis: najvi{a dnevna od ni{tice do ~etiri <uzdah> uz dugotrajnu maglu malo ni`a na jadranu devet do ~etrnaest stupnjeva
+WER: 0.10
+Similarity: 60.00%
+SER: 1
+------------------------------
+Reference: najni`a jutarnja temperatura od minus osam do ~etiri stupnja a najvi{a dnevna uglavnom izme}u minus jedan i tri na jadranu od osam do dvanaest stupnjeva
+Hypothesis: najni`a jutarnja temperatura od minus osam do ~etiri stupnja a najvi{a dnevna uglavnom izme}u minus jedan i tri na jadranu od osam do dvanaest stupnjeva <uzdah>
+WER: 0.04
+Similarity: 96.15%
+SER: 1
+------------------------------
+Reference: u nedjelju sun~ano i ponovno toplije
+Hypothesis: u nedjelju sun~ano i ponovno toplije
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: vremenska prognoza za sutra sun~ano vru^e i sparno <uzdah> vjetar slab na jadranu sredinom dana i poslijepodne mjestimice umjeren jugozapadnjak i zapadnjak
+Hypothesis: vremenska prognoza za sutra sun~ano vru^e i sparno vjetar slab na jadranu sredinom dana i poslijepodne mjestimice umjeren jugozapadnjak i zapadnjak
+WER: 0.05
+Similarity: 36.36%
+SER: 1
+------------------------------
+Reference: sutra ja~anje anticiklonalnog grebena sa sjeverozapadne europe
+Hypothesis: sutra ja~anje anticiklonalnog grebena sa sjeverozapadne europe
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: izgledi vremena do kraja tjedna promjenjljivo obla~no na jadranu povremeno slaba ki{a a u unutra{njosti oborine na granici ki{e i snijega
+Hypothesis: izgledi vremena do kraja tjedna promjenjljivo obla~no na jadranu povremeno slaba ki{a a u unutra{njosti oborine na granici ki{e i snijega
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: izvje{taj pomorskoga meteorolo{kog centra split dr`avnog hidrometeorolo{kog zavoda od osamnaest sati upozorenje <uzdah>
+Hypothesis: izvje{taj pomorskoga meteorolo{kog centra split dr`avnog hidrometeorolo{kog zavoda od osamnaest sati upozorenje <uzdah>
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: malo do umjereno obla~no na sjevernom jadranu ja~a naoblaka <uzdah> a u no^i mjestimice ki{a malo toplije
+Hypothesis: malo do umjereno obla~no na sjevernom jadranu ja~a naoblaka a u no^i mjestimice ki{a malo toplije
+WER: 0.06
+Similarity: 52.94%
+SER: 1
+------------------------------
+Reference: biometeorolo{ka prognoza za sutra zbog
+Hypothesis: biometeorolo{ka prognoza za sutra zbog
+WER: 0.00
+Similarity: 100.00%
+SER: 0
+------------------------------
+Reference: u ve^em dijelu zemlje biometeorolo{ki ^e uvjeti biti ne{to povoljniji zato ^e se mnogi osje^ati bolje a kroni~ni bolesnici imat ^e slabije izra`ene tegobe
+Hypothesis: a u ve^em dijelu zemlje biometeorolo{ki ^e uvjeti biti ne{to povoljniji zato ^e se mnogi osje^ati bolje a kroni~ni bolesnici imat ^e slabije izra`ene tegobe
+WER: 0.04
+Similarity: 0.00%
+SER: 1
+------------------------------
+Average WER: 0.06
+Average Similarity: 76.31%
+Average SER: 0.52

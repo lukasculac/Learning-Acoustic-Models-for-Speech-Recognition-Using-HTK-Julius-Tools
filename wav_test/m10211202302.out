@@ -1,0 +1,5 @@
+sentence1: <s> na sjevernom i srednjem jadranu te u gorskom kotaru ponegdje mo`e pasti ki{a u no^i i ujutro u kopnenim predjelima mjestimice magla ili sumaglica <uzdah> </s>
+wseq1: <s> na sjevernom i srednjem jadranu te u gorskom kotaru ponegdje mo`e pasti ki{a u no^i i ujutro u kopnenim predjelima mjestimice magla ili sumaglica <uzdah> </s>
+phseq1: sil | n a | s j e v e r n o m | i | s r e d N e m | j a d r a n u | t e | u | g o r s k o m | k o t a r u | p o n e g d j e | m o Z e | p a s t i | k i S a | u | n o Cc i | i | u j u t r o | u | k o p n e n i m | p r e d j e l i m a | m j e s t i m i c e | m a g l a | i l i | s u m a g l i c a | uzdah | sil
+cmscore1: 0.865 0.998 0.998 0.366 0.997 0.975 0.829 0.843 0.972 0.825 1.000 0.997 0.793 0.399 0.968 0.995 0.716 0.994 0.736 0.999 0.952 0.997 0.996 0.584 0.741 0.842 1.000
+score1: -19204.431641 (AM: -18800.048828  LM: -404.383240)

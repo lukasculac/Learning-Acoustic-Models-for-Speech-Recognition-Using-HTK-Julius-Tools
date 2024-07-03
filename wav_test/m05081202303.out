@@ -1,0 +1,5 @@
+sentence1: <s> hladno s temperaturom zraka od minus {est do minus jedan na jadranu ve^inom od pet do deset stupnjeva </s>
+wseq1: <s> hladno s temperaturom zraka od minus {est do minus jedan na jadranu ve^inom od pet do deset stupnjeva </s>
+phseq1: sil | h l a d n o | s | t e m p e r a t u r o m | z r a k a | o d | m i n u s | S e s t | d o | m i n u s | j e d a n | n a | j a d r a n u | v e Cc i n o m | o d | p e t | d o | d e s e t | s t u p N e v a | sil
+cmscore1: 0.954 0.998 0.980 0.944 0.986 0.959 0.168 1.000 0.716 0.998 0.485 0.982 0.966 0.990 0.955 0.994 0.985 0.997 0.842 1.000
+score1: -14131.735352 (AM: -13818.740234  LM: -312.994812)

@@ -1,0 +1,5 @@
+sentence1: <s> vidljivost pet do petnaest kilometara </s>
+wseq1: <s> vidljivost pet do petnaest kilometara </s>
+phseq1: sil | v i d L i v o s t | p e t | d o | p e t n a e s t | k i l o m e t a r a | sil
+cmscore1: 0.854 0.921 0.998 0.938 0.997 0.851 1.000
+score1: -5910.678223 (AM: -5781.727539  LM: -128.950806)

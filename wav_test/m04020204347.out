@@ -1,0 +1,5 @@
+sentence1: <s> tijekom no^i i jutra na sjevernom i dijelu srednjeg jadrana vidljivost ponegdje manja od jednog kilometra zbog kratkotrajna magla </s>
+wseq1: <s> tijekom no^i i jutra na sjevernom i dijelu srednjeg jadrana vidljivost ponegdje manja od jednog kilometra zbog kratkotrajna magla </s>
+phseq1: sil | t i j e k o m | n o Cc i | i | j u t r a | n a | s j e v e r n o m | i | d i j e l u | s r e d N e g | j a d r a n a | v i d L i v o s t | p o n e g d j e | m a N a | o d | j e d n o g | k i l o m e t r a | z b o g | k r a t k o t r a j n a | m a g l a | sil
+cmscore1: 0.509 0.995 0.984 0.983 0.945 0.920 0.061 0.075 0.948 0.752 0.630 0.729 0.982 1.000 0.771 0.997 0.665 0.160 0.982 0.146 1.000
+score1: -17547.441406 (AM: -17153.152344  LM: -394.288818)

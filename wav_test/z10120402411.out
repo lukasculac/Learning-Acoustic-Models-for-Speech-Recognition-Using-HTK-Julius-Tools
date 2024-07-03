@@ -1,0 +1,5 @@
+sentence1: <s> temperatura zraka bez ve^e promjene </s>
+wseq1: <s> temperatura zraka bez ve^e promjene </s>
+phseq1: sil | t e m p e r a t u r a | z r a k a | b e z | v e Cc e | p r o m j e n e | sil
+cmscore1: 0.668 0.837 0.975 1.000 0.997 0.416 1.000
+score1: -5986.779297 (AM: -5865.327148  LM: -121.451996)

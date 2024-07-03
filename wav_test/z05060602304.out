@@ -1,0 +1,5 @@
+sentence1: <s> vjetar povremeno umjerena najvi{a dnevna uglavnom od osamnaest do dvadeset tri stupnja <uzdah> </s>
+wseq1: <s> vjetar povremeno umjerena najvi{a dnevna uglavnom od osamnaest do dvadeset tri stupnja <uzdah> </s>
+phseq1: sil | v j e t a r | p o v r e m e n o | u m j e r e n a | n a j v i S a | d n e v n a | u g l a v n o m | o d | o s a m n a e s t | d o | d v a d e s e t | t r i | s t u p N a | uzdah | sil
+cmscore1: 1.000 0.972 0.973 0.116 0.999 0.981 0.906 0.972 0.985 0.341 0.984 0.990 0.914 0.934 1.000
+score1: -12956.013672 (AM: -12688.380859  LM: -267.632385)

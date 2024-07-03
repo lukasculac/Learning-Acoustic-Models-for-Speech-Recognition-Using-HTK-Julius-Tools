@@ -1,0 +1,5 @@
+sentence1: <s> vidljivost dvadeset kilometara prete`ito vedro temperatura ^e jo{ malo porasti </s>
+wseq1: <s> vidljivost dvadeset kilometara prete`ito vedro temperatura ^e jo{ malo porasti </s>
+phseq1: sil | v i d L i v o s t | d v a d e s e t | k i l o m e t a r a | p r e t e Z i t o | v e d r o | t e m p e r a t u r a | Cc e | j o S | m a l o | p o r a s t i | sil
+cmscore1: 0.652 0.991 0.995 0.795 0.995 0.092 0.997 0.649 0.463 0.973 0.896 1.000
+score1: -13722.660156 (AM: -13476.572266  LM: -246.087601)

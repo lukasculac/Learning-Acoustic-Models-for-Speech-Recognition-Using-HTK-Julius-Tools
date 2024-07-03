@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za sutra prete`ito sun~ano i malo toplije <uzdah> </s>
+wseq1: <s> vremenska prognoza za sutra prete`ito sun~ano i malo toplije <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s u t r a | p r e t e Z i t o | s u n C a n o | i | m a l o | t o p l i j e | uzdah | sil
+cmscore1: 0.823 0.996 1.000 0.976 0.921 0.997 0.974 0.940 0.989 0.769 0.989 1.000
+score1: -11017.433594 (AM: -10860.002930  LM: -157.430405)

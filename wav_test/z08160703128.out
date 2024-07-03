@@ -1,0 +1,5 @@
+sentence1: <s> temperatura od dvadeset devet stupnjeva do trideset ~etiri </s>
+wseq1: <s> temperatura od dvadeset devet stupnjeva do trideset ~etiri </s>
+phseq1: sil | t e m p e r a t u r a | o d | d v a d e s e t | d e v e t | s t u p N e v a | d o | t r i d e s e t | C e t i r i | sil
+cmscore1: 0.949 0.998 0.986 0.983 0.997 0.564 0.996 0.982 0.709 1.000
+score1: -9009.527344 (AM: -8778.677734  LM: -230.850006)

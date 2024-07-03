@@ -1,0 +1,5 @@
+sentence1: <s> najni`a jutarnja temperatura uglavnom od minus trinaest do minus osam stupnjeva <uzdah> </s>
+wseq1: <s> najni`a jutarnja temperatura uglavnom od minus trinaest do minus osam stupnjeva <uzdah> </s>
+phseq1: sil | n a j n i Z a | j u t a r N a | t e m p e r a t u r a | u g l a v n o m | o d | m i n u s | t r i n a e s t | d o | m i n u s | o s a m | s t u p N e v a | uzdah | sil
+cmscore1: 0.936 0.992 0.955 0.981 0.987 0.974 0.857 0.992 0.826 0.987 0.998 0.926 0.546 1.000
+score1: -11317.375000 (AM: -11094.230469  LM: -223.144806)

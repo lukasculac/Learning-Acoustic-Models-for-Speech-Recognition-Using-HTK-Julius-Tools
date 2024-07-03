@@ -1,0 +1,5 @@
+sentence1: <s> sun~ano tiho ili burin danju uz obalu slab maestral na otvorenom ju`nog i dijela srednjeg jadrana umjerena i poja~an sjeverozapadni vjetar </s>
+wseq1: <s> sun~ano tiho ili burin danju uz obalu slab maestral na otvorenom ju`nog i dijela srednjeg jadrana umjerena i poja~an sjeverozapadni vjetar </s>
+phseq1: sil | s u n C a n o | t i h o | i l i | b u r i n | d a N u | u z | o b a l u | s l a b | m a e s t r a l | n a | o t v o r e n o m | j u Z n o g | i | d i j e l a | s r e d N e g | j a d r a n a | u m j e r e n a | i | p o j a C a n | s j e v e r o z a p a d n i | v j e t a r | sil
+cmscore1: 1.000 0.976 1.000 0.966 0.974 0.976 1.000 0.976 0.993 0.824 0.925 0.953 0.948 0.995 0.796 0.995 0.893 0.137 0.354 0.983 0.997 0.142 1.000
+score1: -20164.542969 (AM: -19758.197266  LM: -406.346405)

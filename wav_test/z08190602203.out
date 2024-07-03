@@ -1,0 +1,5 @@
+sentence1: <s> more nula do dva samo ponegdje dva do tri </s>
+wseq1: <s> more nula do dva samo ponegdje dva do tri </s>
+phseq1: sil | m o r e | n u l a | d o | d v a | s a m o | p o n e g d j e | d v a | d o | t r i | sil
+cmscore1: 0.933 0.998 0.994 0.970 0.615 0.999 0.995 0.999 0.979 0.819 1.000
+score1: -7684.048828 (AM: -7485.152344  LM: -198.896408)

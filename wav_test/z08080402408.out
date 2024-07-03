@@ -1,0 +1,5 @@
+sentence1: <s> na jadranu od sedam do dvanaest najvi{a dnevna od tri do osam </s>
+wseq1: <s> na jadranu od sedam do dvanaest najvi{a dnevna od tri do osam </s>
+phseq1: sil | n a | j a d r a n u | o d | s e d a m | d o | d v a n a e s t | n a j v i S a | d n e v n a | o d | t r i | d o | o s a m | sil
+cmscore1: 0.681 0.999 0.995 0.987 0.999 0.959 0.692 0.999 0.988 0.989 0.998 0.454 0.817 1.000
+score1: -9458.948242 (AM: -9221.637695  LM: -237.310806)

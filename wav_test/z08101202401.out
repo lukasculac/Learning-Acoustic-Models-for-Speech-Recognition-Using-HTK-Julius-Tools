@@ -1,0 +1,5 @@
+sentence1: <s> stanje anticiklona s europskog kopna pru`a greben prema jadranu </s>
+wseq1: <s> stanje anticiklona s europskog kopna pru`a greben prema jadranu </s>
+phseq1: sil | s t a N e | a n t i c i k l o n a | s | e u r o p s k o g | k o p n a | p r u Z a | g r e b e n | p r e m a | j a d r a n u | sil
+cmscore1: 0.750 0.710 0.563 0.930 0.996 0.042 1.000 0.976 0.986 0.220 1.000
+score1: -11686.303711 (AM: -11420.925781  LM: -265.377625)

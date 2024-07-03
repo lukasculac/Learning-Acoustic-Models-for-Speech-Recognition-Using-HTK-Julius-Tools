@@ -1,0 +1,5 @@
+sentence1: <s> vremenski utjecaj na ljude bit ^e razmjerno nepovoljan neki bi meteoropati mogli imati glavobolje a umjereno pote{ko^e mogu^e pojaviti <uzdah> </s>
+wseq1: <s> vremenski utjecaj na ljude bit ^e razmjerno nepovoljan neki bi meteoropati mogli imati glavobolje a umjereno pote{ko^e mogu^e pojaviti <uzdah> </s>
+phseq1: sil | v r e m e n s k i | u t j e c a j | n a | L u d e | b i t | Cc e | r a z m j e r n o | n e p o v o L a n | n e k i | b i | m e t e o r o p a t i | m o g l i | i m a t i | g l a v o b o L e | a | u m j e r e n o | p o t e S k o Cc e | m o g u Cc e | p o j a v i t i | uzdah | sil
+cmscore1: 0.917 0.999 0.067 0.915 0.323 0.709 0.997 0.991 0.096 0.992 0.220 0.810 0.934 0.966 0.727 0.170 0.265 0.990 0.073 0.944 0.820 1.000
+score1: -19503.240234 (AM: -18801.718750  LM: -701.521240)

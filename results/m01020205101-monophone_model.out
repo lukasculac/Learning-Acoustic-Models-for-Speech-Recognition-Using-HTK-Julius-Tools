@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za poslijepodne na jadranu prete`ito a u unutra{njosti djelomice sun~ano </s>
+wseq1: <s> vremenska prognoza za poslijepodne na jadranu prete`ito a u unutra{njosti djelomice sun~ano </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | p o s l i j e p o d n e | n a | j a d r a n u | p r e t e Z i t o | a | u | u n u t r a S N o s t i | d j e l o m i c e | s u n C a n o | sil
+cmscore1: 0.908 0.998 0.991 0.790 0.498 0.998 0.964 0.983 0.368 0.431 1.000 0.999 0.316 1.000
+score1: -14706.159180 (AM: -14488.592773  LM: -217.565979)

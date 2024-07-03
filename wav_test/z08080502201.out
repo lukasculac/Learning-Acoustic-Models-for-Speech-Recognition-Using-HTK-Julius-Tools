@@ -1,0 +1,5 @@
+sentence1: <s> izvje{taj pomorskog meteorolo{kog centra split upozorenje <uzdah> </s>
+wseq1: <s> izvje{taj pomorskog meteorolo{kog centra split upozorenje <uzdah> </s>
+phseq1: sil | i z v j e S t a j | p o m o r s k o g | m e t e o r o l o S k o g | c e n t r a | s p l i t | u p o z o r e N e | uzdah | sil
+cmscore1: 0.984 0.986 0.998 0.981 0.991 0.489 0.937 0.752 1.000
+score1: -11283.656250 (AM: -11163.925781  LM: -119.730003)

@@ -1,0 +1,5 @@
+sentence1: <s> stanje </s>
+wseq1: <s> stanje </s>
+phseq1: sil | s t a N e | sil
+cmscore1: 0.773 0.972 1.000
+score1: -1656.591797 (AM: -1596.325439  LM: -60.266403)

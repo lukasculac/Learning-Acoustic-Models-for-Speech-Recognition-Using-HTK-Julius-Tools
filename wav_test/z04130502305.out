@@ -1,0 +1,5 @@
+sentence1: <s> more dva do tri no^u uz obalu jedan do dva </s>
+wseq1: <s> more dva do tri no^u uz obalu jedan do dva </s>
+phseq1: sil | m o r e | d v a | d o | t r i | n o Cc u | u z | o b a l u | j e d a n | d o | d v a | sil
+cmscore1: 0.919 0.996 0.999 0.974 0.885 0.989 0.998 0.498 0.998 0.968 0.594 1.000
+score1: -7770.096191 (AM: -7581.916016  LM: -188.180389)

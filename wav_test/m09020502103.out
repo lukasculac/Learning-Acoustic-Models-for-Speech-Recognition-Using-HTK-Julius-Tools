@@ -1,0 +1,5 @@
+sentence1: <s> dunav ilok tri nula dva tristo dva <uzdah> drava botovo ~etiri dva ~etrdeset dva </s>
+wseq1: <s> dunav ilok tri nula dva tristo dva <uzdah> drava botovo ~etiri dva ~etrdeset dva </s>
+phseq1: sil | d u n a v | i l o k | t r i | n u l a | d v a | t r i s t o | d v a | uzdah | d r a v a | b o t o v o | C e t i r i | d v a | C e t r d e s e t | d v a | sil
+cmscore1: 0.312 0.999 0.743 0.990 0.993 0.879 0.943 0.971 0.356 0.990 0.993 0.992 0.994 0.998 0.552 1.000
+score1: -15546.916016 (AM: -15266.075195  LM: -280.840790)

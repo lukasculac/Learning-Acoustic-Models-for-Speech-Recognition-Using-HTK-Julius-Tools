@@ -1,0 +1,5 @@
+sentence1: <s> umjereno do jako jugo na sjevernom jadranu u skretanju na jugozapadni vjetar <uzdah> </s>
+wseq1: <s> umjereno do jako jugo na sjevernom jadranu u skretanju na jugozapadni vjetar <uzdah> </s>
+phseq1: sil | u m j e r e n o | d o | j a k o | j u g o | n a | s j e v e r n o m | j a d r a n u | u | s k r e t a N u | n a | j u g o z a p a d n i | v j e t a r | uzdah | sil
+cmscore1: 1.000 1.000 0.954 0.993 0.295 1.000 0.997 0.931 0.854 1.000 0.584 0.997 0.772 0.993 1.000
+score1: -11980.338867 (AM: -11762.000977  LM: -218.337585)

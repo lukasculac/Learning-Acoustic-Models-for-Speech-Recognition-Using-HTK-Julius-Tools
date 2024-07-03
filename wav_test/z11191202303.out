@@ -1,0 +1,5 @@
+sentence1: <s> najni`a jutarnja temperatura od minus osam do ~etiri stupnja a najvi{a dnevna uglavnom izme}u minus jedan i tri na jadranu od osam do dvanaest stupnjeva </s>
+wseq1: <s> najni`a jutarnja temperatura od minus osam do ~etiri stupnja a najvi{a dnevna uglavnom izme}u minus jedan i tri na jadranu od osam do dvanaest stupnjeva </s>
+phseq1: sil | n a j n i Z a | j u t a r N a | t e m p e r a t u r a | o d | m i n u s | o s a m | d o | C e t i r i | s t u p N a | a | n a j v i S a | d n e v n a | u g l a v n o m | i z m e dz u | m i n u s | j e d a n | i | t r i | n a | j a d r a n u | o d | o s a m | d o | d v a n a e s t | s t u p N e v a | sil
+cmscore1: 0.986 0.998 0.995 0.975 0.958 0.986 0.967 0.958 0.995 0.827 0.961 0.992 0.986 0.991 0.915 0.997 0.973 0.617 0.782 0.999 0.992 0.964 0.998 0.966 0.999 0.738 1.000
+score1: -23431.039063 (AM: -23017.810547  LM: -413.228394)

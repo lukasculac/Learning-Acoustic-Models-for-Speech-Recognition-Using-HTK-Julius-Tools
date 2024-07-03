@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za sutra ve^inom sun~ano osobito na jadranu <uzdah> </s>
+wseq1: <s> vremenska prognoza za sutra ve^inom sun~ano osobito na jadranu <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s u t r a | v e Cc i n o m | s u n C a n o | o s o b i t o | n a | j a d r a n u | uzdah | sil
+cmscore1: 0.922 0.993 0.998 0.998 0.806 0.999 0.988 0.904 0.969 0.785 0.785 1.000
+score1: -10908.727539 (AM: -10745.910156  LM: -162.817200)

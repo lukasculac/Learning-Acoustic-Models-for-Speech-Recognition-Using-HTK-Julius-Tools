@@ -1,0 +1,5 @@
+sentence1: <s> u no^i bura {est do ~etrnaest samo mjestimice uz obalu do osamnaest ~vorova <uzdah> more dva do tri <uzdah> </s>
+wseq1: <s> u no^i bura {est do ~etrnaest samo mjestimice uz obalu do osamnaest ~vorova <uzdah> more dva do tri <uzdah> </s>
+phseq1: sil | u | n o Cc i | b u r a | S e s t | d o | C e t r n a e s t | s a m o | m j e s t i m i c e | u z | o b a l u | d o | o s a m n a e s t | C v o r o v a | uzdah | m o r e | d v a | d o | t r i | uzdah | sil
+cmscore1: 0.816 0.993 0.972 0.994 0.999 0.225 0.954 0.992 0.819 1.000 0.968 0.971 0.978 0.984 0.875 0.993 0.999 0.954 0.896 0.905 1.000
+score1: -16782.878906 (AM: -16452.609375  LM: -330.269989)

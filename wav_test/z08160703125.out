@@ -1,0 +1,5 @@
+sentence1: <s> prete`ito sun~ano i vru^e </s>
+wseq1: <s> prete`ito sun~ano i vru^e </s>
+phseq1: sil | p r e t e Z i t o | s u n C a n o | i | v r u Cc e | sil
+cmscore1: 0.725 1.000 0.992 0.969 0.785 1.000
+score1: -5259.437988 (AM: -5153.310059  LM: -106.127998)

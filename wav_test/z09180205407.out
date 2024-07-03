@@ -1,0 +1,5 @@
+sentence1: <s> gdje se sutra o~ekuje formiranje ciklone </s>
+wseq1: <s> gdje se sutra o~ekuje formiranje ciklone </s>
+phseq1: sil | g d j e | s e | s u t r a | o C e k u j e | f o r m i r a N e | c i k l o n e | sil
+cmscore1: 0.929 0.942 0.020 0.994 0.711 0.929 0.501 1.000
+score1: -6790.309570 (AM: -6474.559570  LM: -315.750000)

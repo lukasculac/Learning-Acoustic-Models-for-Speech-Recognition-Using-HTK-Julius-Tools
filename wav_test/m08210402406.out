@@ -1,0 +1,5 @@
+sentence1: <s> najvi{a dnevna temperatura u ve^ini krajeva od petnaest do dvadeset na jadranu i u slavoniji mjestimice i do dvadeset tri stupnja </s>
+wseq1: <s> najvi{a dnevna temperatura u ve^ini krajeva od petnaest do dvadeset na jadranu i u slavoniji mjestimice i do dvadeset tri stupnja </s>
+phseq1: sil | n a j v i S a | d n e v n a | t e m p e r a t u r a | u | v e Cc i n i | k r a j e v a | o d | p e t n a e s t | d o | d v a d e s e t | n a | j a d r a n u | i | u | s l a v o n i j i | m j e s t i m i c e | i | d o | d v a d e s e t | t r i | s t u p N a | sil
+cmscore1: 0.632 0.997 0.920 0.946 0.931 0.999 0.875 0.972 0.995 0.951 0.263 0.999 0.985 0.893 0.932 0.991 0.997 0.287 0.963 0.998 0.983 0.372 1.000
+score1: -20521.398438 (AM: -20164.343750  LM: -357.055206)

@@ -1,0 +1,5 @@
+sentence1: <s> vukovar dva ~etiri nula dvjesto ~etrdeset ilok dva sedam {est dvjesto sedamdeset {est </s>
+wseq1: <s> vukovar dva ~etiri nula dvjesto ~etrdeset ilok dva sedam {est dvjesto sedamdeset {est </s>
+phseq1: sil | v u k o v a r | d v a | C e t i r i | n u l a | d v j e s t o | C e t r d e s e t | i l o k | d v a | s e d a m | S e s t | d v j e s t o | s e d a m d e s e t | S e s t | sil
+cmscore1: 0.889 0.988 0.971 0.994 0.988 0.992 0.062 0.995 0.982 0.998 0.979 0.999 0.967 0.468 1.000
+score1: -16356.507813 (AM: -16009.551758  LM: -346.955994)

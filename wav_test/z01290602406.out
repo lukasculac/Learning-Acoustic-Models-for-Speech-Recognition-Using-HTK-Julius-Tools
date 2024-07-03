@@ -1,0 +1,5 @@
+sentence1: <s> jugo ve^inom umjereno u srijedu sun~ano i ponovno toplije </s>
+wseq1: <s> jugo ve^inom umjereno u srijedu sun~ano i ponovno toplije </s>
+phseq1: sil | j u g o | v e Cc i n o m | u m j e r e n o | u | s r i j e d u | s u n C a n o | i | p o n o v n o | t o p l i j e | sil
+cmscore1: 0.801 0.767 0.998 0.128 0.972 0.956 0.991 0.991 0.976 0.668 1.000
+score1: -11372.073242 (AM: -11131.211914  LM: -240.861603)

@@ -1,0 +1,5 @@
+sentence1: <s> prete`ito sun~ano povremeno s umjerenom naoblakom vi{e oblaka prijepodne u najisto~nijim predjelima te sredinom dana na sjevernom jadranu i u gorskom kotaru </s>
+wseq1: <s> prete`ito sun~ano povremeno s umjerenom naoblakom vi{e oblaka prijepodne u najisto~nijim predjelima te sredinom dana na sjevernom jadranu i u gorskom kotaru </s>
+phseq1: sil | p r e t e Z i t o | s u n C a n o | p o v r e m e n o | s | u m j e r e n o m | n a o b l a k o m | v i S e | o b l a k a | p r i j e p o d n e | u | n a j i s t o C n i j i m | p r e d j e l i m a | t e | s r e d i n o m | d a n a | n a | s j e v e r n o m | j a d r a n u | i | u | g o r s k o m | k o t a r u | sil
+cmscore1: 1.000 0.996 0.972 0.999 0.928 0.993 0.618 0.995 0.073 0.963 0.525 0.966 0.898 0.334 0.986 0.611 0.950 0.991 0.981 0.794 0.120 0.971 0.193 1.000
+score1: -22420.542969 (AM: -21961.441406  LM: -459.101959)

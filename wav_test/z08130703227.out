@@ -1,0 +1,5 @@
+sentence1: <s> na sjevernom jadranu promjenljivo ili prete`ito obla~no drugdje vedro ali do kraja dana ^e se djelomice naobla~iti </s>
+wseq1: <s> na sjevernom jadranu promjenljivo ili prete`ito obla~no drugdje vedro ali do kraja dana ^e se djelomice naobla~iti </s>
+phseq1: sil | n a | s j e v e r n o m | j a d r a n u | p r o m j e n L i v o | i l i | p r e t e Z i t o | o b l a C n o | d r u g d j e | v e d r o | a l i | d o | k r a j a | d a n a | Cc e | s e | d j e l o m i c e | n a o b l a C i t i | sil
+cmscore1: 0.893 0.999 0.997 0.931 0.676 0.978 0.991 0.321 0.944 0.996 0.987 0.973 0.920 0.883 0.996 0.705 0.980 0.891 1.000
+score1: -16136.693359 (AM: -15653.756836  LM: -482.936432)

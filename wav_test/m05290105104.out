@@ -1,0 +1,5 @@
+sentence1: <s> vjetar sava zagreb minus dva pet devet minus dvjesto pedeset devet </s>
+wseq1: <s> vjetar sava zagreb minus dva pet devet minus dvjesto pedeset devet </s>
+phseq1: sil | v j e t a r | s a v a | z a g r e b | m i n u s | d v a | p e t | d e v e t | m i n u s | d v j e s t o | p e d e s e t | d e v e t | sil
+cmscore1: 0.893 0.402 0.999 0.758 0.985 0.944 0.386 0.976 0.999 0.685 0.228 0.786 1.000
+score1: -10170.089844 (AM: -9911.375977  LM: -258.713989)

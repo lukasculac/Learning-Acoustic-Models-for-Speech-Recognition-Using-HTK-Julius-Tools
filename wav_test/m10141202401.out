@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za sutra umjereno i znatno obla~no na jadranu s ki{om u kopnenim predjelima s ki{om i snijegom </s>
+wseq1: <s> vremenska prognoza za sutra umjereno i znatno obla~no na jadranu s ki{om u kopnenim predjelima s ki{om i snijegom </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s u t r a | u m j e r e n o | i | z n a t n o | o b l a C n o | n a | j a d r a n u | s | k i S o m | u | k o p n e n i m | p r e d j e l i m a | s | k i S o m | i | s n i j e g o m | sil
+cmscore1: 0.981 0.998 1.000 0.995 0.929 0.690 0.214 0.985 0.416 1.000 0.974 1.000 0.153 0.869 0.981 0.673 1.000 0.967 0.755 0.993 1.000
+score1: -15088.726563 (AM: -14709.306641  LM: -379.419586)

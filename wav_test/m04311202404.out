@@ -1,0 +1,5 @@
+sentence1: <s> poslijepodne vjetar slabiji <papir> osjetno hladnije nego danas osobito u unutra{njosti s temperaturom izme}u minus tri <uzdah> </s>
+wseq1: <s> poslijepodne vjetar slabiji <papir> osjetno hladnije nego danas osobito u unutra{njosti s temperaturom izme}u minus tri <uzdah> </s>
+phseq1: sil | p o s l i j e p o d n e | v j e t a r | s l a b i j i | papir | o s j e t n o | h l a d n i j e | n e g o | d a n a s | o s o b i t o | u | u n u t r a S N o s t i | s | t e m p e r a t u r o m | i z m e dz u | m i n u s | t r i | uzdah | sil
+cmscore1: 0.462 0.995 0.993 0.955 0.134 0.999 0.995 0.992 0.633 0.916 0.850 0.915 0.955 0.905 0.872 0.987 0.884 0.867 1.000
+score1: -17371.019531 (AM: -17026.833984  LM: -344.186432)

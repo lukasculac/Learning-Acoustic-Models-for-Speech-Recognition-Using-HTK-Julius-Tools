@@ -1,0 +1,5 @@
+sentence1: <s> gdje ponegdje mo`e pasti malo ki{e potkraj dana sa zapada nova naoblaka <uzdah> puhat ^e slab do umjeren u no^i i ujutro mjestimice i jak zapadnjak jugozapadnjak <uzdah> </s>
+wseq1: <s> gdje ponegdje mo`e pasti malo ki{e potkraj dana sa zapada nova naoblaka <uzdah> puhat ^e slab do umjeren u no^i i ujutro mjestimice i jak zapadnjak jugozapadnjak <uzdah> </s>
+phseq1: sil | g d j e | p o n e g d j e | m o Z e | p a s t i | m a l o | k i S e | p o t k r a j | d a n a | s a | z a p a d a | n o v a | n a o b l a k a | uzdah | p u h a t | Cc e | s l a b | d o | u m j e r e n | u | n o Cc i | i | u j u t r o | m j e s t i m i c e | i | j a k | z a p a d N a k | j u g o z a p a d N a k | uzdah | sil
+cmscore1: 0.927 0.897 0.990 0.997 0.628 0.958 0.237 1.000 0.836 0.866 0.949 0.947 0.779 0.924 0.999 0.554 0.998 0.510 0.265 0.849 0.956 0.856 0.974 0.994 0.777 0.958 0.585 0.957 0.951 1.000
+score1: -24569.457031 (AM: -24019.855469  LM: -549.601257)

@@ -1,0 +1,5 @@
+sentence1: <s> u subotu i nedjelju ujutro magla zatim djelomice sun~ano <uzdah> </s>
+wseq1: <s> u subotu i nedjelju ujutro magla zatim djelomice sun~ano <uzdah> </s>
+phseq1: sil | u | s u b o t u | i | n e d j e L u | u j u t r o | m a g l a | z a t i m | d j e l o m i c e | s u n C a n o | uzdah | sil
+cmscore1: 0.890 0.990 0.999 0.909 0.487 0.989 0.389 0.997 0.999 0.660 0.993 1.000
+score1: -9547.504883 (AM: -9271.871094  LM: -275.634003)

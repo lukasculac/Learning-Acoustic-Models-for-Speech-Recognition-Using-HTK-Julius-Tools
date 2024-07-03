@@ -1,0 +1,5 @@
+sentence1: <s> more jedan do dva u no^i na otvorenome mjestimice dva do tri </s>
+wseq1: <s> more jedan do dva u no^i na otvorenome mjestimice dva do tri </s>
+phseq1: sil | m o r e | j e d a n | d o | d v a | u | n o Cc i | n a | o t v o r e n o m e | m j e s t i m i c e | d v a | d o | t r i | sil
+cmscore1: 0.338 0.991 0.953 0.993 0.813 0.998 0.868 0.945 0.715 0.977 1.000 0.928 0.568 1.000
+score1: -9622.534180 (AM: -9368.666016  LM: -253.868423)

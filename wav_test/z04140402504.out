@@ -1,0 +1,5 @@
+sentence1: <s> prostrano ciklonalno polje nad tirenskim i ligurskim morem te jadranom polako se popunjava a po visini se jo{ zadr`ava nestabilni zrak </s>
+wseq1: <s> prostrano ciklonalno polje nad tirenskim i ligurskim morem te jadranom polako se popunjava a po visini se jo{ zadr`ava nestabilni zrak </s>
+phseq1: sil | p r o s t r a n o | c i k l o n a l n o | p o L e | n a d | t i r e n s k i m | i | l i g u r s k i m | m o r e m | t e | j a d r a n o m | p o l a k o | s e | p o p u N a v a | a | p o | v i s i n i | s e | j o S | z a d r Z a v a | n e s t a b i l n i | z r a k | sil
+cmscore1: 0.938 0.352 1.000 0.932 0.952 0.997 0.864 1.000 0.904 0.800 0.846 1.000 0.982 0.978 0.991 0.989 0.986 0.987 0.984 0.692 0.867 0.943 1.000
+score1: -21073.390625 (AM: -20675.257813  LM: -398.132416)

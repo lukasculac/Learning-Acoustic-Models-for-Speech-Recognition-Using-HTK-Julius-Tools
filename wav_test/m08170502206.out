@@ -1,0 +1,5 @@
+sentence1: <s> jugo slabo do umjereno ponegdje poja~ano mjestimice sumaglica <uzdah> more malo do umjereno valovito toplo </s>
+wseq1: <s> jugo slabo do umjereno ponegdje poja~ano mjestimice sumaglica <uzdah> more malo do umjereno valovito toplo </s>
+phseq1: sil | j u g o | s l a b o | d o | u m j e r e n o | p o n e g d j e | p o j a C a n o | m j e s t i m i c e | s u m a g l i c a | uzdah | m o r e | m a l o | d o | u m j e r e n o | v a l o v i t o | t o p l o | sil
+cmscore1: 0.893 0.964 0.996 0.902 0.977 0.993 0.911 0.995 0.928 0.834 0.988 0.998 0.990 0.987 0.721 0.837 1.000
+score1: -19856.160156 (AM: -19581.941406  LM: -274.218018)

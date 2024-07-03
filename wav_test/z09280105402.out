@@ -1,0 +1,5 @@
+sentence1: <s> u odnosu se zabjelili i kornati mjestimice padao i prije nekoliko dana </s>
+wseq1: <s> u odnosu se zabjelili i kornati mjestimice padao i prije nekoliko dana </s>
+phseq1: sil | u | o d n o s u | s e | z a b j e l i l i | i | k o r n a t i | m j e s t i m i c e | p a d a o | i | p r i j e | n e k o l i k o | d a n a | sil
+cmscore1: 0.824 0.845 0.012 0.839 0.804 0.787 0.797 0.432 0.531 0.976 0.313 0.974 0.769 1.000
+score1: -12938.564453 (AM: -12314.529297  LM: -624.034790)

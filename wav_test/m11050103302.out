@@ -1,0 +1,5 @@
+sentence1: <s> a drugdje jugozapadnog i zapadnog vjetra od trideset do ~etrdeset pet ~vorova <uzdah> po~eo no^i oslabiti <uzdah> </s>
+wseq1: <s> a drugdje jugozapadnog i zapadnog vjetra od trideset do ~etrdeset pet ~vorova <uzdah> po~eo no^i oslabiti <uzdah> </s>
+phseq1: sil | a | d r u g d j e | j u g o z a p a d n o g | i | z a p a d n o g | v j e t r a | o d | t r i d e s e t | d o | C e t r d e s e t | p e t | C v o r o v a | uzdah | p o C e o | n o Cc i | o s l a b i t i | uzdah | sil
+cmscore1: 0.979 0.990 0.986 0.997 0.775 0.997 0.934 0.958 1.000 0.823 0.995 0.862 0.919 0.490 0.363 0.664 0.647 0.864 1.000
+score1: -15979.686523 (AM: -15610.885742  LM: -368.800842)

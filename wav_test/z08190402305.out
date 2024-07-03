@@ -1,0 +1,5 @@
+sentence1: <s> jutarnja temperatura zraka uglavnom od sedam do dvanaest stupnjeva dnevna temperatura bez ve^e promjene </s>
+wseq1: <s> jutarnja temperatura zraka uglavnom od sedam do dvanaest stupnjeva dnevna temperatura bez ve^e promjene </s>
+phseq1: sil | j u t a r N a | t e m p e r a t u r a | z r a k a | u g l a v n o m | o d | s e d a m | d o | d v a n a e s t | s t u p N e v a | d n e v n a | t e m p e r a t u r a | b e z | v e Cc e | p r o m j e n e | sil
+cmscore1: 0.788 0.988 0.941 0.997 0.983 0.996 1.000 0.956 1.000 0.888 0.971 0.937 0.999 0.995 0.360 1.000
+score1: -14543.693359 (AM: -14291.226563  LM: -252.466797)

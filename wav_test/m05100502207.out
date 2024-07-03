@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za slijede^ih dvanaest sati slabo do umjereno jugo na otvorenom moru srednjeg i ju`nog jadrana ponegdje poja~ano <uzdah> </s>
+wseq1: <s> vremenska prognoza za slijede^ih dvanaest sati slabo do umjereno jugo na otvorenom moru srednjeg i ju`nog jadrana ponegdje poja~ano <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s l i j e d e Cc i h | d v a n a e s t | s a t i | s l a b o | d o | u m j e r e n o | j u g o | n a | o t v o r e n o m | m o r u | s r e d N e g | i | j u Z n o g | j a d r a n a | p o n e g d j e | p o j a C a n o | uzdah | sil
+cmscore1: 0.977 0.999 0.990 0.996 0.683 0.999 0.750 0.999 0.941 0.927 0.475 0.987 0.983 0.997 0.986 0.919 0.990 0.386 0.930 0.361 0.982 1.000
+score1: -18802.298828 (AM: -18464.791016  LM: -337.508392)

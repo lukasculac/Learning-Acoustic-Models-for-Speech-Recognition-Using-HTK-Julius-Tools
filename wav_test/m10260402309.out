@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za slijede^ih dvanaest sati </s>
+wseq1: <s> vremenska prognoza za slijede^ih dvanaest sati </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s l i j e d e Cc i h | d v a n a e s t | s a t i | sil
+cmscore1: 0.906 1.000 0.995 0.998 0.735 1.000 0.298 1.000
+score1: -5909.546875 (AM: -5818.064941  LM: -91.482002)

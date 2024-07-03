@@ -1,0 +1,5 @@
+sentence1: <s> na otvorenom sjevernog jadrana jugozapadni vjetar deset do devetnaest ~vorova </s>
+wseq1: <s> na otvorenom sjevernog jadrana jugozapadni vjetar deset do devetnaest ~vorova </s>
+phseq1: sil | n a | o t v o r e n o m | s j e v e r n o g | j a d r a n a | j u g o z a p a d n i | v j e t a r | d e s e t | d o | d e v e t n a e s t | C v o r o v a | sil
+cmscore1: 0.924 0.945 0.979 0.667 0.161 0.997 0.909 0.997 0.735 0.940 0.928 1.000
+score1: -11069.316406 (AM: -10799.905273  LM: -269.410797)

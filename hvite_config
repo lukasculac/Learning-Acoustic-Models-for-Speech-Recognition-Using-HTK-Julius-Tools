@@ -1,0 +1,2 @@
+# Configuration for HVite to match MFCC_D_N_Z_0
+TARGETKIND = MFCC_D_N_Z_0

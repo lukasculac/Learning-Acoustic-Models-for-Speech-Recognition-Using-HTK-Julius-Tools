@@ -1,0 +1,5 @@
+sentence1: <s> na sjevernom i otvorenome moru srednjeg jadrana mjestimice smanjena na ~etiri kilometra zbog sumaglice <uzdah> vedro i vru^e </s>
+wseq1: <s> na sjevernom i otvorenome moru srednjeg jadrana mjestimice smanjena na ~etiri kilometra zbog sumaglice <uzdah> vedro i vru^e </s>
+phseq1: sil | n a | s j e v e r n o m | i | o t v o r e n o m e | m o r u | s r e d N e g | j a d r a n a | m j e s t i m i c e | s m a N e n a | n a | C e t i r i | k i l o m e t r a | z b o g | s u m a g l i c e | uzdah | v e d r o | i | v r u Cc e | sil
+cmscore1: 0.987 0.998 0.927 0.461 0.918 0.986 0.998 0.818 0.996 0.995 0.978 1.000 0.998 0.997 0.430 0.481 0.998 0.887 0.783 1.000
+score1: -18838.142578 (AM: -18498.759766  LM: -339.382813)

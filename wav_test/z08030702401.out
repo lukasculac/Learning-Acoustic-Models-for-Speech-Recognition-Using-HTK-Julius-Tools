@@ -1,0 +1,5 @@
+sentence1: <s> prognoza vremena za sutra </s>
+wseq1: <s> prognoza vremena za sutra </s>
+phseq1: sil | p r o g n o z a | v r e m e n a | z a | s u t r a | sil
+cmscore1: 1.000 1.000 1.000 0.999 0.305 1.000
+score1: -4775.089355 (AM: -4662.848633  LM: -112.240799)

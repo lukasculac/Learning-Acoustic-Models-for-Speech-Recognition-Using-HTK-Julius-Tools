@@ -1,0 +1,5 @@
+sentence1: <s> vjetar uglavnom ju`ni i jugozapadni zatim ponegdje zapadni i sjeverozapadni </s>
+wseq1: <s> vjetar uglavnom ju`ni i jugozapadni zatim ponegdje zapadni i sjeverozapadni </s>
+phseq1: sil | v j e t a r | u g l a v n o m | j u Z n i | i | j u g o z a p a d n i | z a t i m | p o n e g d j e | z a p a d n i | i | s j e v e r o z a p a d n i | sil
+cmscore1: 0.661 0.995 0.354 1.000 0.367 0.922 0.939 0.981 1.000 0.514 0.385 1.000
+score1: -12715.180664 (AM: -12455.281250  LM: -259.899597)

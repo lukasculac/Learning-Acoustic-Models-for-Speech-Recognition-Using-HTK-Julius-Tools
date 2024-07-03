@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za slijede^ih dvanaest sati sun~ano i vru^e tiho ili burin danju slab samo ponegdje umjeren maestral </s>
+wseq1: <s> vremenska prognoza za slijede^ih dvanaest sati sun~ano i vru^e tiho ili burin danju slab samo ponegdje umjeren maestral </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s l i j e d e Cc i h | d v a n a e s t | s a t i | s u n C a n o | i | v r u Cc e | t i h o | i l i | b u r i n | d a N u | s l a b | s a m o | p o n e g d j e | u m j e r e n | m a e s t r a l | sil
+cmscore1: 0.930 0.999 0.998 0.998 0.634 0.998 0.414 0.999 0.958 0.950 0.999 0.967 0.898 0.985 0.518 0.996 0.930 0.999 0.747 1.000
+score1: -20647.751953 (AM: -20350.998047  LM: -296.753998)

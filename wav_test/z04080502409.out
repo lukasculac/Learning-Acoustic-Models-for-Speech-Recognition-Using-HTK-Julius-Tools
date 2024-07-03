@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za slijede^ih dvanaest sati <uzdah> prijepodne obla~no s ki{om zatim promjenjivo obla~no sa sun~anim razdobljima <uzdah> </s>
+wseq1: <s> vremenska prognoza za slijede^ih dvanaest sati <uzdah> prijepodne obla~no s ki{om zatim promjenjivo obla~no sa sun~anim razdobljima <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s l i j e d e Cc i h | d v a n a e s t | s a t i | uzdah | p r i j e p o d n e | o b l a C n o | s | k i S o m | z a t i m | p r o m j e N i v o | o b l a C n o | s a | s u n C a n i m | r a z d o b L i m a | uzdah | sil
+cmscore1: 0.917 0.998 0.993 0.997 0.414 0.999 0.798 0.545 0.939 1.000 0.996 0.749 0.837 0.335 0.997 0.989 0.999 0.416 0.983 1.000
+score1: -22077.025391 (AM: -21733.214844  LM: -343.810822)

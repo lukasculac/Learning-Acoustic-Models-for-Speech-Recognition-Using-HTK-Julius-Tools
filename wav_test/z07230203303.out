@@ -1,0 +1,5 @@
+sentence1: <s> na jadranu od minus ~etiri do oprostite od minus jedan do ~etiri <uzdah> </s>
+wseq1: <s> na jadranu od minus ~etiri do oprostite od minus jedan do ~etiri <uzdah> </s>
+phseq1: sil | n a | j a d r a n u | o d | m i n u s | C e t i r i | d o | o p r o s t i t e | o d | m i n u s | j e d a n | d o | C e t i r i | uzdah | sil
+cmscore1: 1.000 1.000 0.986 0.978 0.988 0.934 0.091 1.000 0.934 0.995 0.976 0.926 0.924 0.977 1.000
+score1: -11862.478516 (AM: -11609.136719  LM: -253.341599)

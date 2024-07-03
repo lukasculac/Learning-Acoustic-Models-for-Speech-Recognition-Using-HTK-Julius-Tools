@@ -1,0 +1,5 @@
+sentence1: <s> biometeorolo{ka prognoza za sutra </s>
+wseq1: <s> biometeorolo{ka prognoza za sutra </s>
+phseq1: sil | b i o m e t e o r o l o S k a | p r o g n o z a | z a | s u t r a | sil
+cmscore1: 0.997 0.997 1.000 0.986 0.437 1.000
+score1: -5710.247559 (AM: -5624.259277  LM: -85.988403)

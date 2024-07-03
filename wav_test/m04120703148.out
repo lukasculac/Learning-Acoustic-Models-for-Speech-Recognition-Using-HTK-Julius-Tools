@@ -1,0 +1,5 @@
+sentence1: <s> dana{nji izvje{taj o vodostaju rijeka </s>
+wseq1: <s> dana{nji izvje{taj o vodostaju rijeka </s>
+phseq1: sil | d a n a S N i | i z v j e S t a j | o | v o d o s t a j u | r i j e k a | sil
+cmscore1: 1.000 0.994 1.000 0.850 0.952 0.248 1.000
+score1: -4177.149414 (AM: -4076.086670  LM: -101.062798)

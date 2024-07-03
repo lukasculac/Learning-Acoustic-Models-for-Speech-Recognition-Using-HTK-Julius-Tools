@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za slijede^ih dvanaest sati uz obalu slaba do umjerena bura ponegdje velebitskom kanalu i na srednjem jadranu kratkotrajno poja~ana <uzdah> </s>
+wseq1: <s> vremenska prognoza za slijede^ih dvanaest sati uz obalu slaba do umjerena bura ponegdje velebitskom kanalu i na srednjem jadranu kratkotrajno poja~ana <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s l i j e d e Cc i h | d v a n a e s t | s a t i | u z | o b a l u | s l a b a | d o | u m j e r e n a | b u r a | p o n e g d j e | v e l e b i t s k o m | k a n a l u | i | n a | s r e d N e m | j a d r a n u | k r a t k o t r a j n o | p o j a C a n a | uzdah | sil
+cmscore1: 0.941 0.998 0.993 0.996 0.856 0.999 0.636 0.999 0.897 0.997 0.985 0.969 0.631 0.489 0.437 0.937 0.976 0.186 0.999 0.950 0.970 0.188 0.995 1.000
+score1: -23432.054688 (AM: -23037.052734  LM: -395.001617)

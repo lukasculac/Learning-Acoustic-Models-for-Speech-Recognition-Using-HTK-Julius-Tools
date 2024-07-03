@@ -1,0 +1,5 @@
+sentence1: <s> uglavnom poslijepodne i na sjevernom jadranu </s>
+wseq1: <s> uglavnom poslijepodne i na sjevernom jadranu </s>
+phseq1: sil | u g l a v n o m | p o s l i j e p o d n e | i | n a | s j e v e r n o m | j a d r a n u | sil
+cmscore1: 0.482 0.809 0.999 0.303 0.992 0.952 0.498 1.000
+score1: -6611.549805 (AM: -6434.386719  LM: -177.163193)

@@ -1,0 +1,5 @@
+sentence1: <s> na sjevernom i dijelu srednjeg jadrana po~etku umjerena do jaka bura </s>
+wseq1: <s> na sjevernom i dijelu srednjeg jadrana po~etku umjerena do jaka bura </s>
+phseq1: sil | n a | s j e v e r n o m | i | d i j e l u | s r e d N e g | j a d r a n a | p o C e t k u | u m j e r e n a | d o | j a k a | b u r a | sil
+cmscore1: 0.424 0.998 0.763 0.888 0.987 0.994 0.141 0.994 0.992 0.789 0.998 0.633 1.000
+score1: -9687.836914 (AM: -9490.224609  LM: -197.612411)

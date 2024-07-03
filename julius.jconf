@@ -1,79 +1,13 @@
-# VoxForge configurations:
+# Input data
+-input rawfile
+-filelist files_path.txt
 
-# Change input from mic to mfcfile (assuming you will use MFCC files as input)
-# or file (if you want to input raw WAV files directly)
--input mfcfile
-
-# Add file list for batch processing
--filelist files_path.txt  # List of MFCC or WAV files to process
-
-# Add output MLF file for recognition results
--output mlf
--outfile recognition_output.lab
-
-# Pronunciation dictionary
--v julius_dict  # pronunciation dictionary
-
--mapunk <sil>
-
-# Acoustic HMM (ascii or Julius binary)
+# Acoustic model definition
 -h hmm15/hmmdefs
-
-# HMMList to map logical phone to physical
 -hlist tiedlist
 
-# Language model
--d language_model.bingram
+# Language model definition
+-gram language_model.bingram
 
-# Sampling rate
--smpFreq 16000  # sampling rate (Hz)
-
-# Short-pause silence model
--spmodel "sil"  # name of a short-pause silence model
-
-# Beam width parameters
--b 4000
--b2 360
-
-# Language model probabilities
--lmp 12 -6
--lmp2 12 -6
-
-# Fallback to 1-pass
--fallback1pass
-
-# Enable multi-path mode
--multipath
-
-# Inter-word short pause and word context dependency settings
--iwsp
--iwcd1 max
-
-# No cross-word context dependency
--no_ccd
-
-# Separate number
--sepnum 150
-
-# Beam width for Viterbi
--n 40
-
-# Pruning parameters
--s 2000
--m 8000
-
-# Search lookahead range
--lookuprange 5
-
-# Silence beam width
--sb 80
-
-# Force dictionary
--forcedict
-
-# Level threshold to prevent recognizing non-speech sounds
--lv 100  # level threshold (0-32767)
-
-# Comment these out for debugging:
--logfile julius.log
--quiet
+# Dictionary
+-v dict_julius

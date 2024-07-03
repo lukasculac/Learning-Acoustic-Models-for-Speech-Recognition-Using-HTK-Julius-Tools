@@ -1,0 +1,5 @@
+sentence1: <s> na sjevernom jadranu i u zapadnim krajevima ve^a naoblaka s pljuskovima i grmljavinom </s>
+wseq1: <s> na sjevernom jadranu i u zapadnim krajevima ve^a naoblaka s pljuskovima i grmljavinom </s>
+phseq1: sil | n a | s j e v e r n o m | j a d r a n u | i | u | z a p a d n i m | k r a j e v i m a | v e Cc a | n a o b l a k a | s | p L u s k o v i m a | i | g r m L a v i n o m | sil
+cmscore1: 0.930 0.998 0.974 0.886 0.928 0.836 0.991 0.224 0.922 0.945 0.984 1.000 0.802 0.896 1.000
+score1: -11547.387695 (AM: -11269.803711  LM: -277.583984)

@@ -1,0 +1,5 @@
+sentence1: <s> no^u uz obalu burin pet do petnaest ~vorova more jedan do dva ponegdje dva do tri </s>
+wseq1: <s> no^u uz obalu burin pet do petnaest ~vorova more jedan do dva ponegdje dva do tri </s>
+phseq1: sil | n o Cc u | u z | o b a l u | b u r i n | p e t | d o | p e t n a e s t | C v o r o v a | m o r e | j e d a n | d o | d v a | p o n e g d j e | d v a | d o | t r i | sil
+cmscore1: 0.903 0.999 1.000 0.985 0.718 0.999 0.958 0.990 0.948 0.985 0.993 0.978 0.986 0.977 0.998 0.978 0.509 1.000
+score1: -14341.012695 (AM: -14071.402344  LM: -269.609985)

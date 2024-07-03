@@ -1,0 +1,5 @@
+sentence1: <s> bura na otvorenom tramontana {est do osamnaest mjestimice dvadeset dva ~vora <uzdah> </s>
+wseq1: <s> bura na otvorenom tramontana {est do osamnaest mjestimice dvadeset dva ~vora <uzdah> </s>
+phseq1: sil | b u r a | n a | o t v o r e n o m | t r a m o n t a n a | S e s t | d o | o s a m n a e s t | m j e s t i m i c e | d v a d e s e t | d v a | C v o r a | uzdah | sil
+cmscore1: 0.786 0.957 0.975 0.994 0.957 0.998 0.770 0.993 0.984 0.998 0.843 0.792 0.681 1.000
+score1: -12602.967773 (AM: -12373.104492  LM: -229.863602)

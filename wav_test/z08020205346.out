@@ -1,0 +1,5 @@
+sentence1: <s> more dva do tri na srednjem i ju`nom jadranu tri do ~etiri <uzdah> </s>
+wseq1: <s> more dva do tri na srednjem i ju`nom jadranu tri do ~etiri <uzdah> </s>
+phseq1: sil | m o r e | d v a | d o | t r i | n a | s r e d N e m | i | j u Z n o m | j a d r a n u | t r i | d o | C e t i r i | uzdah | sil
+cmscore1: 0.951 0.998 0.995 0.961 0.788 0.997 0.998 0.986 0.998 0.566 1.000 0.953 0.897 0.730 1.000
+score1: -8927.715820 (AM: -8727.675781  LM: -200.039978)

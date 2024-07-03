@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za sutra prete`no obla~no uglavnom u no^i i prijepodne s oborinama <uzdah> na jadranu ki{a mjestimice s grmljavinom <uzdah> </s>
+wseq1: <s> vremenska prognoza za sutra prete`no obla~no uglavnom u no^i i prijepodne s oborinama <uzdah> na jadranu ki{a mjestimice s grmljavinom <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s u t r a | p r e t e Z n o | o b l a C n o | u g l a v n o m | u | n o Cc i | i | p r i j e p o d n e | s | o b o r i n a m a | uzdah | n a | j a d r a n u | k i S a | m j e s t i m i c e | s | g r m L a v i n o m | uzdah | sil
+cmscore1: 0.863 0.997 1.000 0.992 0.840 0.999 0.957 0.897 0.949 0.999 0.918 1.000 0.895 0.338 0.759 0.986 0.990 0.477 0.997 0.869 0.828 0.843 1.000
+score1: -20928.923828 (AM: -20527.134766  LM: -401.788788)

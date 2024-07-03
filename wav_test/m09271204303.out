@@ -1,0 +1,5 @@
+sentence1: <s> zato bi ljudi osjetljivi na vrijeme mogli imati glavobolju biti lo{e raspolo`eni <uzdah> </s>
+wseq1: <s> zato bi ljudi osjetljivi na vrijeme mogli imati glavobolju biti lo{e raspolo`eni <uzdah> </s>
+phseq1: sil | z a t o | b i | L u d i | o s j e t L i v i | n a | v r i j e m e | m o g l i | i m a t i | g l a v o b o L u | b i t i | l o S e | r a s p o l o Z e n i | uzdah | sil
+cmscore1: 0.980 0.986 0.801 0.994 0.898 0.925 0.995 0.995 0.994 0.944 0.984 0.992 0.056 0.993 1.000
+score1: -11200.856445 (AM: -10953.577148  LM: -247.279190)

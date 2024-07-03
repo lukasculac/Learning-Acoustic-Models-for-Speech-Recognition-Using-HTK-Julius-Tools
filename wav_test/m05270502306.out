@@ -1,0 +1,5 @@
+sentence1: <s> stanje sa sjeverozapada prema jadranu pribli`ava se dolina s oslabljenim frontalnim sustavom </s>
+wseq1: <s> stanje sa sjeverozapada prema jadranu pribli`ava se dolina s oslabljenim frontalnim sustavom </s>
+phseq1: sil | s t a N e | s a | s j e v e r o z a p a d a | p r e m a | j a d r a n u | p r i b l i Z a v a | s e | d o l i n a | s | o s l a b L e n i m | f r o n t a l n i m | s u s t a v o m | sil
+cmscore1: 0.988 0.987 0.977 0.982 0.997 0.977 0.999 0.960 0.998 0.965 0.971 0.995 0.344 1.000
+score1: -12845.631836 (AM: -12632.861328  LM: -212.770798)

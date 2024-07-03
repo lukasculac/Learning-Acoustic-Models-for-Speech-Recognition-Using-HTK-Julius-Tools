@@ -1,0 +1,5 @@
+sentence1: <s> toplo i sparno s najvi{om temperaturom izme}u dvadeset dva do dvadeset sedam stupnjeva </s>
+wseq1: <s> toplo i sparno s najvi{om temperaturom izme}u dvadeset dva do dvadeset sedam stupnjeva </s>
+phseq1: sil | t o p l o | i | s p a r n o | s | n a j v i S o m | t e m p e r a t u r o m | i z m e dz u | d v a d e s e t | d v a | d o | d v a d e s e t | s e d a m | s t u p N e v a | sil
+cmscore1: 0.583 1.000 0.994 0.658 0.986 0.973 0.907 0.945 0.995 0.932 0.144 0.993 0.614 0.736 1.000
+score1: -12388.291992 (AM: -12078.429688  LM: -309.862793)

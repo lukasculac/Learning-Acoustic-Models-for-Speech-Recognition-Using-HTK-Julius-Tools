@@ -1,0 +1,5 @@
+sentence1: <s> samo ponegdje slaba ki{a uglavnom na rije~kome podru~ju i u gorskome kotaru <uzdah> na srednjem i ju`nom jadranu djelomice sun~ano <uzdah> </s>
+wseq1: <s> samo ponegdje slaba ki{a uglavnom na rije~kome podru~ju i u gorskome kotaru <uzdah> na srednjem i ju`nom jadranu djelomice sun~ano <uzdah> </s>
+phseq1: sil | s a m o | p o n e g d j e | s l a b a | k i S a | u g l a v n o m | n a | r i j e C k o m e | p o d r u C j u | i | u | g o r s k o m e | k o t a r u | uzdah | n a | s r e d N e m | i | j u Z n o m | j a d r a n u | d j e l o m i c e | s u n C a n o | uzdah | sil
+cmscore1: 0.857 0.990 0.997 0.996 0.950 0.991 0.873 0.999 0.920 0.963 0.988 0.992 0.698 0.719 0.971 0.999 0.998 0.993 0.813 0.999 0.583 0.979 1.000
+score1: -19383.656250 (AM: -19013.076172  LM: -370.579193)

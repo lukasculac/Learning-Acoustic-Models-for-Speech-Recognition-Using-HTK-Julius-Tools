@@ -1,0 +1,5 @@
+sentence1: <s> najvi{a temperatura u ve^ini krajeva od petnaest do dvadeset <uzdah> </s>
+wseq1: <s> najvi{a temperatura u ve^ini krajeva od petnaest do dvadeset <uzdah> </s>
+phseq1: sil | n a j v i S a | t e m p e r a t u r a | u | v e Cc i n i | k r a j e v a | o d | p e t n a e s t | d o | d v a d e s e t | uzdah | sil
+cmscore1: 0.811 0.976 0.929 0.950 0.999 0.961 0.994 0.998 0.880 0.765 0.870 1.000
+score1: -8487.038086 (AM: -8314.437500  LM: -172.600815)

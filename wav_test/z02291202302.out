@@ -1,0 +1,5 @@
+sentence1: <s> najobla~nije prema kraju dana na sjevernom jadranu i u gorskom kotaru gdje mo`e pasti malo ki{e <uzdah> zapuhat ^e slab poslijepodne umjeren jugozapadni i ju`ni vjetar <uzdah> </s>
+wseq1: <s> najobla~nije prema kraju dana na sjevernom jadranu i u gorskom kotaru gdje mo`e pasti malo ki{e <uzdah> zapuhat ^e slab poslijepodne umjeren jugozapadni i ju`ni vjetar <uzdah> </s>
+phseq1: sil | n a j o b l a C n i j e | p r e m a | k r a j u | d a n a | n a | s j e v e r n o m | j a d r a n u | i | u | g o r s k o m | k o t a r u | g d j e | m o Z e | p a s t i | m a l o | k i S e | uzdah | z a p u h a t | Cc e | s l a b | p o s l i j e p o d n e | u m j e r e n | j u g o z a p a d n i | i | j u Z n i | v j e t a r | uzdah | sil
+cmscore1: 0.996 0.997 0.984 0.434 0.686 0.998 0.627 0.952 0.894 0.678 0.947 0.966 0.980 0.997 0.559 0.994 0.474 0.854 0.970 0.983 0.997 0.993 0.982 0.999 0.886 0.995 0.943 0.923 1.000
+score1: -24032.759766 (AM: -23574.949219  LM: -457.810791)

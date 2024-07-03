@@ -1,0 +1,5 @@
+sentence1: <s> <uzdah> vjetar uglavnom slab zapadni i jugozapadni na jadranu u no^i i ujutro bura <uzdah> a danju povremeno umjeren sjeverozapadnjak </s>
+wseq1: <s> <uzdah> vjetar uglavnom slab zapadni i jugozapadni na jadranu u no^i i ujutro bura <uzdah> a danju povremeno umjeren sjeverozapadnjak </s>
+phseq1: sil | uzdah | v j e t a r | u g l a v n o m | s l a b | z a p a d n i | i | j u g o z a p a d n i | n a | j a d r a n u | u | n o Cc i | i | u j u t r o | b u r a | uzdah | a | d a N u | p o v r e m e n o | u m j e r e n | s j e v e r o z a p a d N a k | sil
+cmscore1: 0.895 0.953 0.996 0.999 0.978 1.000 0.922 0.824 0.997 0.800 0.995 0.975 0.677 0.952 0.992 0.579 0.970 0.985 0.991 0.908 0.517 1.000
+score1: -19069.273438 (AM: -18702.082031  LM: -367.190430)

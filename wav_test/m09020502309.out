@@ -1,0 +1,5 @@
+sentence1: <s> postupno ja~a naoblaka na sjevernom sredinom dana i na srednjem jadranu <uzdah> </s>
+wseq1: <s> postupno ja~a naoblaka na sjevernom sredinom dana i na srednjem jadranu <uzdah> </s>
+phseq1: sil | p o s t u p n o | j a C a | n a o b l a k a | n a | s j e v e r n o m | s r e d i n o m | d a n a | i | n a | s r e d N e m | j a d r a n u | uzdah | sil
+cmscore1: 1.000 0.933 0.998 0.314 0.953 0.834 0.998 0.970 0.978 0.888 0.993 0.583 0.740 1.000
+score1: -9896.777344 (AM: -9646.256836  LM: -250.520386)

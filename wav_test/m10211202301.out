@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za sutra ja~a naoblaka koja ^e ve^ prijepodne zahvatiti sjeverni jadran i zapadne predjele do kraja dana pro{irit ^e se na cijelu zemlju <uzdah> </s>
+wseq1: <s> vremenska prognoza za sutra ja~a naoblaka koja ^e ve^ prijepodne zahvatiti sjeverni jadran i zapadne predjele do kraja dana pro{irit ^e se na cijelu zemlju <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s u t r a | j a C a | n a o b l a k a | k o j a | Cc e | v e Cc | p r i j e p o d n e | z a h v a t i t i | s j e v e r n i | j a d r a n | i | z a p a d n e | p r e d j e l e | d o | k r a j a | d a n a | p r o S i r i t | Cc e | s e | n a | c i j e l u | z e m L u | uzdah | sil
+cmscore1: 0.936 0.999 1.000 0.982 0.708 0.999 0.859 0.905 0.962 0.995 0.993 0.995 0.998 0.993 0.991 0.967 0.370 0.891 0.953 0.844 0.999 0.996 0.985 0.976 1.000 0.274 0.861 1.000
+score1: -22009.240234 (AM: -21581.943359  LM: -427.297241)

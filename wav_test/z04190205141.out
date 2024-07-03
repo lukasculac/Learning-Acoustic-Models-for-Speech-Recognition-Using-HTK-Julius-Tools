@@ -1,0 +1,5 @@
+sentence1: <s> kupa radenci osam {esto osamdeset {est kupa karlovac ~etiri dva ~etrdeset dva </s>
+wseq1: <s> kupa radenci osam {esto osamdeset {est kupa karlovac ~etiri dva ~etrdeset dva </s>
+phseq1: sil | k u p a | r a d e n c i | o s a m | S e s t o | o s a m d e s e t | S e s t | k u p a | k a r l o v a c | C e t i r i | d v a | C e t r d e s e t | d v a | sil
+cmscore1: 0.996 0.997 0.461 0.989 0.266 0.993 0.881 0.996 0.372 0.992 0.992 0.999 0.716 1.000
+score1: -14675.100586 (AM: -14351.725586  LM: -323.374786)

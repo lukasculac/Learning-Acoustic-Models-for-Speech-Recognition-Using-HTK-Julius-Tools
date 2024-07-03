@@ -1,0 +1,5 @@
+sentence1: <s> puhat ^e slab do umjeren u no^i i ujutro mjestimice i jak zapadnjak i jugozapadnjak <uzdah> na ju`nom jadranu jugo </s>
+wseq1: <s> puhat ^e slab do umjeren u no^i i ujutro mjestimice i jak zapadnjak i jugozapadnjak <uzdah> na ju`nom jadranu jugo </s>
+phseq1: sil | p u h a t | Cc e | s l a b | d o | u m j e r e n | u | n o Cc i | i | u j u t r o | m j e s t i m i c e | i | j a k | z a p a d N a k | i | j u g o z a p a d N a k | uzdah | n a | j u Z n o m | j a d r a n u | j u g o | sil
+cmscore1: 0.943 1.000 0.672 1.000 0.907 0.153 0.974 0.991 0.955 0.948 0.993 0.880 0.995 0.978 0.997 0.946 0.471 0.922 0.997 0.405 0.926 1.000
+score1: -18124.957031 (AM: -17758.189453  LM: -366.766846)

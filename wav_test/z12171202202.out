@@ -1,0 +1,5 @@
+sentence1: <s> sutra ja~anje anticiklonalnog grebena sa sjeverozapadne europe </s>
+wseq1: <s> sutra ja~anje anticiklonalnog grebena sa sjeverozapadne europe </s>
+phseq1: sil | s u t r a | j a C a N e | a n t i c i k l o n a l n o g | g r e b e n a | s a | s j e v e r o z a p a d n e | e u r o p e | sil
+cmscore1: 0.992 0.980 0.998 0.992 0.979 0.776 0.864 0.079 1.000
+score1: -10663.096680 (AM: -10523.061523  LM: -140.035202)

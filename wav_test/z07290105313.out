@@ -1,0 +1,5 @@
+sentence1: <s> more dva do tri na otvorenom tri do ~etiri na otvorenom sjevernog i srednjeg jadrana u no^i ponegdje pet <uzdah> </s>
+wseq1: <s> more dva do tri na otvorenom tri do ~etiri na otvorenom sjevernog i srednjeg jadrana u no^i ponegdje pet <uzdah> </s>
+phseq1: sil | m o r e | d v a | d o | t r i | n a | o t v o r e n o m | t r i | d o | C e t i r i | n a | o t v o r e n o m | s j e v e r n o g | i | s r e d N e g | j a d r a n a | u | n o Cc i | p o n e g d j e | p e t | uzdah | sil
+cmscore1: 1.000 0.996 0.999 0.957 0.872 0.990 0.971 0.999 0.515 0.533 0.927 0.995 0.983 0.903 0.992 0.385 0.996 0.939 0.962 0.945 0.882 1.000
+score1: -16135.043945 (AM: -15818.954102  LM: -316.089600)

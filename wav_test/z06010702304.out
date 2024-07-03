@@ -1,0 +1,5 @@
+sentence1: <s> na jadranu od devetnaest do dvadeset ~etiri <uzdah> a najvi{a dnevna od dvadeset dva do dvadeset sedam <uzdah> </s>
+wseq1: <s> na jadranu od devetnaest do dvadeset ~etiri <uzdah> a najvi{a dnevna od dvadeset dva do dvadeset sedam <uzdah> </s>
+phseq1: sil | n a | j a d r a n u | o d | d e v e t n a e s t | d o | d v a d e s e t | C e t i r i | uzdah | a | n a j v i S a | d n e v n a | o d | d v a d e s e t | d v a | d o | d v a d e s e t | s e d a m | uzdah | sil
+cmscore1: 0.926 1.000 0.991 0.900 0.992 0.834 0.956 0.891 0.985 0.901 0.993 0.984 0.916 0.993 0.925 0.980 0.996 0.819 0.919 1.000
+score1: -14425.692383 (AM: -14134.786133  LM: -290.906464)

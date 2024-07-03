@@ -1,0 +1,5 @@
+sentence1: <s> polje malo povi{enog atmosferskog tlaka zadr`ava se nad jadranom <uzdah> a ciklona se nad zapadnim sredozemljem sporo premje{ta prema italiji </s>
+wseq1: <s> polje malo povi{enog atmosferskog tlaka zadr`ava se nad jadranom <uzdah> a ciklona se nad zapadnim sredozemljem sporo premje{ta prema italiji </s>
+phseq1: sil | p o L e | m a l o | p o v i S e n o g | a t m o s f e r s k o g | t l a k a | z a d r Z a v a | s e | n a d | j a d r a n o m | uzdah | a | c i k l o n a | s e | n a d | z a p a d n i m | s r e d o z e m L e m | s p o r o | p r e m j e S t a | p r e m a | i t a l i j i | sil
+cmscore1: 0.933 0.988 0.997 0.987 0.966 0.990 0.999 0.957 0.994 0.439 0.972 0.919 0.998 0.150 0.995 0.979 0.933 0.979 0.996 0.969 0.613 1.000
+score1: -20524.769531 (AM: -20183.990234  LM: -340.779633)

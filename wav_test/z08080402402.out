@@ -1,0 +1,5 @@
+sentence1: <s> <uzdah> pobolj{anje vremena <uzdah> </s>
+wseq1: <s> <uzdah> pobolj{anje vremena <uzdah> </s>
+phseq1: sil | uzdah | p o b o L S a N e | v r e m e n a | uzdah | sil
+cmscore1: 1.000 0.270 0.878 0.031 0.364 1.000
+score1: -3337.537109 (AM: -3202.532227  LM: -135.004807)

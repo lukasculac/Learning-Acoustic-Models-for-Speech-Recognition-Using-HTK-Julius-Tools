@@ -1,0 +1,5 @@
+sentence1: <s> sutra ponegdje neverini </s>
+wseq1: <s> sutra ponegdje neverini </s>
+phseq1: sil | s u t r a | p o n e g d j e | n e v e r i n i | sil
+cmscore1: 0.900 0.994 0.998 0.695 1.000
+score1: -4530.883789 (AM: -4430.729492  LM: -100.154396)

@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za poslijepodne obla~no na jadranu ponegdje ki{a a u zapadnim podru~jima unutra{njosti malo snijega osobito potkraj dana i u no^i </s>
+wseq1: <s> vremenska prognoza za poslijepodne obla~no na jadranu ponegdje ki{a a u zapadnim podru~jima unutra{njosti malo snijega osobito potkraj dana i u no^i </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | p o s l i j e p o d n e | o b l a C n o | n a | j a d r a n u | p o n e g d j e | k i S a | a | u | z a p a d n i m | p o d r u C j i m a | u n u t r a S N o s t i | m a l o | s n i j e g a | o s o b i t o | p o t k r a j | d a n a | i | u | n o Cc i | sil
+cmscore1: 0.905 0.999 0.995 0.906 0.875 0.931 0.998 0.969 0.985 0.979 0.297 0.997 0.503 0.799 0.990 0.997 0.155 0.533 1.000 0.979 0.948 0.868 0.109 1.000
+score1: -23834.220703 (AM: -23336.087891  LM: -498.131989)

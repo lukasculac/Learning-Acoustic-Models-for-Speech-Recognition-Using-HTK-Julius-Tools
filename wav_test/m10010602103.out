@@ -1,0 +1,5 @@
+sentence1: <s> vjetar uglavnom slab zapadni i sjeverozapadni najvi{a dnevna temperatura od dvadeset tri do dvadeset osam stupnjeva </s>
+wseq1: <s> vjetar uglavnom slab zapadni i sjeverozapadni najvi{a dnevna temperatura od dvadeset tri do dvadeset osam stupnjeva </s>
+phseq1: sil | v j e t a r | u g l a v n o m | s l a b | z a p a d n i | i | s j e v e r o z a p a d n i | n a j v i S a | d n e v n a | t e m p e r a t u r a | o d | d v a d e s e t | t r i | d o | d v a d e s e t | o s a m | s t u p N e v a | sil
+cmscore1: 1.000 1.000 0.998 0.992 1.000 0.519 0.881 0.999 0.986 0.962 0.863 0.993 0.985 0.987 0.918 1.000 0.880 1.000
+score1: -14988.872070 (AM: -14688.005859  LM: -300.866394)

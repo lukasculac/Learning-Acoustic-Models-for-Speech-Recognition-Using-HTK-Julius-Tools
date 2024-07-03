@@ -1,0 +1,5 @@
+sentence1: <s> na sjevernom i dijelu srednjeg jadrana mjestimice udari bure a na ju`nom i ponegdje na dijelu srednjeg jadrana mjestimice udari juga trideset do ~etrdeset ~vorova </s>
+wseq1: <s> na sjevernom i dijelu srednjeg jadrana mjestimice udari bure a na ju`nom i ponegdje na dijelu srednjeg jadrana mjestimice udari juga trideset do ~etrdeset ~vorova </s>
+phseq1: sil | n a | s j e v e r n o m | i | d i j e l u | s r e d N e g | j a d r a n a | m j e s t i m i c e | u d a r i | b u r e | a | n a | j u Z n o m | i | p o n e g d j e | n a | d i j e l u | s r e d N e g | j a d r a n a | m j e s t i m i c e | u d a r i | j u g a | t r i d e s e t | d o | C e t r d e s e t | C v o r o v a | sil
+cmscore1: 0.410 0.992 0.513 0.284 0.993 0.997 0.972 0.998 0.998 0.013 0.997 0.682 0.961 0.995 0.999 0.908 0.994 0.998 0.967 0.999 0.991 0.992 0.996 0.970 0.998 0.713 1.000
+score1: -23135.564453 (AM: -22753.875000  LM: -381.688812)

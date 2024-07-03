@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za jadran za prvih dvanaest sati uz obalu bura {est do ~etrnaest potkraj dana i u no^i dvanaest do dvadeset ~etiri ~vora </s>
+wseq1: <s> vremenska prognoza za jadran za prvih dvanaest sati uz obalu bura {est do ~etrnaest potkraj dana i u no^i dvanaest do dvadeset ~etiri ~vora </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | j a d r a n | z a | p r v i h | d v a n a e s t | s a t i | u z | o b a l u | b u r a | S e s t | d o | C e t r n a e s t | p o t k r a j | d a n a | i | u | n o Cc i | d v a n a e s t | d o | d v a d e s e t | C e t i r i | C v o r a | sil
+cmscore1: 0.982 0.997 1.000 0.957 0.999 0.933 0.999 0.999 0.713 1.000 0.989 0.985 1.000 0.499 0.762 1.000 0.969 0.854 0.681 0.954 0.999 0.797 1.000 0.996 0.363 1.000
+score1: -19924.718750 (AM: -19570.234375  LM: -354.484772)

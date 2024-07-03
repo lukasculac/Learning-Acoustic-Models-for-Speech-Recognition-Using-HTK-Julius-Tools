@@ -1,0 +1,5 @@
+sentence1: <s> najni`a temperatura od devet do ~etrnaest stupnjeva na jadranu od petnaest do dvadeset <uzdah> </s>
+wseq1: <s> najni`a temperatura od devet do ~etrnaest stupnjeva na jadranu od petnaest do dvadeset <uzdah> </s>
+phseq1: sil | n a j n i Z a | t e m p e r a t u r a | o d | d e v e t | d o | C e t r n a e s t | s t u p N e v a | n a | j a d r a n u | o d | p e t n a e s t | d o | d v a d e s e t | uzdah | sil
+cmscore1: 0.411 0.949 0.986 0.981 0.995 0.943 0.995 0.530 0.973 0.935 0.884 0.996 0.902 0.735 0.870 1.000
+score1: -13242.620117 (AM: -13012.411133  LM: -230.209183)

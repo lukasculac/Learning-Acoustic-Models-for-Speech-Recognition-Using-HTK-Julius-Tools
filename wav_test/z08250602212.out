@@ -1,0 +1,5 @@
+sentence1: <s> a frontalni poreme^aj pomi~e se sa sjevernog jadrana na istok jugoistok </s>
+wseq1: <s> a frontalni poreme^aj pomi~e se sa sjevernog jadrana na istok jugoistok </s>
+phseq1: sil | a | f r o n t a l n i | p o r e m e Cc a j | p o m i C e | s e | s a | s j e v e r n o g | j a d r a n a | n a | i s t o k | j u g o i s t o k | sil
+cmscore1: 1.000 0.391 0.998 0.413 0.997 0.884 0.807 0.945 0.927 0.961 0.152 0.984 1.000
+score1: -11625.980469 (AM: -11289.656250  LM: -336.324036)

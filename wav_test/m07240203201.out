@@ -1,0 +1,5 @@
+sentence1: <s> vremensko izvje{^e ankica stojanovi^ </s>
+wseq1: <s> vremensko izvje{^e ankica stojanovi^ </s>
+phseq1: sil | v r e m e n s k o | i z v j e S Cc e | a n k i c a | s t o j a n o v i Cc | sil
+cmscore1: 0.873 0.980 0.861 0.996 0.990 1.000
+score1: -8086.225098 (AM: -7942.591309  LM: -143.634018)

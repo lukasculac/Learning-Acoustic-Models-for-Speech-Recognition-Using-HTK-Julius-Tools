@@ -1,0 +1,5 @@
+sentence1: <s> a najvi{a dnevna od dvanaest do sedamnaest na jadranu od sedamnaest do dvadeset jedan stupanj </s>
+wseq1: <s> a najvi{a dnevna od dvanaest do sedamnaest na jadranu od sedamnaest do dvadeset jedan stupanj </s>
+phseq1: sil | a | n a j v i S a | d n e v n a | o d | d v a n a e s t | d o | s e d a m n a e s t | n a | j a d r a n u | o d | s e d a m n a e s t | d o | d v a d e s e t | j e d a n | s t u p a N | sil
+cmscore1: 0.594 0.885 0.996 0.936 0.924 1.000 0.826 0.995 0.980 0.995 0.981 0.996 0.630 0.958 0.961 0.441 1.000
+score1: -14337.145508 (AM: -14091.131836  LM: -246.013214)

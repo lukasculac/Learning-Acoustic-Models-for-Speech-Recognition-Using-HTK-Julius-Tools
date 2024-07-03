@@ -1,0 +1,5 @@
+sentence1: <s> vidljivost deset do dvadeset kilometara prete`ito vedro ponegdje s malom do umjerenom naoblakom </s>
+wseq1: <s> vidljivost deset do dvadeset kilometara prete`ito vedro ponegdje s malom do umjerenom naoblakom </s>
+phseq1: sil | v i d L i v o s t | d e s e t | d o | d v a d e s e t | k i l o m e t a r a | p r e t e Z i t o | v e d r o | p o n e g d j e | s | m a l o m | d o | u m j e r e n o m | n a o b l a k o m | sil
+cmscore1: 1.000 1.000 0.997 0.966 0.994 0.644 0.988 0.801 0.999 0.953 0.991 0.957 0.999 0.159 1.000
+score1: -15444.847656 (AM: -15224.286133  LM: -220.561188)

@@ -1,0 +1,5 @@
+sentence1: <s> a na ju`nom jadranu biometeorolo{ki uvjeti ^e biti povoljni </s>
+wseq1: <s> a na ju`nom jadranu biometeorolo{ki uvjeti ^e biti povoljni </s>
+phseq1: sil | a | n a | j u Z n o m | j a d r a n u | b i o m e t e o r o l o S k i | u v j e t i | Cc e | b i t i | p o v o L n i | sil
+cmscore1: 1.000 0.919 0.748 0.936 0.817 0.998 0.992 0.920 0.997 0.576 1.000
+score1: -8625.753906 (AM: -8434.875000  LM: -190.879227)

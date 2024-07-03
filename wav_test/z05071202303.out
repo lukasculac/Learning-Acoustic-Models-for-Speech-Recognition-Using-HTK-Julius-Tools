@@ -1,0 +1,5 @@
+sentence1: <s> temperatura od minus jedan do ~etiri stupnja na jadranu od {est na sjevernom do trinaest na njegovom ju`nom dijelu vremenski izgledi do sredine slijede^ega tjedna </s>
+wseq1: <s> temperatura od minus jedan do ~etiri stupnja na jadranu od {est na sjevernom do trinaest na njegovom ju`nom dijelu vremenski izgledi do sredine slijede^ega tjedna </s>
+phseq1: sil | t e m p e r a t u r a | o d | m i n u s | j e d a n | d o | C e t i r i | s t u p N a | n a | j a d r a n u | o d | S e s t | n a | s j e v e r n o m | d o | t r i n a e s t | n a | N e g o v o m | j u Z n o m | d i j e l u | v r e m e n s k i | i z g l e d i | d o | s r e d i n e | s l i j e d e Cc e g a | t j e d n a | sil
+cmscore1: 0.884 0.991 0.176 0.987 0.967 0.827 0.998 0.521 0.999 0.972 0.677 0.738 0.928 0.994 0.975 0.986 0.075 0.992 0.937 0.278 1.000 0.993 0.607 0.999 0.903 0.134 1.000
+score1: -23234.160156 (AM: -22766.843750  LM: -467.317261)

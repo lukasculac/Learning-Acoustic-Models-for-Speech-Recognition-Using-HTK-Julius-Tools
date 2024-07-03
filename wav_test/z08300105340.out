@@ -1,0 +1,5 @@
+sentence1: <s> umjerena do jaka ponegdje vrlo jaka bura oslabit ^e do kraja dana na slabu do umjerenu </s>
+wseq1: <s> umjerena do jaka ponegdje vrlo jaka bura oslabit ^e do kraja dana na slabu do umjerenu </s>
+phseq1: sil | u m j e r e n a | d o | j a k a | p o n e g d j e | v r l o | j a k a | b u r a | o s l a b i t | Cc e | d o | k r a j a | d a n a | n a | s l a b u | d o | u m j e r e n u | sil
+cmscore1: 0.961 0.999 0.990 0.994 0.967 0.952 0.991 0.677 0.958 0.983 0.975 0.453 0.891 0.982 0.980 0.802 0.429 1.000
+score1: -13160.000000 (AM: -12890.164063  LM: -269.835602)

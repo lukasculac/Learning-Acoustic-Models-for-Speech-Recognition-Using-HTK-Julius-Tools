@@ -1,0 +1,5 @@
+sentence1: <s> more umjereno valovito i valovito no^na i jutarnja temperatura od dva </s>
+wseq1: <s> more umjereno valovito i valovito no^na i jutarnja temperatura od dva </s>
+phseq1: sil | m o r e | u m j e r e n o | v a l o v i t o | i | v a l o v i t o | n o Cc n a | i | j u t a r N a | t e m p e r a t u r a | o d | d v a | sil
+cmscore1: 0.975 0.989 0.995 0.971 0.996 0.976 0.983 0.240 0.999 0.840 0.293 0.363 1.000
+score1: -12465.982422 (AM: -12265.546875  LM: -200.435989)

@@ -1,0 +1,5 @@
+sentence1: <s> temperatura od minus dva do plus tri stupnja a na jadranu od pet na sjevernom do trinaest stupnjeva na ju`nom </s>
+wseq1: <s> temperatura od minus dva do plus tri stupnja a na jadranu od pet na sjevernom do trinaest stupnjeva na ju`nom </s>
+phseq1: sil | t e m p e r a t u r a | o d | m i n u s | d v a | d o | p l u s | t r i | s t u p N a | a | n a | j a d r a n u | o d | p e t | n a | s j e v e r n o m | d o | t r i n a e s t | s t u p N e v a | n a | j u Z n o m | sil
+cmscore1: 0.882 0.979 0.948 0.994 0.971 0.802 0.993 0.984 0.821 0.958 0.999 0.994 0.874 0.739 0.947 0.994 0.967 0.999 0.764 0.952 0.340 1.000
+score1: -17506.921875 (AM: -17126.302734  LM: -380.619629)

@@ -1,0 +1,5 @@
+sentence1: <s> umjerena do poja~ana bura </s>
+wseq1: <s> umjerena do poja~ana bura </s>
+phseq1: sil | u m j e r e n a | d o | p o j a C a n a | b u r a | sil
+cmscore1: 0.844 0.917 0.958 0.996 0.636 1.000
+score1: -3916.151611 (AM: -3816.006836  LM: -100.144806)

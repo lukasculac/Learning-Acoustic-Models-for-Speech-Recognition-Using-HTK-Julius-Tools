@@ -1,0 +1,5 @@
+sentence1: <s> a danju u gorskome kotaru lici i dalmatinskome zale}u <uzdah> vjetar slab na jadranu mjestimice umjeren maestral </s>
+wseq1: <s> a danju u gorskome kotaru lici i dalmatinskome zale}u <uzdah> vjetar slab na jadranu mjestimice umjeren maestral </s>
+phseq1: sil | a | d a N u | u | g o r s k o m e | k o t a r u | l i c i | i | d a l m a t i n s k o m e | z a l e dz u | uzdah | v j e t a r | s l a b | n a | j a d r a n u | m j e s t i m i c e | u m j e r e n | m a e s t r a l | sil
+cmscore1: 0.974 0.872 0.944 0.896 0.361 0.821 1.000 0.875 1.000 0.393 0.938 1.000 0.789 0.956 0.950 0.993 0.984 0.675 1.000
+score1: -16131.881836 (AM: -15858.109375  LM: -273.772797)

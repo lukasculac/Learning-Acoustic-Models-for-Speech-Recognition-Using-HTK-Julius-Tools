@@ -1,0 +1,5 @@
+sentence1: <s> a na jadranu ve^inom jaka bura s olujnim u no^i mjestimice i orkanskim udarima </s>
+wseq1: <s> a na jadranu ve^inom jaka bura s olujnim u no^i mjestimice i orkanskim udarima </s>
+phseq1: sil | a | n a | j a d r a n u | v e Cc i n o m | j a k a | b u r a | s | o l u j n i m | u | n o Cc i | m j e s t i m i c e | i | o r k a n s k i m | u d a r i m a | sil
+cmscore1: 0.964 0.959 0.986 0.989 0.689 1.000 0.983 0.987 0.034 0.996 0.940 0.993 0.964 0.999 0.174 1.000
+score1: -13993.746094 (AM: -13697.934570  LM: -295.811981)

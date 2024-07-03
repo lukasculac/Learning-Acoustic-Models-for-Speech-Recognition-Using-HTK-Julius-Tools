@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za slijede^ih dvanaest sati <uzdah> slaba do umjerena bura i sjeverozapadnjak more malo do umjereno valovito samo na otvorenom ju`nog jadrana <uzdah> </s>
+wseq1: <s> vremenska prognoza za slijede^ih dvanaest sati <uzdah> slaba do umjerena bura i sjeverozapadnjak more malo do umjereno valovito samo na otvorenom ju`nog jadrana <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s l i j e d e Cc i h | d v a n a e s t | s a t i | uzdah | s l a b a | d o | u m j e r e n a | b u r a | i | s j e v e r o z a p a d N a k | m o r e | m a l o | d o | u m j e r e n o | v a l o v i t o | s a m o | n a | o t v o r e n o m | j u Z n o g | j a d r a n a | uzdah | sil
+cmscore1: 0.940 0.999 0.997 0.998 0.612 0.999 0.737 0.643 0.998 0.954 0.998 0.996 0.992 0.924 0.995 0.998 0.994 0.991 0.474 0.986 0.551 0.856 0.983 0.613 0.986 1.000
+score1: -23206.929688 (AM: -22814.242188  LM: -392.686859)

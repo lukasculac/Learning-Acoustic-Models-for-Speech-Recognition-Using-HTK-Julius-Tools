@@ -1,0 +1,5 @@
+sentence1: <s> dnevna od dvadeset jedan do dvadeset {est stupnjeva </s>
+wseq1: <s> dnevna od dvadeset jedan do dvadeset {est stupnjeva </s>
+phseq1: sil | d n e v n a | o d | d v a d e s e t | j e d a n | d o | d v a d e s e t | S e s t | s t u p N e v a | sil
+cmscore1: 0.707 0.980 0.892 0.977 0.993 0.960 0.993 0.996 0.765 1.000
+score1: -8977.638672 (AM: -8819.825195  LM: -157.813187)

@@ -1,0 +1,5 @@
+sentence1: <s> drava osijek minus sedam tri minus sedamdeset tri </s>
+wseq1: <s> drava osijek minus sedam tri minus sedamdeset tri </s>
+phseq1: sil | d r a v a | o s i j e k | m i n u s | s e d a m | t r i | m i n u s | s e d a m d e s e t | t r i | sil
+cmscore1: 0.860 0.999 0.620 0.875 0.897 0.658 0.972 0.958 0.798 1.000
+score1: -11025.484375 (AM: -10791.799805  LM: -233.684402)

@@ -1,0 +1,5 @@
+sentence1: <s> vjetar slab u gorju povremeno umjeren jugozapadni i zapadni </s>
+wseq1: <s> vjetar slab u gorju povremeno umjeren jugozapadni i zapadni </s>
+phseq1: sil | v j e t a r | s l a b | u | g o r j u | p o v r e m e n o | u m j e r e n | j u g o z a p a d n i | i | z a p a d n i | sil
+cmscore1: 0.890 0.997 0.955 0.967 0.992 0.991 0.839 1.000 0.968 0.115 1.000
+score1: -9496.036133 (AM: -9326.485352  LM: -169.550400)

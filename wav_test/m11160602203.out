@@ -1,0 +1,5 @@
+sentence1: <s> na otvorenom moru sjeverozapadni vjetar ~etiri do dvanaest ~vorova <uzdah> more jedan do dva na otvorenom srednjeg i ju`nog jadrana te ponegdje uz obalu tijekom poslijepodne na dva do tri </s>
+wseq1: <s> na otvorenom moru sjeverozapadni vjetar ~etiri do dvanaest ~vorova <uzdah> more jedan do dva na otvorenom srednjeg i ju`nog jadrana te ponegdje uz obalu tijekom poslijepodne na dva do tri </s>
+phseq1: sil | n a | o t v o r e n o m | m o r u | s j e v e r o z a p a d n i | v j e t a r | C e t i r i | d o | d v a n a e s t | C v o r o v a | uzdah | m o r e | j e d a n | d o | d v a | n a | o t v o r e n o m | s r e d N e g | i | j u Z n o g | j a d r a n a | t e | p o n e g d j e | u z | o b a l u | t i j e k o m | p o s l i j e p o d n e | n a | d v a | d o | t r i | sil
+cmscore1: 1.000 0.990 0.979 0.990 0.998 0.885 1.000 0.994 0.941 0.993 0.570 0.994 0.998 0.982 0.893 0.507 0.999 0.989 0.719 0.945 0.052 0.792 0.970 1.000 0.674 0.919 0.996 0.360 0.999 0.857 0.626 1.000
+score1: -23662.873047 (AM: -23112.085938  LM: -550.788025)

@@ -1,0 +1,5 @@
+sentence1: <s> najvi{a je od deset do {esnaest sati a no^u je umjerena <uzdah> </s>
+wseq1: <s> najvi{a je od deset do {esnaest sati a no^u je umjerena <uzdah> </s>
+phseq1: sil | n a j v i S a | j e | o d | d e s e t | d o | S e s n a e s t | s a t i | a | n o Cc u | j e | u m j e r e n a | uzdah | sil
+cmscore1: 0.954 0.603 0.362 0.984 0.978 0.951 0.997 0.827 0.953 0.636 0.537 0.773 0.939 1.000
+score1: -12846.987305 (AM: -12438.988281  LM: -407.998810)

@@ -1,0 +1,5 @@
+sentence1: <s> plitka dolina sa zapada usporeno se {iri prema jadranu gdje polje povi{enog tlaka polako slabi </s>
+wseq1: <s> plitka dolina sa zapada usporeno se {iri prema jadranu gdje polje povi{enog tlaka polako slabi </s>
+phseq1: sil | p l i t k a | d o l i n a | s a | z a p a d a | u s p o r e n o | s e | S i r i | p r e m a | j a d r a n u | g d j e | p o L e | p o v i S e n o g | t l a k a | p o l a k o | s l a b i | sil
+cmscore1: 0.695 1.000 0.845 0.912 0.906 0.998 0.949 0.964 0.998 0.949 0.988 1.000 0.988 0.975 0.998 0.120 1.000
+score1: -15618.687500 (AM: -15349.523438  LM: -269.163574)

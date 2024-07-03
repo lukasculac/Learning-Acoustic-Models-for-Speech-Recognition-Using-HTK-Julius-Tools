@@ -1,0 +1,5 @@
+sentence1: <s> u po~etku kod senja jo{ udari bure na jugu jadrana levanta trideset do trideset osam ~vorova <uzdah> polako ^e slabiti prestati </s>
+wseq1: <s> u po~etku kod senja jo{ udari bure na jugu jadrana levanta trideset do trideset osam ~vorova <uzdah> polako ^e slabiti prestati </s>
+phseq1: sil | u | p o C e t k u | k o d | s e N a | j o S | u d a r i | b u r e | n a | j u g u | j a d r a n a | l e v a n t a | t r i d e s e t | d o | t r i d e s e t | o s a m | C v o r o v a | uzdah | p o l a k o | Cc e | s l a b i t i | p r e s t a t i | sil
+cmscore1: 0.819 0.959 0.200 0.992 0.073 0.998 0.997 0.110 0.968 0.944 0.181 0.999 0.996 0.852 0.994 0.994 0.946 0.528 1.000 0.991 0.235 0.991 1.000
+score1: -21580.332031 (AM: -20996.240234  LM: -584.091614)

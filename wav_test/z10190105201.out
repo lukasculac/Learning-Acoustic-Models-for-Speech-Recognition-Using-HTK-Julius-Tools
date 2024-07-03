@@ -1,0 +1,5 @@
+sentence1: <s> biometeorolo{ka prognoza za sutra prilike ^e biti razmjerno povoljne pa ^e pote{ko^e uzrokovane vremenom biti slabije izra`ene u odnosu na prethodne dane </s>
+wseq1: <s> biometeorolo{ka prognoza za sutra prilike ^e biti razmjerno povoljne pa ^e pote{ko^e uzrokovane vremenom biti slabije izra`ene u odnosu na prethodne dane </s>
+phseq1: sil | b i o m e t e o r o l o S k a | p r o g n o z a | z a | s u t r a | p r i l i k e | Cc e | b i t i | r a z m j e r n o | p o v o L n e | p a | Cc e | p o t e S k o Cc e | u z r o k o v a n e | v r e m e n o m | b i t i | s l a b i j e | i z r a Z e n e | u | o d n o s u | n a | p r e t h o d n e | d a n e | sil
+cmscore1: 0.991 0.999 1.000 0.970 0.501 0.985 0.845 0.993 0.986 0.979 0.970 0.737 0.999 0.964 0.930 0.993 0.940 1.000 0.473 1.000 0.881 1.000 0.062 1.000
+score1: -23773.175781 (AM: -23437.800781  LM: -335.374756)

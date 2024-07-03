@@ -1,0 +1,5 @@
+sentence1: <s> jutarnja temperatura od ~etiri do devet na jadranu od deset do ~etrnaest stupnjeva dnevna uglavnom od dvadeset jedan do dvadeset {est stupnjeva </s>
+wseq1: <s> jutarnja temperatura od ~etiri do devet na jadranu od deset do ~etrnaest stupnjeva dnevna uglavnom od dvadeset jedan do dvadeset {est stupnjeva </s>
+phseq1: sil | j u t a r N a | t e m p e r a t u r a | o d | C e t i r i | d o | d e v e t | n a | j a d r a n u | o d | d e s e t | d o | C e t r n a e s t | s t u p N e v a | d n e v n a | u g l a v n o m | o d | d v a d e s e t | j e d a n | d o | d v a d e s e t | S e s t | s t u p N e v a | sil
+cmscore1: 0.962 0.998 0.971 0.939 0.999 0.957 0.830 0.997 0.968 0.988 0.998 0.838 1.000 0.768 0.998 0.992 0.871 0.989 0.992 0.956 0.998 0.946 0.752 1.000
+score1: -21353.439453 (AM: -21008.335938  LM: -345.103149)

@@ -1,0 +1,5 @@
+sentence1: <s> vidljivost oko dvadeset kilometara do kraja dana i u no^i djelomice naoblake </s>
+wseq1: <s> vidljivost oko dvadeset kilometara do kraja dana i u no^i djelomice naoblake </s>
+phseq1: sil | v i d L i v o s t | o k o | d v a d e s e t | k i l o m e t a r a | d o | k r a j a | d a n a | i | u | n o Cc i | d j e l o m i c e | n a o b l a k e | sil
+cmscore1: 0.298 0.993 0.968 0.999 0.040 0.993 0.964 0.982 0.962 0.886 0.255 0.982 0.352 1.000
+score1: -13010.628906 (AM: -12672.997070  LM: -337.632019)

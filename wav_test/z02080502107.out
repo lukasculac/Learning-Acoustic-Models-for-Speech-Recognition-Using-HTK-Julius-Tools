@@ -1,0 +1,5 @@
+sentence1: <s> drava terezino polje minus jedan pet sedam minus sto pedeset sedam <uzdah> </s>
+wseq1: <s> drava terezino polje minus jedan pet sedam minus sto pedeset sedam <uzdah> </s>
+phseq1: sil | d r a v a | t e r e z i n o | p o L e | m i n u s | j e d a n | p e t | s e d a m | m i n u s | s t o | p e d e s e t | s e d a m | uzdah | sil
+cmscore1: 0.898 0.994 0.985 0.523 0.973 0.982 0.976 0.950 0.980 0.988 0.971 0.847 0.976 1.000
+score1: -12650.550781 (AM: -12404.333984  LM: -246.217194)

@@ -1,0 +1,5 @@
+sentence1: <s> tegobe zbog vremena mogli bi imati i kroni~ni bolesnici </s>
+wseq1: <s> tegobe zbog vremena mogli bi imati i kroni~ni bolesnici </s>
+phseq1: sil | t e g o b e | z b o g | v r e m e n a | m o g l i | b i | i m a t i | i | k r o n i C n i | b o l e s n i c i | sil
+cmscore1: 0.855 0.999 0.997 0.985 0.983 0.250 0.997 0.897 1.000 0.196 1.000
+score1: -10033.453125 (AM: -9874.704102  LM: -158.749207)

@@ -1,0 +1,5 @@
+sentence1: <s> anticiklonalno polje nad jadranom polako ^e slabiti <sil> vremenska prognoza za jadran za prvih dvanaest sati <uzdah> </s>
+wseq1: <s> anticiklonalno polje nad jadranom polako ^e slabiti <sil> vremenska prognoza za jadran za prvih dvanaest sati <uzdah> </s>
+phseq1: sil | a n t i c i k l o n a l n o | p o L e | n a d | j a d r a n o m | p o l a k o | Cc e | s l a b i t i | sil | v r e m e n s k a | p r o g n o z a | z a | j a d r a n | z a | p r v i h | d v a n a e s t | s a t i | uzdah | sil
+cmscore1: 1.000 1.000 0.930 0.987 0.829 0.999 0.994 0.970 0.070 1.000 1.000 0.967 0.998 0.900 0.999 0.999 0.807 0.764 1.000
+score1: -17129.917969 (AM: -16854.816406  LM: -275.101166)

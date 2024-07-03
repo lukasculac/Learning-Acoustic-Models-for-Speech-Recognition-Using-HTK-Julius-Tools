@@ -1,0 +1,5 @@
+sentence1: <s> izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda upozorenje <uzdah> </s>
+wseq1: <s> izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda upozorenje <uzdah> </s>
+phseq1: sil | i z v j e S t a j | p o m o r s k o g | m e t e o r o l o S k o g | c e n t r a | s p l i t | d r Z a v n o g a | h i d r o m e t e o r o l o S k o g | z a v o d a | u p o z o r e N e | uzdah | sil
+cmscore1: 1.000 0.887 0.967 0.935 0.985 0.918 0.958 0.980 0.950 0.852 0.984 1.000
+score1: -15284.500977 (AM: -15146.104492  LM: -138.396011)

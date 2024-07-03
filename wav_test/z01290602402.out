@@ -1,0 +1,5 @@
+sentence1: <s> ujutro ponegdje sumaglica i magla ponajprije uz rijeke <uzdah> vjetar slab u no^i i ujutro na jadranu umjerena podno velebita i jaka bura s olujnim udarima <uzdah> </s>
+wseq1: <s> ujutro ponegdje sumaglica i magla ponajprije uz rijeke <uzdah> vjetar slab u no^i i ujutro na jadranu umjerena podno velebita i jaka bura s olujnim udarima <uzdah> </s>
+phseq1: sil | u j u t r o | p o n e g d j e | s u m a g l i c a | i | m a g l a | p o n a j p r i j e | u z | r i j e k e | uzdah | v j e t a r | s l a b | u | n o Cc i | i | u j u t r o | n a | j a d r a n u | u m j e r e n a | p o d n o | v e l e b i t a | i | j a k a | b u r a | s | o l u j n i m | u d a r i m a | uzdah | sil
+cmscore1: 0.881 0.996 0.956 0.995 0.920 0.995 0.994 0.989 0.022 0.991 0.999 0.615 0.992 0.994 0.797 0.740 0.997 0.948 0.924 0.987 0.939 0.995 1.000 0.990 0.972 0.990 0.496 0.955 1.000
+score1: -23461.591797 (AM: -22998.089844  LM: -463.501251)

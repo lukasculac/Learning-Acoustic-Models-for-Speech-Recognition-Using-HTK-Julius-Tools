@@ -1,0 +1,5 @@
+sentence1: <s> umjerena do jaka bura brzo ^e oslabjeti i okrenuti na umjerena dijelu srednjeg i ju`nog jadrana ponegdje kratkotrajno i jak sjeverozapadnjak </s>
+wseq1: <s> umjerena do jaka bura brzo ^e oslabjeti i okrenuti na umjerena dijelu srednjeg i ju`nog jadrana ponegdje kratkotrajno i jak sjeverozapadnjak </s>
+phseq1: sil | u m j e r e n a | d o | j a k a | b u r a | b r z o | Cc e | o s l a b j e t i | i | o k r e n u t i | n a | u m j e r e n a | d i j e l u | s r e d N e g | i | j u Z n o g | j a d r a n a | p o n e g d j e | k r a t k o t r a j n o | i | j a k | s j e v e r o z a p a d N a k | sil
+cmscore1: 0.984 0.999 0.938 0.997 0.893 0.987 0.973 0.997 0.815 0.998 0.397 0.509 1.000 0.992 0.938 0.993 0.959 0.984 0.804 0.961 0.997 0.830 1.000
+score1: -19789.263672 (AM: -19343.171875  LM: -446.091522)

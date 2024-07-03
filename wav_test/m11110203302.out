@@ -1,0 +1,5 @@
+sentence1: <s> ve^inom s umjerenom a na ju`nom dijelu mjestimice i pove^anom naoblakom <uzdah> vjetar slab do umjeren sjeveroisto~njak a na jadranu umjerena i jaka bura </s>
+wseq1: <s> ve^inom s umjerenom a na ju`nom dijelu mjestimice i pove^anom naoblakom <uzdah> vjetar slab do umjeren sjeveroisto~njak a na jadranu umjerena i jaka bura </s>
+phseq1: sil | v e Cc i n o m | s | u m j e r e n o m | a | n a | j u Z n o m | d i j e l u | m j e s t i m i c e | i | p o v e Cc a n o m | n a o b l a k o m | uzdah | v j e t a r | s l a b | d o | u m j e r e n | s j e v e r o i s t o C N a k | a | n a | j a d r a n u | u m j e r e n a | i | j a k a | b u r a | sil
+cmscore1: 0.840 0.999 0.991 0.604 0.803 0.676 0.995 0.988 0.997 0.501 1.000 0.644 0.973 0.999 0.995 0.824 0.889 0.972 0.632 0.985 0.985 0.996 0.793 0.998 0.323 1.000
+score1: -21966.158203 (AM: -21565.394531  LM: -400.762787)

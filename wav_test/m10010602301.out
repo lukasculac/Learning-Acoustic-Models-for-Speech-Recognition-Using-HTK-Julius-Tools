@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za sutra u ve^ini predjela prete`ito sun~ano mjestimice umjerena naoblaka uz mogu^nost kratkotrajne ki{e i pljuskova i to na jadranu <uzdah> </s>
+wseq1: <s> vremenska prognoza za sutra u ve^ini predjela prete`ito sun~ano mjestimice umjerena naoblaka uz mogu^nost kratkotrajne ki{e i pljuskova i to na jadranu <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s u t r a | u | v e Cc i n i | p r e d j e l a | p r e t e Z i t o | s u n C a n o | m j e s t i m i c e | u m j e r e n a | n a o b l a k a | u z | m o g u Cc n o s t | k r a t k o t r a j n e | k i S e | i | p L u s k o v a | i | t o | n a | j a d r a n u | uzdah | sil
+cmscore1: 0.896 1.000 1.000 0.991 0.938 0.996 0.995 0.842 0.994 0.927 0.999 0.972 0.981 0.996 0.986 0.980 0.987 0.832 0.957 0.553 0.238 0.499 0.798 0.944 1.000
+score1: -22305.796875 (AM: -21902.218750  LM: -403.578003)

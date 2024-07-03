@@ -1,0 +1,5 @@
+sentence1: <s> jugo deset do dvadeset mjestimice do dvadeset ~etiri na sjevernom jadranu skrenut ^e na jugozapadnjak <uzdah> osam do {esnaest ~vorova </s>
+wseq1: <s> jugo deset do dvadeset mjestimice do dvadeset ~etiri na sjevernom jadranu skrenut ^e na jugozapadnjak <uzdah> osam do {esnaest ~vorova </s>
+phseq1: sil | j u g o | d e s e t | d o | d v a d e s e t | m j e s t i m i c e | d o | d v a d e s e t | C e t i r i | n a | s j e v e r n o m | j a d r a n u | s k r e n u t | Cc e | n a | j u g o z a p a d N a k | uzdah | o s a m | d o | S e s n a e s t | C v o r o v a | sil
+cmscore1: 0.930 0.847 0.999 0.445 0.966 0.993 0.975 0.977 0.661 0.999 0.970 0.950 0.999 0.955 0.853 0.952 0.073 1.000 0.889 0.996 0.367 1.000
+score1: -19816.244141 (AM: -19415.257813  LM: -400.985962)

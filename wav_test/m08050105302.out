@@ -1,0 +1,5 @@
+sentence1: <s> zbog povoljnoga biometeorolo{kog utjecaja u cijeloj zemlji ve^ina ^e ljudi biti dobro raspolo`ena </s>
+wseq1: <s> zbog povoljnoga biometeorolo{kog utjecaja u cijeloj zemlji ve^ina ^e ljudi biti dobro raspolo`ena </s>
+phseq1: sil | z b o g | p o v o L n o g a | b i o m e t e o r o l o S k o g | u t j e c a j a | u | c i j e l o j | z e m L i | v e Cc i n a | Cc e | L u d i | b i t i | d o b r o | r a s p o l o Z e n a | sil
+cmscore1: 0.948 0.992 0.888 0.963 0.689 0.916 0.999 0.677 0.998 0.990 0.997 0.997 0.990 0.005 1.000
+score1: -14535.241211 (AM: -14310.467773  LM: -224.773193)

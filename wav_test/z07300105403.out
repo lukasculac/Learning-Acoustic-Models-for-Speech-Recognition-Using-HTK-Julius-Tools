@@ -1,0 +1,5 @@
+sentence1: <s> na jadranu u no^i i prijepodne umjerena i jaka u dalmaciji mjestimice olujna bura <uzdah> </s>
+wseq1: <s> na jadranu u no^i i prijepodne umjerena i jaka u dalmaciji mjestimice olujna bura <uzdah> </s>
+phseq1: sil | n a | j a d r a n u | u | n o Cc i | i | p r i j e p o d n e | u m j e r e n a | i | j a k a | u | d a l m a c i j i | m j e s t i m i c e | o l u j n a | b u r a | uzdah | sil
+cmscore1: 0.799 0.997 0.829 0.998 0.999 0.651 0.999 0.997 0.940 0.772 0.959 0.991 0.903 0.997 0.722 0.946 1.000
+score1: -13285.918945 (AM: -13027.414063  LM: -258.505188)

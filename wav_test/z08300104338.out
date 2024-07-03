@@ -1,0 +1,5 @@
+sentence1: <s> na otvorenom moru sjeverni i sjeverozapadni vjetar deset do dvadeset ~vorova <uzdah> </s>
+wseq1: <s> na otvorenom moru sjeverni i sjeverozapadni vjetar deset do dvadeset ~vorova <uzdah> </s>
+phseq1: sil | n a | o t v o r e n o m | m o r u | s j e v e r n i | i | s j e v e r o z a p a d n i | v j e t a r | d e s e t | d o | d v a d e s e t | C v o r o v a | uzdah | sil
+cmscore1: 0.942 0.998 0.971 0.978 1.000 0.653 0.996 0.859 1.000 0.989 0.979 0.966 0.661 1.000
+score1: -11142.812500 (AM: -10934.584961  LM: -208.227615)

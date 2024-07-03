@@ -1,0 +1,5 @@
+sentence1: <s> more malo do umjereno valovito temperatura bez promjene ili malo vi{a </s>
+wseq1: <s> more malo do umjereno valovito temperatura bez promjene ili malo vi{a </s>
+phseq1: sil | m o r e | m a l o | d o | u m j e r e n o | v a l o v i t o | t e m p e r a t u r a | b e z | p r o m j e n e | i l i | m a l o | v i S a | sil
+cmscore1: 1.000 0.986 0.999 0.986 0.962 0.733 0.982 0.996 0.974 0.420 0.991 0.494 1.000
+score1: -13387.910156 (AM: -13229.336914  LM: -158.572815)

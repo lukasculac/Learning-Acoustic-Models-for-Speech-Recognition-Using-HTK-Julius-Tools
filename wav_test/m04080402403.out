@@ -1,0 +1,5 @@
+sentence1: <s> <uzdah> prostrana dolina {iri se sa zapada jugozapada preko ligurskog i tirenskog mora prema jadranu gdje slabit polje povi{enog tlaka </s>
+wseq1: <s> <uzdah> prostrana dolina {iri se sa zapada jugozapada preko ligurskog i tirenskog mora prema jadranu gdje slabit polje povi{enog tlaka </s>
+phseq1: sil | uzdah | p r o s t r a n a | d o l i n a | S i r i | s e | s a | z a p a d a | j u g o z a p a d a | p r e k o | l i g u r s k o g | i | t i r e n s k o g | m o r a | p r e m a | j a d r a n u | g d j e | s l a b i t | p o L e | p o v i S e n o g | t l a k a | sil
+cmscore1: 0.879 0.850 0.993 0.557 0.988 0.932 0.982 0.142 0.998 0.033 1.000 0.958 0.998 0.023 0.995 0.405 0.206 0.352 1.000 0.934 0.203 1.000
+score1: -21134.609375 (AM: -20545.552734  LM: -589.055969)

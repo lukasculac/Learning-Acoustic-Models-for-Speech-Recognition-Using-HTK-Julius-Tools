@@ -1,0 +1,5 @@
+sentence1: <s> zato ^e se promjenljivo obla~no i nestabilno vrijeme mjestimice ki{a ili pljuskovi mogu^a i grmljavina </s>
+wseq1: <s> zato ^e se promjenljivo obla~no i nestabilno vrijeme mjestimice ki{a ili pljuskovi mogu^a i grmljavina </s>
+phseq1: sil | z a t o | Cc e | s e | p r o m j e n L i v o | o b l a C n o | i | n e s t a b i l n o | v r i j e m e | m j e s t i m i c e | k i S a | i l i | p L u s k o v i | m o g u Cc a | i | g r m L a v i n a | sil
+cmscore1: 0.977 0.004 0.950 0.804 0.641 0.984 0.929 0.938 0.205 1.000 0.288 0.985 0.783 0.975 0.290 0.774 1.000
+score1: -13639.926758 (AM: -13310.391602  LM: -329.535583)

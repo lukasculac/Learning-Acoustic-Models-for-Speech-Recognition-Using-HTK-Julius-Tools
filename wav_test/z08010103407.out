@@ -1,0 +1,5 @@
+sentence1: <s> na jadranu jugo u petak razmjerno toplo zatim postupno hladnije </s>
+wseq1: <s> na jadranu jugo u petak razmjerno toplo zatim postupno hladnije </s>
+phseq1: sil | n a | j a d r a n u | j u g o | u | p e t a k | r a z m j e r n o | t o p l o | z a t i m | p o s t u p n o | h l a d n i j e | sil
+cmscore1: 0.747 0.999 0.762 0.546 0.964 0.944 0.975 0.904 0.996 0.976 0.580 1.000
+score1: -12898.832031 (AM: -12681.992188  LM: -216.839996)

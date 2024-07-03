@@ -1,0 +1,5 @@
+sentence1: <s> na sjevernom jadranu u no^i i ujutro ponegdje do jaka bura </s>
+wseq1: <s> na sjevernom jadranu u no^i i ujutro ponegdje do jaka bura </s>
+phseq1: sil | n a | s j e v e r n o m | j a d r a n u | u | n o Cc i | i | u j u t r o | p o n e g d j e | d o | j a k a | b u r a | sil
+cmscore1: 0.939 0.988 0.902 0.783 0.960 0.995 0.836 0.977 0.985 0.974 0.998 0.366 1.000
+score1: -8778.831055 (AM: -8582.504883  LM: -196.326019)

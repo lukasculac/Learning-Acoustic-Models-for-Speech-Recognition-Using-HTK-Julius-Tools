@@ -1,0 +1,5 @@
+sentence1: <s> na ju`nom dijelu srednjeg jadrana jo{ danas poslije podne manja mogu^nost neverina uglavnom du` obale </s>
+wseq1: <s> na ju`nom dijelu srednjeg jadrana jo{ danas poslije podne manja mogu^nost neverina uglavnom du` obale </s>
+phseq1: sil | n a | j u Z n o m | d i j e l u | s r e d N e g | j a d r a n a | j o S | d a n a s | p o s l i j e | p o d n e | m a N a | m o g u Cc n o s t | n e v e r i n a | u g l a v n o m | d u Z | o b a l e | sil
+cmscore1: 0.873 0.940 0.838 0.999 0.992 0.877 1.000 0.984 0.999 0.150 0.997 0.970 0.529 0.991 0.998 0.070 1.000
+score1: -14698.552734 (AM: -14397.838867  LM: -300.713959)

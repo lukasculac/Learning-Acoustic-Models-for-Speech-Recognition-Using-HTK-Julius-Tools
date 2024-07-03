@@ -1,0 +1,5 @@
+sentence1: <s> jutarnja temperatura od minus deset do minus {est stupnjeva <uzdah> a na jadranu od minus jedan na sjevernom do osam na ju`nom </s>
+wseq1: <s> jutarnja temperatura od minus deset do minus {est stupnjeva <uzdah> a na jadranu od minus jedan na sjevernom do osam na ju`nom </s>
+phseq1: sil | j u t a r N a | t e m p e r a t u r a | o d | m i n u s | d e s e t | d o | m i n u s | S e s t | s t u p N e v a | uzdah | a | n a | j a d r a n u | o d | m i n u s | j e d a n | n a | s j e v e r n o m | d o | o s a m | n a | j u Z n o m | sil
+cmscore1: 0.960 0.998 0.982 0.981 0.992 0.998 0.907 0.995 0.996 0.920 0.903 0.834 0.986 0.984 0.916 0.993 0.845 0.907 0.963 0.989 0.878 0.943 0.539 1.000
+score1: -19019.865234 (AM: -18638.558594  LM: -381.306000)

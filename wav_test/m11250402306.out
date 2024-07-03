@@ -1,0 +1,5 @@
+sentence1: <s> more jedan do dva na otvorenom dijelu ju`nog jadrana ponegdje dva do tri </s>
+wseq1: <s> more jedan do dva na otvorenom dijelu ju`nog jadrana ponegdje dva do tri </s>
+phseq1: sil | m o r e | j e d a n | d o | d v a | n a | o t v o r e n o m | d i j e l u | j u Z n o g | j a d r a n a | p o n e g d j e | d v a | d o | t r i | sil
+cmscore1: 0.882 0.998 0.780 0.974 0.897 0.533 0.977 0.722 0.996 0.871 0.987 0.999 0.880 0.738 1.000
+score1: -9478.280273 (AM: -9266.241211  LM: -212.038818)

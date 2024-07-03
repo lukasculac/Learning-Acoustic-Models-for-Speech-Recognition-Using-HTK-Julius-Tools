@@ -1,0 +1,5 @@
+sentence1: <s> jutra i dalje razmjerno hladno uz najni`u temperaturu uglavnom izme}u minus sedam i minus jedan na jadranu od jedan do pet </s>
+wseq1: <s> jutra i dalje razmjerno hladno uz najni`u temperaturu uglavnom izme}u minus sedam i minus jedan na jadranu od jedan do pet </s>
+phseq1: sil | j u t r a | i | d a L e | r a z m j e r n o | h l a d n o | u z | n a j n i Z u | t e m p e r a t u r u | u g l a v n o m | i z m e dz u | m i n u s | s e d a m | i | m i n u s | j e d a n | n a | j a d r a n u | o d | j e d a n | d o | p e t | sil
+cmscore1: 0.301 0.838 0.987 0.985 0.989 0.998 0.987 0.818 0.954 0.996 0.961 0.998 0.978 0.869 0.999 0.571 0.999 0.985 0.949 0.999 0.958 0.944 1.000
+score1: -18379.675781 (AM: -18007.873047  LM: -371.803192)

@@ -1,0 +1,5 @@
+sentence1: <s> zbog pribli`avanja fronte u unutra{njosti ^e prevladavati nepovoljni biometeorolo{ki uvjeti <uzdah> </s>
+wseq1: <s> zbog pribli`avanja fronte u unutra{njosti ^e prevladavati nepovoljni biometeorolo{ki uvjeti <uzdah> </s>
+phseq1: sil | z b o g | p r i b l i Z a v a N a | f r o n t e | u | u n u t r a S N o s t i | Cc e | p r e v l a d a v a t i | n e p o v o L n i | b i o m e t e o r o l o S k i | u v j e t i | uzdah | sil
+cmscore1: 0.788 0.976 0.993 0.690 0.945 0.989 0.991 0.998 0.932 0.997 0.314 0.948 1.000
+score1: -13916.475586 (AM: -13684.001953  LM: -232.473587)

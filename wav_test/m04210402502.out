@@ -1,0 +1,5 @@
+sentence1: <s> <uzdah> i prognoza za slijede^ih dvanaest sati </s>
+wseq1: <s> <uzdah> i prognoza za slijede^ih dvanaest sati </s>
+phseq1: sil | uzdah | i | p r o g n o z a | z a | s l i j e d e Cc i h | d v a n a e s t | s a t i | sil
+cmscore1: 1.000 0.964 0.998 1.000 0.999 0.431 1.000 0.618 1.000
+score1: -6873.097656 (AM: -6742.781250  LM: -130.316406)

@@ -1,0 +1,5 @@
+sentence1: <s> mogli imati kroni~ni bolesnici pa se bolesnicima s krvo`ilnim bolestima astmati~arima i reumati~arima preporu~uje izbjegavanje napore </s>
+wseq1: <s> mogli imati kroni~ni bolesnici pa se bolesnicima s krvo`ilnim bolestima astmati~arima i reumati~arima preporu~uje izbjegavanje napore </s>
+phseq1: sil | m o g l i | i m a t i | k r o n i C n i | b o l e s n i c i | p a | s e | b o l e s n i c i m a | s | k r v o Z i l n i m | b o l e s t i m a | a s t m a t i C a r i m a | i | r e u m a t i C a r i m a | p r e p o r u C u j e | i z b j e g a v a N e | n a p o r e | sil
+cmscore1: 1.000 0.982 0.672 0.999 0.167 0.826 0.136 0.931 0.911 1.000 0.022 0.950 0.603 0.977 0.425 0.933 0.618 1.000
+score1: -21043.679688 (AM: -20355.527344  LM: -688.151978)

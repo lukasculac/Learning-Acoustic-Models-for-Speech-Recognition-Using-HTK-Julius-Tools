@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za sutra sun~ano i malo toplije ujutro u unutra{njosti mjestimice magla a danju na sjevernom jadranu te u zapadnim i sjeverozapadnim kopnenim podru~jima </s>
+wseq1: <s> vremenska prognoza za sutra sun~ano i malo toplije ujutro u unutra{njosti mjestimice magla a danju na sjevernom jadranu te u zapadnim i sjeverozapadnim kopnenim podru~jima </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s u t r a | s u n C a n o | i | m a l o | t o p l i j e | u j u t r o | u | u n u t r a S N o s t i | m j e s t i m i c e | m a g l a | a | d a N u | n a | s j e v e r n o m | j a d r a n u | t e | u | z a p a d n i m | i | s j e v e r o z a p a d n i m | k o p n e n i m | p o d r u C j i m a | sil
+cmscore1: 0.905 0.998 1.000 0.995 0.952 0.982 0.937 0.991 0.740 0.996 0.715 0.995 0.984 0.886 0.806 0.467 0.928 0.991 0.970 0.786 0.898 0.875 0.948 0.927 1.000 0.052 1.000
+score1: -24814.535156 (AM: -24396.515625  LM: -418.019989)

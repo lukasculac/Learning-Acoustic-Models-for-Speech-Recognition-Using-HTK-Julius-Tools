@@ -1,0 +1,5 @@
+sentence1: <s> a na ve^em dijelu jadrana jugo ^e ja~ati <uzdah> jutarnja temperatura od minus jedan do ~etiri na jadranu izme}u pet i deset stupnjeva <uzdah> </s>
+wseq1: <s> a na ve^em dijelu jadrana jugo ^e ja~ati <uzdah> jutarnja temperatura od minus jedan do ~etiri na jadranu izme}u pet i deset stupnjeva <uzdah> </s>
+phseq1: sil | a | n a | v e Cc e m | d i j e l u | j a d r a n a | j u g o | Cc e | j a C a t i | uzdah | j u t a r N a | t e m p e r a t u r a | o d | m i n u s | j e d a n | d o | C e t i r i | n a | j a d r a n u | i z m e dz u | p e t | i | d e s e t | s t u p N e v a | uzdah | sil
+cmscore1: 1.000 0.913 0.962 0.999 0.981 0.889 0.997 0.984 0.913 0.955 0.999 0.968 0.963 0.993 0.989 0.960 0.874 0.997 0.990 0.986 0.998 0.991 0.341 0.957 0.971 1.000
+score1: -18986.037109 (AM: -18587.431641  LM: -398.606415)

@@ -1,0 +1,5 @@
+sentence1: <s> <uzdah> burin na otvorenom moru sjeverozapadnjak pet do trinaest ~vorova </s>
+wseq1: <s> <uzdah> burin na otvorenom moru sjeverozapadnjak pet do trinaest ~vorova </s>
+phseq1: sil | uzdah | b u r i n | n a | o t v o r e n o m | m o r u | s j e v e r o z a p a d N a k | p e t | d o | t r i n a e s t | C v o r o v a | sil
+cmscore1: 1.000 0.375 0.996 0.905 0.949 0.988 0.555 0.978 0.579 0.838 0.511 1.000
+score1: -9350.042969 (AM: -9109.023438  LM: -241.020004)

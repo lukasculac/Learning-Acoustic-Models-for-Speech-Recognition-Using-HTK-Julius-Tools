@@ -1,0 +1,5 @@
+sentence1: <s> a tijekom no^i u slabljenju na {est do {esnaest ~vorova </s>
+wseq1: <s> a tijekom no^i u slabljenju na {est do {esnaest ~vorova </s>
+phseq1: sil | a | t i j e k o m | n o Cc i | u | s l a b L e N u | n a | S e s t | d o | S e s n a e s t | C v o r o v a | sil
+cmscore1: 0.882 0.979 0.996 0.974 0.608 0.999 0.563 0.998 0.740 0.969 0.332 1.000
+score1: -7192.557617 (AM: -7004.193848  LM: -188.363998)

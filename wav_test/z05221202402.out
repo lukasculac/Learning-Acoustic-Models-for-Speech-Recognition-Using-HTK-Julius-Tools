@@ -1,0 +1,5 @@
+sentence1: <s> potkraj dana sa zapada nova naoblaka <uzdah> </s>
+wseq1: <s> potkraj dana sa zapada nova naoblaka <uzdah> </s>
+phseq1: sil | p o t k r a j | d a n a | s a | z a p a d a | n o v a | n a o b l a k a | uzdah | sil
+cmscore1: 0.937 0.992 0.680 0.580 0.877 0.953 0.821 0.875 1.000
+score1: -7469.269043 (AM: -7317.399414  LM: -151.869598)

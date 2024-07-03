@@ -1,0 +1,5 @@
+sentence1: <s> slab do umjeren sjeverozapadnjak a na ju`nom jadranu jo{ u po~etku slabo do umjereno jugo i jugozapadnjak more malo do umjereno valovito svje`ije </s>
+wseq1: <s> slab do umjeren sjeverozapadnjak a na ju`nom jadranu jo{ u po~etku slabo do umjereno jugo i jugozapadnjak more malo do umjereno valovito svje`ije </s>
+phseq1: sil | s l a b | d o | u m j e r e n | s j e v e r o z a p a d N a k | a | n a | j u Z n o m | j a d r a n u | j o S | u | p o C e t k u | s l a b o | d o | u m j e r e n o | j u g o | i | j u g o z a p a d N a k | m o r e | m a l o | d o | u m j e r e n o | v a l o v i t o | s v j e Z i j e | sil
+cmscore1: 0.942 1.000 0.233 0.983 0.780 0.835 0.889 0.992 0.926 0.992 0.797 0.999 0.998 0.771 0.977 0.958 0.796 0.603 0.991 0.999 0.912 0.972 0.839 0.850 1.000
+score1: -21395.474609 (AM: -21020.132813  LM: -375.340820)

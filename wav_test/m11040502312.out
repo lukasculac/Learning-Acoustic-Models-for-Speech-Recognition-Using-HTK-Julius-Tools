@@ -1,0 +1,5 @@
+sentence1: <s> jugo od ~etrnaest do dvadeset osam ~vorova ^e oslabjeti <uzdah> a zatim ve^inom jugozapadni i zapadni vjetar {est do osamnaest ~vorova </s>
+wseq1: <s> jugo od ~etrnaest do dvadeset osam ~vorova ^e oslabjeti <uzdah> a zatim ve^inom jugozapadni i zapadni vjetar {est do osamnaest ~vorova </s>
+phseq1: sil | j u g o | o d | C e t r n a e s t | d o | d v a d e s e t | o s a m | C v o r o v a | Cc e | o s l a b j e t i | uzdah | a | z a t i m | v e Cc i n o m | j u g o z a p a d n i | i | z a p a d n i | v j e t a r | S e s t | d o | o s a m n a e s t | C v o r o v a | sil
+cmscore1: 0.778 0.950 0.707 0.939 0.602 0.993 0.999 0.997 0.996 0.686 0.852 0.985 0.982 0.993 1.000 0.958 0.995 0.491 0.996 0.453 0.168 0.817 1.000
+score1: -19103.564453 (AM: -18715.150391  LM: -388.413605)

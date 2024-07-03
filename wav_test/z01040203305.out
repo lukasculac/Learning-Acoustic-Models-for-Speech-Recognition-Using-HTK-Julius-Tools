@@ -1,0 +1,5 @@
+sentence1: <s> u drugom dijelu dana oborine posvuda trebali prestati </s>
+wseq1: <s> u drugom dijelu dana oborine posvuda trebali prestati </s>
+phseq1: sil | u | d r u g o m | d i j e l u | d a n a | o b o r i n e | p o s v u d a | t r e b a l i | p r e s t a t i | sil
+cmscore1: 0.914 0.953 0.983 0.986 0.570 0.340 0.910 0.535 0.996 1.000
+score1: -8165.216797 (AM: -7848.534180  LM: -316.682434)

@@ -1,0 +1,5 @@
+sentence1: <s> sava slavonski brod {est {est ~etiri {est {ezdeset ~etiri </s>
+wseq1: <s> sava slavonski brod {est {est ~etiri {est {ezdeset ~etiri </s>
+phseq1: sil | s a v a | s l a v o n s k i | b r o d | S e s t | S e s t | C e t i r i | S e s t | S e z d e s e t | C e t i r i | sil
+cmscore1: 0.771 0.999 0.990 0.280 0.943 0.966 0.935 0.854 0.998 0.436 1.000
+score1: -10975.638672 (AM: -10718.757813  LM: -256.880402)

@@ -1,0 +1,5 @@
+sentence1: <s> vjetar slab i umjeren sjeverni i sjeveroisto~ni a na jadranu umjerena do jaka na sjevernom i srednjem ponegdje vrlo jaka bura </s>
+wseq1: <s> vjetar slab i umjeren sjeverni i sjeveroisto~ni a na jadranu umjerena do jaka na sjevernom i srednjem ponegdje vrlo jaka bura </s>
+phseq1: sil | v j e t a r | s l a b | i | u m j e r e n | s j e v e r n i | i | s j e v e r o i s t o C n i | a | n a | j a d r a n u | u m j e r e n a | d o | j a k a | n a | s j e v e r n o m | i | s r e d N e m | p o n e g d j e | v r l o | j a k a | b u r a | sil
+cmscore1: 0.985 0.998 0.997 0.905 1.000 0.999 0.925 0.999 0.019 0.985 0.976 0.998 0.986 0.331 0.996 0.999 0.991 0.983 0.997 0.965 0.993 0.498 1.000
+score1: -17271.478516 (AM: -16957.488281  LM: -313.990784)

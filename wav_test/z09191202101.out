@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za poslijepodne <uzdah> </s>
+wseq1: <s> vremenska prognoza za poslijepodne <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | p o s l i j e p o d n e | uzdah | sil
+cmscore1: 0.959 0.997 0.994 0.980 0.609 0.993 1.000
+score1: -6317.620117 (AM: -6213.828613  LM: -103.791611)

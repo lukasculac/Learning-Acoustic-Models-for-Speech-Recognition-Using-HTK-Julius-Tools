@@ -1,0 +1,5 @@
+sentence1: <s> <uzdah> no^u uz obalu tiho ili burin ~etiri do trinaest ~vorova more jedan do dva <uzdah> vidljivost poslijepodne i na otvorenom ju`nog jadrana ponegdje dva do tri </s>
+wseq1: <s> <uzdah> no^u uz obalu tiho ili burin ~etiri do trinaest ~vorova more jedan do dva <uzdah> vidljivost poslijepodne i na otvorenom ju`nog jadrana ponegdje dva do tri </s>
+phseq1: sil | uzdah | n o Cc u | u z | o b a l u | t i h o | i l i | b u r i n | C e t i r i | d o | t r i n a e s t | C v o r o v a | m o r e | j e d a n | d o | d v a | uzdah | v i d L i v o s t | p o s l i j e p o d n e | i | n a | o t v o r e n o m | j u Z n o g | j a d r a n a | p o n e g d j e | d v a | d o | t r i | sil
+cmscore1: 0.939 0.820 1.000 0.990 0.944 0.993 0.974 0.951 0.997 0.949 0.999 0.969 0.986 0.995 0.964 0.990 0.950 0.040 0.880 0.871 0.919 0.898 0.991 0.927 0.994 0.997 0.784 0.775 1.000
+score1: -23936.107422 (AM: -23454.568359  LM: -481.539581)

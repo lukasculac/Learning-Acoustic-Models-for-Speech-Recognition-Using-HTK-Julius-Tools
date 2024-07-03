@@ -1,0 +1,5 @@
+sentence1: <s> mjestimice s kratkotrajnom ki{om kra^a sun~ana razdoblja uglavnom u sredi{njim i isto~nim predjelima te na sjevernom jadranu <uzdah> </s>
+wseq1: <s> mjestimice s kratkotrajnom ki{om kra^a sun~ana razdoblja uglavnom u sredi{njim i isto~nim predjelima te na sjevernom jadranu <uzdah> </s>
+phseq1: sil | m j e s t i m i c e | s | k r a t k o t r a j n o m | k i S o m | k r a Cc a | s u n C a n a | r a z d o b L a | u g l a v n o m | u | s r e d i S N i m | i | i s t o C n i m | p r e d j e l i m a | t e | n a | s j e v e r n o m | j a d r a n u | uzdah | sil
+cmscore1: 1.000 0.996 0.763 0.880 0.026 1.000 0.984 0.471 0.922 0.940 0.997 0.453 0.999 0.802 0.638 0.877 0.974 0.480 0.978 1.000
+score1: -19491.515625 (AM: -19116.130859  LM: -375.383942)

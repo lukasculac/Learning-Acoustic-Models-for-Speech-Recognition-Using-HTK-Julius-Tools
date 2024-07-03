@@ -1,0 +1,5 @@
+sentence1: <s> na sjevernom promjenljivo obla~no mjestimice s pljuskovima i grmljavinom <uzdah> </s>
+wseq1: <s> na sjevernom promjenljivo obla~no mjestimice s pljuskovima i grmljavinom <uzdah> </s>
+phseq1: sil | n a | s j e v e r n o m | p r o m j e n L i v o | o b l a C n o | m j e s t i m i c e | s | p L u s k o v i m a | i | g r m L a v i n o m | uzdah | sil
+cmscore1: 0.981 0.998 0.403 0.627 0.991 0.999 0.873 1.000 0.917 0.861 0.916 1.000
+score1: -10290.849609 (AM: -10100.931641  LM: -189.917999)

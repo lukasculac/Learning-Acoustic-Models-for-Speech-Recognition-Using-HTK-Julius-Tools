@@ -1,0 +1,5 @@
+sentence1: <s> jo{ ujutro na ju`nom jadranu uglavnom umjeren ju`ni i jugozapadni vjetar </s>
+wseq1: <s> jo{ ujutro na ju`nom jadranu uglavnom umjeren ju`ni i jugozapadni vjetar </s>
+phseq1: sil | j o S | u j u t r o | n a | j u Z n o m | j a d r a n u | u g l a v n o m | u m j e r e n | j u Z n i | i | j u g o z a p a d n i | v j e t a r | sil
+cmscore1: 0.734 0.984 0.917 0.968 0.993 0.912 0.981 0.985 1.000 0.844 0.996 0.831 1.000
+score1: -9286.045898 (AM: -9023.148438  LM: -262.897186)

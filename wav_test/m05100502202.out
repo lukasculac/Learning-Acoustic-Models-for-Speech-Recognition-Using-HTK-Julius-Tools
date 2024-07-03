@@ -1,0 +1,5 @@
+sentence1: <s> na sjevernom i dijelu srednjeg jadrana ponegdje magla </s>
+wseq1: <s> na sjevernom i dijelu srednjeg jadrana ponegdje magla </s>
+phseq1: sil | n a | s j e v e r n o m | i | d i j e l u | s r e d N e g | j a d r a n a | p o n e g d j e | m a g l a | sil
+cmscore1: 0.992 0.959 0.604 0.106 0.998 0.992 0.469 0.920 0.786 1.000
+score1: -6613.528809 (AM: -6460.470215  LM: -153.058807)

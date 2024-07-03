@@ -1,0 +1,5 @@
+sentence1: <s> more na otvorenom dijelu srednjeg i sjevernog jadrana ponegdje pet </s>
+wseq1: <s> more na otvorenom dijelu srednjeg i sjevernog jadrana ponegdje pet </s>
+phseq1: sil | m o r e | n a | o t v o r e n o m | d i j e l u | s r e d N e g | i | s j e v e r n o g | j a d r a n a | p o n e g d j e | p e t | sil
+cmscore1: 0.925 0.977 0.962 0.615 0.962 0.973 0.900 0.942 0.928 0.938 0.710 1.000
+score1: -9775.005859 (AM: -9587.990234  LM: -187.015213)

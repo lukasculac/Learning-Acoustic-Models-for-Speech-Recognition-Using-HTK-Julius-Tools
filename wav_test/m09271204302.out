@@ -1,0 +1,5 @@
+sentence1: <s> zbog utjecaja ciklone biometeorolo{ki ^e uvjeti biti nepovoljni u cijeloj zemlji </s>
+wseq1: <s> zbog utjecaja ciklone biometeorolo{ki ^e uvjeti biti nepovoljni u cijeloj zemlji </s>
+phseq1: sil | z b o g | u t j e c a j a | c i k l o n e | b i o m e t e o r o l o S k i | Cc e | u v j e t i | b i t i | n e p o v o L n i | u | c i j e l o j | z e m L i | sil
+cmscore1: 0.892 1.000 0.994 0.890 0.998 0.983 0.999 0.985 0.957 0.987 0.998 0.018 1.000
+score1: -11302.818359 (AM: -11114.647461  LM: -188.170792)

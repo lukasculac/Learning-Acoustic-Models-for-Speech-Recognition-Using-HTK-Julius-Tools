@@ -1,0 +1,5 @@
+sentence1: <s> a krajem dana i u no^i mjestimice u sredi{njim i isto~nim predjelima <uzdah> </s>
+wseq1: <s> a krajem dana i u no^i mjestimice u sredi{njim i isto~nim predjelima <uzdah> </s>
+phseq1: sil | a | k r a j e m | d a n a | i | u | n o Cc i | m j e s t i m i c e | u | s r e d i S N i m | i | i s t o C n i m | p r e d j e l i m a | uzdah | sil
+cmscore1: 0.909 0.979 0.691 0.979 0.915 0.965 0.958 0.956 0.976 0.998 0.513 0.998 0.578 0.989 1.000
+score1: -10864.904297 (AM: -10632.718750  LM: -232.185593)

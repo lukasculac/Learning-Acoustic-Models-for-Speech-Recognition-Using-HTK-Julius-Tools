@@ -1,0 +1,5 @@
+sentence1: <s> i prognoza za slijede^ih dvanaest sati prete`ito obla~no mjestimice s ki{om i grmljavinom <uzdah> </s>
+wseq1: <s> i prognoza za slijede^ih dvanaest sati prete`ito obla~no mjestimice s ki{om i grmljavinom <uzdah> </s>
+phseq1: sil | i | p r o g n o z a | z a | s l i j e d e Cc i h | d v a n a e s t | s a t i | p r e t e Z i t o | o b l a C n o | m j e s t i m i c e | s | k i S o m | i | g r m L a v i n o m | uzdah | sil
+cmscore1: 0.922 0.996 1.000 0.998 0.586 0.999 0.513 0.997 0.998 0.999 0.998 0.998 0.989 0.921 0.930 1.000
+score1: -13026.803711 (AM: -12806.173828  LM: -220.629593)

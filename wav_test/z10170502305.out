@@ -1,0 +1,5 @@
+sentence1: <s> a najvi{a dnevna od dvadeset {est do trideset jedan stupanj </s>
+wseq1: <s> a najvi{a dnevna od dvadeset {est do trideset jedan stupanj </s>
+phseq1: sil | a | n a j v i S a | d n e v n a | o d | d v a d e s e t | S e s t | d o | t r i d e s e t | j e d a n | s t u p a N | sil
+cmscore1: 0.995 0.921 0.997 0.972 0.826 0.994 0.993 0.647 0.975 0.996 0.362 1.000
+score1: -9184.257813 (AM: -8993.791016  LM: -190.466400)

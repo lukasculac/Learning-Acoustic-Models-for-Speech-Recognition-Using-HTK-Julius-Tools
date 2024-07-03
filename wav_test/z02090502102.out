@@ -1,0 +1,5 @@
+sentence1: <s> dunav ilok tri nula nula tristo drava botovo pet devet pedeset devet </s>
+wseq1: <s> dunav ilok tri nula nula tristo drava botovo pet devet pedeset devet </s>
+phseq1: sil | d u n a v | i l o k | t r i | n u l a | n u l a | t r i s t o | d r a v a | b o t o v o | p e t | d e v e t | p e d e s e t | d e v e t | sil
+cmscore1: 0.953 0.995 0.955 0.972 0.991 0.961 0.065 0.999 0.192 0.773 0.791 0.992 0.429 1.000
+score1: -14445.908203 (AM: -14108.639648  LM: -337.268372)

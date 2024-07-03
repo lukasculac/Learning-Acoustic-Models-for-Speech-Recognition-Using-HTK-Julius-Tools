@@ -32,73 +32,10 @@ Stat: init_ngram: unknown word entry was set to "<sil>"
 Stat: init_ngram: mapping dictonary words to n-gram entries
 Warning: ngram_lookup: "SENT-END" not exist in N-gram, treat as unknown
 Warning: ngram_lookup: "SENT-START" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "alpa" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "breze" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "budimpe{te" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "devetoga" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "dobili" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "europska" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "europskoga" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "formira" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "formiranje" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "hidrometeorolo{koga" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "hrvatske" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "hrvatskome" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "jaki" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "jug" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "jugoisto~njak" not exist in N-gram, treat as unknown
 Warning: ngram_lookup: "jugozapadak" not exist in N-gram, treat as unknown
 Warning: ngram_lookup: "k" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "kojega" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "ligurskoga" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "ligurskome" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "lo{a" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "magli" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "mjestimi~nim" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "najosjetljiviji" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "naobla~it" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "nepogodne" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "nestabilan" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "nestabilnosti" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "no^" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "oborinom" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "oja~ava" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "osje^at" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "oslabio" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "otvorenomu" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "podru~ja" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "pokoji" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "premjestila" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "premje{tat" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "preostali" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "prevladavala" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "pri" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "prija{njih" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "primorju" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "promijenjljivo" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "promjenom" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "prvi" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "rasti" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "rijetkih" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "rije~kome" not exist in N-gram, treat as unknown
 Warning: ngram_lookup: "sjeveroistoku" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "sjeveroisto~nog" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "skretati" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "sljede^eg" not exist in N-gram, treat as unknown
 Warning: ngram_lookup: "sras" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "svje`ija" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "temperaturama" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "tisu^e" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "tre^e" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "uti~e" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "velebitskome" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "visokom" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "vjerojatnost" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "vrbe" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "zapadnoeuropske" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "{kifi^" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "~emu" not exist in N-gram, treat as unknown
-Warning: ngram_lookup: "~itavom" not exist in N-gram, treat as unknown
 Stat: init_ngram: finished word-to-ngram mapping
 STAT: *** LM00 _default loaded
 STAT: ------
@@ -110,7 +47,7 @@ STAT: 1 MFCC modules created
 STAT: [2] create recognition processing instance(s) with AM and LM
 STAT: composing recognizer instance SR00 _default (AM00 _default, LM00 _default)
 STAT: Building HMM lexicon tree
-STAT: lexicon size: 24573 nodes
+STAT: lexicon size: 24535 nodes
 STAT: coordination check passed
 STAT: make successor lists for unigram factoring
 STAT: done
@@ -121,7 +58,6 @@ Stat: outprob_init: state-level mixture PDFs, use calc_mix()
 Stat: addlog: generating addlog table (size = 1953 kB)
 Stat: addlog: addlog table generated
 STAT: [4] prepare MFCC storage(s)
-STAT: [5] prepare for real-time decoding
 STAT: All init successfully done
 
 STAT: ###### initialize input device
@@ -199,9 +135,7 @@ Speech Analysis Module(s)
 
     spectral subtraction = off
 
- cep. mean normalization = yes, real-time MAP-CMN, updating initial mean with last 500 input frames
-  initial mean from file = N/A
-   beginning data weight = 100.00
+ cep. mean normalization = yes, with per-utterance self mean
  cep. var. normalization = no
 
 	 base setup from = Julius defaults
@@ -239,13 +173,13 @@ Language Model(s)
 
  N-gram info:
 	            spec = 3-gram, backward (right-to-left)
-	        OOV word = <sil>(id=9)
-	        OOV size = 70 words in dict
-	    wordset size = 1390
-	  1-gram entries =       1390  (  0.0 MB)
-	  2-gram entries =       5399  (  0.1 MB) (87% are valid contexts)
-	  3-gram entries =       9172  (  0.1 MB)
-	LR 2-gram entries=       5399  (  0.0 MB)
+	        OOV word = <sil>(id=10)
+	        OOV size = 7 words in dict
+	    wordset size = 1454
+	  1-gram entries =       1454  (  0.0 MB)
+	  2-gram entries =       6259  (  0.1 MB) (90% are valid contexts)
+	  3-gram entries =      11333  (  0.1 MB)
+	LR 2-gram entries=       6259  (  0.0 MB)
 	           pass1 = given additional forward 2-gram
 
  Vocabulary Info:
@@ -265,15 +199,15 @@ Recognizer(s)
 [SR00 "_default"]  AM00 "_default"  +  LM00 "_default"
 
  Lexicon tree:
-	 total node num =  24573
-	  root node num =    319
-	(150 hi-freq. words are separated from tree lexicon)
+	 total node num =  24535
+	  root node num =    317
+	(149 hi-freq. words are separated from tree lexicon)
 	  leaf node num =   1451
 	 fact. node num =   1451
 
  Inter-word N-gram cache: 
-	root node to be cached = 191 / 319 (isolated only)
-	word ends to be cached = 1390 (all)
+	root node to be cached = 189 / 317 (isolated only)
+	word ends to be cached = 1454 (all)
 	  max. allocation size = 1MB
 	(-lmp)  pass1 LM weight = 12.0  ins. penalty = -6.0
 	(-lmp2) pass2 LM weight = 12.0  ins. penalty = -6.0
@@ -302,7 +236,7 @@ Recognizer(s)
 ------------------------------------------------------------
 Decoding algorithm:
 
-	1st pass input processing = real time, on-the-fly
+	1st pass input processing = buffered, batch
 	1st pass method = 1-best approx. generating indexed trellis
 	output word confidence measure based on search-time scores
 
@@ -311,18 +245,12 @@ FrontEnd:
 
  Input stream:
 	             input type = waveform
-	           input source = microphone
-	    device API          = default
-	          sampling freq. = 16000 Hz
+	           input source = waveform file
+	          input filelist = (none, get file name from stdin)
+	          sampling freq. = 16000 Hz required
 	         threaded A/D-in = not supported (live input may be dropped)
 	   zero frames stripping = on
-	         silence cutting = on
-	             level thres = 100 / 32767
-	         zerocross thres = 60 / sec.
-	             head margin = 300 msec.
-	             tail margin = 400 msec.
-	              chunk size = 1000 samples
-	       FVAD switch value = -1 (disabled)
+	         silence cutting = off
 	    long-term DC removal = off
 	    level scaling factor = 1.00 (disabled)
 	      reject short input = off
@@ -332,46 +260,791 @@ FrontEnd:
 
 Notice for feature extraction (01),
 	*************************************************************
-	* Cepstral mean normalization for real-time decoding:       *
-	* NOTICE: The first input may not be recognized, since      *
-	*         no initial mean is available on startup.          *
+	* Cepstral mean normalization for batch decoding:           *
+	* per-utterance mean will be computed and applied.          *
 	*************************************************************
-Stat: adin_portaudio: audio cycle buffer length = 256000 bytes
-Stat: adin_portaudio: sound capture devices:
-  1 [Windows DirectSound: Primary Sound Capture Driver]
-  2 [Windows DirectSound: Microphone (Realtek(R) Audio)]
-Stat: adin_portaudio: APIs: DirectSound
-Stat: adin_portaudio: -- DirectSound selected
-Stat: adin_portaudio: [Windows DirectSound: Primary Sound Capture Driver]
-Stat: adin_portaudio: (you can specify device by "PORTAUDIO_DEV_NUM=number"
-Stat: adin_portaudio: try to set default low latency from portaudio: 0 msec
-Stat: adin_portaudio: latency was set to 30.000000 msec
-Warning: strip: sample 35-53 has zero value, stripped
-Warning: strip: sample 227-247 has zero value, stripped
-Warning: strip: sample 16-32 has zero value, stripped
-Warning: strip: sample 37-52 has zero value, stripped
-Warning: strip: sample 84-99 has zero value, stripped
-Warning: strip: sample 450-467 has zero value, stripped
-Warning: strip: sample 201-222 has zero value, stripped
-Warning: strip: sample 836-852 has zero value, stripped
-Warning: strip: sample 107-123 has zero value, stripped
-Warning: strip: sample 130-149 has zero value, stripped
-Warning: strip: sample 239-255 has zero value, stripped
-Warning: strip: sample 307-326 has zero value, stripped
-Warning: strip: sample 326-358 has zero value, stripped
-Warning: strip: sample 368-389 has zero value, stripped
-Warning: strip: sample 104-131 has zero value, stripped
-Warning: strip: sample 231-249 has zero value, stripped
-Warning: strip: sample 23-43 has zero value, stripped
-Warning: strip: sample 312-328 has zero value, stripped
-Warning: strip: sample 333-348 has zero value, stripped
-Warning: strip: sample 380-395 has zero value, stripped
-Warning: strip: sample 246-263 has zero value, stripped
-Warning: strip: sample 0-18 has zero value, stripped
-Warning: strip: sample 132-148 has zero value, stripped
-Warning: strip: sample 803-819 has zero value, stripped
-Warning: strip: sample 826-845 has zero value, stripped
-Warning: strip: sample 35-51 has zero value, stripped
-Warning: strip: sample 103-122 has zero value, stripped
-Warning: strip: sample 122-154 has zero value, stripped
-Warning: strip: sample 164-185 has zero value, stripped
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04020204347.wav
+STAT: 112315 samples (7.02 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04050502109.wav
+STAT: 103545 samples (6.47 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04050502304.wav
+STAT: 123880 samples (7.74 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04060402607.wav
+STAT: 34733 samples (2.17 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04060502301.wav
+STAT: 96127 samples (6.01 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04060502304.wav
+STAT: 64286 samples (4.02 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04080402403.wav
+STAT: 131459 samples (8.22 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04080402410.wav
+STAT: 82303 samples (5.14 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04090402402.wav
+STAT: 148085 samples (9.26 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04090402412.wav
+STAT: 62183 samples (3.89 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04100204404.wav
+STAT: 130363 samples (8.15 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04120703148.wav
+STAT: 26081 samples (1.63 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04120703153.wav
+STAT: 7681 samples (0.48 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04130402513.wav
+STAT: 28966 samples (1.81 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04140602203.wav
+STAT: 149117 samples (9.32 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04180402701.wav
+STAT: 93276 samples (5.83 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04210402502.wav
+STAT: 44095 samples (2.76 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04230502402.wav
+STAT: 136806 samples (8.55 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04230502404.wav
+STAT: 105108 samples (6.57 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04270402217.wav
+STAT: 25079 samples (1.57 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04270402306.wav
+STAT: 46407 samples (2.90 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m04311202404.wav
+STAT: 110983 samples (6.94 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m05081202303.wav
+STAT: 86215 samples (5.39 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m05090203301.wav
+STAT: 158641 samples (9.92 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m05100502202.wav
+STAT: 41588 samples (2.60 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m05100502207.wav
+STAT: 119405 samples (7.46 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m05180105402.wav
+STAT: 102065 samples (6.38 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m05180203305.wav
+STAT: 69852 samples (4.37 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m05270502306.wav
+STAT: 80553 samples (5.03 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m05280105402.wav
+STAT: 121041 samples (7.57 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m05290105104.wav
+STAT: 63993 samples (4.00 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m07240203201.wav
+STAT: 49263 samples (3.08 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08010702210.wav
+STAT: 71345 samples (4.46 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08030702204.wav
+STAT: 124748 samples (7.80 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08050105302.wav
+STAT: 91517 samples (5.72 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08110502104.wav
+STAT: 54495 samples (3.41 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08130402408.wav
+STAT: 80722 samples (5.05 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08170502202.wav
+STAT: 99213 samples (6.20 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08170502206.wav
+STAT: 125823 samples (7.86 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08210402406.wav
+STAT: 130034 samples (8.13 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08230602101.wav
+STAT: 139273 samples (8.70 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08240103403.wav
+STAT: 84745 samples (5.30 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08240402309.wav
+STAT: 45563 samples (2.85 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08260402213.wav
+STAT: 75415 samples (4.71 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08270602403.wav
+STAT: 72885 samples (4.56 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m08270602406.wav
+STAT: 109206 samples (6.83 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09020502103.wav
+STAT: 97156 samples (6.07 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09020502302.wav
+STAT: 108368 samples (6.77 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09020502309.wav
+STAT: 60733 samples (3.80 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09070602306.wav
+STAT: 83189 samples (5.20 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09070602307.wav
+STAT: 64801 samples (4.05 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09090602205.wav
+STAT: 131028 samples (8.19 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09091202302.wav
+STAT: 111441 samples (6.97 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09100502403.wav
+STAT: 53454 samples (3.34 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09100502412.wav
+STAT: 86807 samples (5.43 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09150402106.wav
+STAT: 58377 samples (3.65 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09160502306.wav
+STAT: 58617 samples (3.66 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09170105402.wav
+STAT: 86986 samples (5.44 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09190402106.wav
+STAT: 86556 samples (5.41 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09191204201.wav
+STAT: 93063 samples (5.82 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09261202201.wav
+STAT: 127812 samples (7.99 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09271204302.wav
+STAT: 69759 samples (4.36 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m09271204303.wav
+STAT: 68957 samples (4.31 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10010602103.wav
+STAT: 93358 samples (5.83 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10010602301.wav
+STAT: 140919 samples (8.81 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10110602308.wav
+STAT: 92130 samples (5.76 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10140502102.wav
+STAT: 107425 samples (6.71 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10141202401.wav
+STAT: 93256 samples (5.83 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10150502301.wav
+STAT: 80753 samples (5.05 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10150502305.wav
+STAT: 131013 samples (8.19 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10211202301.wav
+STAT: 139544 samples (8.72 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10211202302.wav
+STAT: 120691 samples (7.54 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10220602206.wav
+STAT: 100009 samples (6.25 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10240402107.wav
+STAT: 44334 samples (2.77 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10260402306.wav
+STAT: 50802 samples (3.18 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10260402309.wav
+STAT: 37990 samples (2.37 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10270602201.wav
+STAT: 86480 samples (5.41 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10270602211.wav
+STAT: 29811 samples (1.86 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m10290602309.wav
+STAT: 73031 samples (4.56 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11040502312.wav
+STAT: 116484 samples (7.28 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11050103302.wav
+STAT: 97417 samples (6.09 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11070502305.wav
+STAT: 57881 samples (3.62 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11110203302.wav
+STAT: 133084 samples (8.32 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11111204301.wav
+STAT: 93646 samples (5.85 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11150502207.wav
+STAT: 134912 samples (8.43 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11151202301.wav
+STAT: 129819 samples (8.11 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11160602203.wav
+STAT: 146670 samples (9.17 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11160602302.wav
+STAT: 100380 samples (6.27 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11190402305.wav
+STAT: 55976 samples (3.50 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11190402313.wav
+STAT: 39491 samples (2.47 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11210502301.wav
+STAT: 101563 samples (6.35 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11250402306.wav
+STAT: 59269 samples (3.70 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\m11300105405.wav
+STAT: 53281 samples (3.33 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z01010103101.wav
+STAT: 81051 samples (5.07 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z01040103403.wav
+STAT: 104616 samples (6.54 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z01040203305.wav
+STAT: 48901 samples (3.06 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z01200103201.wav
+STAT: 125967 samples (7.87 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z01221202302.wav
+STAT: 150894 samples (9.43 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z01240602103.wav
+STAT: 80860 samples (5.05 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z01290602402.wav
+STAT: 144668 samples (9.04 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z01290602406.wav
+STAT: 69082 samples (4.32 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z02010103305.wav
+STAT: 110353 samples (6.90 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z02080502107.wav
+STAT: 81249 samples (5.08 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z02090502102.wav
+STAT: 91148 samples (5.70 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z02100402408.wav
+STAT: 68984 samples (4.31 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z02110103104.wav
+STAT: 110844 samples (6.93 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z02210402105.wav
+STAT: 55098 samples (3.44 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z02210402410.wav
+STAT: 67518 samples (4.22 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z02291202302.wav
+STAT: 151590 samples (9.47 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z02291202303.wav
+STAT: 120110 samples (7.51 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z03030402401.wav
+STAT: 58011 samples (3.63 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z03060502301.wav
+STAT: 70545 samples (4.41 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z03060502304.wav
+STAT: 133663 samples (8.35 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z03200602401.wav
+STAT: 69388 samples (4.34 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z03270502303.wav
+STAT: 131791 samples (8.24 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z03280402102.wav
+STAT: 37985 samples (2.37 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z03290602201.wav
+STAT: 96972 samples (6.06 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z03290602208.wav
+STAT: 123424 samples (7.71 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04040402104.wav
+STAT: 105760 samples (6.61 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04050602201.wav
+STAT: 143504 samples (8.97 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04080502402.wav
+STAT: 84333 samples (5.27 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04080502409.wav
+STAT: 143065 samples (8.94 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04081202104.wav
+STAT: 109552 samples (6.85 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04130502305.wav
+STAT: 49104 samples (3.07 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04140402504.wav
+STAT: 130855 samples (8.18 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04140402506.wav
+STAT: 79770 samples (4.99 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04150103401.wav
+STAT: 155631 samples (9.73 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04150402205.wav
+STAT: 55288 samples (3.46 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04150703147.wav
+STAT: 68881 samples (4.31 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04150703148.wav
+STAT: 76641 samples (4.79 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04160402112.wav
+STAT: 81240 samples (5.08 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04160502202.wav
+STAT: 107915 samples (6.74 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04160502206.wav
+STAT: 98220 samples (6.14 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04190205141.wav
+STAT: 92241 samples (5.77 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04200502201.wav
+STAT: 121123 samples (7.57 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04271204203.wav
+STAT: 62253 samples (3.89 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z04300602304.wav
+STAT: 105310 samples (6.58 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05020205411.wav
+STAT: 128001 samples (8.00 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05050402304.wav
+STAT: 78974 samples (4.94 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05060602304.wav
+STAT: 82480 samples (5.16 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05060702402.wav
+STAT: 88764 samples (5.55 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05071202303.wav
+STAT: 141846 samples (8.87 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05100602402.wav
+STAT: 136780 samples (8.55 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05101202304.wav
+STAT: 118182 samples (7.39 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05110502307.wav
+STAT: 85285 samples (5.33 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05110602205.wav
+STAT: 144240 samples (9.02 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05120602401.wav
+STAT: 120620 samples (7.54 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05130203301.wav
+STAT: 150087 samples (9.38 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05170203401.wav
+STAT: 141369 samples (8.84 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05180402708.wav
+STAT: 90727 samples (5.67 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05190502102.wav
+STAT: 78188 samples (4.89 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05221202402.wav
+STAT: 46818 samples (2.93 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05221202406.wav
+STAT: 111096 samples (6.94 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05251202402.wav
+STAT: 71516 samples (4.47 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05260502207.wav
+STAT: 85432 samples (5.34 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z05311202201.wav
+STAT: 77869 samples (4.87 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z06010702304.wav
+STAT: 91093 samples (5.69 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z06140204416.wav
+STAT: 147570 samples (9.22 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z06150502204.wav
+STAT: 57566 samples (3.60 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z06220602303.wav
+STAT: 104218 samples (6.51 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z06220602305.wav
+STAT: 111458 samples (6.97 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z07060702102.wav
+STAT: 114996 samples (7.19 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z07221204304.wav
+STAT: 110601 samples (6.91 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z07230203303.wav
+STAT: 75041 samples (4.69 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z07271202302.wav
+STAT: 68631 samples (4.29 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z07290105313.wav
+STAT: 104001 samples (6.50 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z07300105403.wav
+STAT: 84801 samples (5.30 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z07300105414.wav
+STAT: 76841 samples (4.80 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08010103407.wav
+STAT: 80545 samples (5.03 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08020205346.wav
+STAT: 55761 samples (3.49 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08020702204.wav
+STAT: 106212 samples (6.64 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08030702401.wav
+STAT: 29777 samples (1.86 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08080204433.wav
+STAT: 36840 samples (2.30 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08080204436.wav
+STAT: 14848 samples (0.93 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08080402402.wav
+STAT: 20632 samples (1.29 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08080402408.wav
+STAT: 60136 samples (3.76 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08080502201.wav
+STAT: 73613 samples (4.60 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08080502208.wav
+STAT: 85669 samples (5.35 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08080704432.wav
+STAT: 120995 samples (7.56 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08090402403.wav
+STAT: 111496 samples (6.97 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08101202401.wav
+STAT: 72865 samples (4.55 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08120602207.wav
+STAT: 86910 samples (5.43 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08120602303.wav
+STAT: 104574 samples (6.54 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08130703227.wav
+STAT: 99561 samples (6.22 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08130703233.wav
+STAT: 122641 samples (7.67 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08150203306.wav
+STAT: 107996 samples (6.75 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08160703125.wav
+STAT: 32121 samples (2.01 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08160703128.wav
+STAT: 54880 samples (3.43 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08190402305.wav
+STAT: 89746 samples (5.61 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08190602203.wav
+STAT: 48534 samples (3.03 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08190602204.wav
+STAT: 129660 samples (8.10 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08210502209.wav
+STAT: 91293 samples (5.71 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08230602402.wav
+STAT: 143089 samples (8.94 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08250602206.wav
+STAT: 64837 samples (4.05 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08250602212.wav
+STAT: 70650 samples (4.42 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08280104422.wav
+STAT: 35401 samples (2.21 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08290502305.wav
+STAT: 65502 samples (4.09 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08291202404.wav
+STAT: 97456 samples (6.09 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08300104331.wav
+STAT: 57161 samples (3.57 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08300104338.wav
+STAT: 69801 samples (4.36 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08300105246.wav
+STAT: 11241 samples (0.70 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08300105340.wav
+STAT: 84201 samples (5.26 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08310104450.wav
+STAT: 69050 samples (4.32 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z08310104456.wav
+STAT: 42962 samples (2.69 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09030502312.wav
+STAT: 63888 samples (3.99 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09120203308.wav
+STAT: 57898 samples (3.62 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09180205407.wav
+STAT: 41419 samples (2.59 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09191202101.wav
+STAT: 39754 samples (2.48 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09200602204.wav
+STAT: 115893 samples (7.24 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09201202402.wav
+STAT: 122049 samples (7.63 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09201202405.wav
+STAT: 113574 samples (7.10 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09201204201.wav
+STAT: 39394 samples (2.46 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09280105402.wav
+STAT: 77441 samples (4.84 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09280105409.wav
+STAT: 76161 samples (4.76 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09280105424.wav
+STAT: 58681 samples (3.67 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z09310502402.wav
+STAT: 95836 samples (5.99 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10030502405.wav
+STAT: 85552 samples (5.35 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10030702102.wav
+STAT: 71797 samples (4.49 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10061202201.wav
+STAT: 82738 samples (5.17 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10080602202.wav
+STAT: 49432 samples (3.09 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10120402411.wav
+STAT: 38480 samples (2.40 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10120402413.wav
+STAT: 62360 samples (3.90 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10170502305.wav
+STAT: 58046 samples (3.63 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10190105201.wav
+STAT: 147957 samples (9.25 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10201202303.wav
+STAT: 61392 samples (3.84 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10240402204.wav
+STAT: 56486 samples (3.53 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z10240502103.wav
+STAT: 73930 samples (4.62 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z11040602101.wav
+STAT: 79527 samples (4.97 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z11070502203.wav
+STAT: 79371 samples (4.96 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z11110402101.wav
+STAT: 100344 samples (6.27 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z11110402104.wav
+STAT: 56976 samples (3.56 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z11121202101.wav
+STAT: 147073 samples (9.19 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z11130402101.wav
+STAT: 123358 samples (7.71 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z11190103303.wav
+STAT: 129205 samples (8.08 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z11191202303.wav
+STAT: 144904 samples (9.06 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z11240402312.wav
+STAT: 40013 samples (2.50 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z12080702401.wav
+STAT: 149154 samples (9.32 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z12171202202.wav
+STAT: 65312 samples (4.08 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z12220103304.wav
+STAT: 126382 samples (7.90 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z13090204405.wav
+STAT: 117571 samples (7.35 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z13260104310.wav
+STAT: 108926 samples (6.81 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z14010105301.wav
+STAT: 39916 samples (2.49 sec.)
+STAT: ### speech analysis (waveform -> MFCC)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+Stat: adin_file: input speechfile: C:/Users/lukas/voxforge/acoustic_model/wav_test\z14281204301.wav
+STAT: 156886 samples (9.81 sec.)
+STAT: ### speech analysis (waveform -> MFCC)

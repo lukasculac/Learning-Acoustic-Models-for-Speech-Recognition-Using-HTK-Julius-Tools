@@ -1,0 +1,5 @@
+sentence1: <s> najvi{a temperatura od dvadeset do dvadeset pet stupnjeva </s>
+wseq1: <s> najvi{a temperatura od dvadeset do dvadeset pet stupnjeva </s>
+phseq1: sil | n a j v i S a | t e m p e r a t u r a | o d | d v a d e s e t | d o | d v a d e s e t | p e t | s t u p N e v a | sil
+cmscore1: 1.000 0.949 0.928 0.990 0.982 0.815 0.965 0.942 0.765 1.000
+score1: -8679.772461 (AM: -8535.767578  LM: -144.004807)

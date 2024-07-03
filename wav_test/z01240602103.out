@@ -1,0 +1,5 @@
+sentence1: <s> ponegdje mogu^a i ja~e nevrijeme <uzdah> s jakim sjevernim i sjeveroisto~ni vjetrom <uzdah> </s>
+wseq1: <s> ponegdje mogu^a i ja~e nevrijeme <uzdah> s jakim sjevernim i sjeveroisto~ni vjetrom <uzdah> </s>
+phseq1: sil | p o n e g d j e | m o g u Cc a | i | j a C e | n e v r i j e m e | uzdah | s | j a k i m | s j e v e r n i m | i | s j e v e r o i s t o C n i | v j e t r o m | uzdah | sil
+cmscore1: 0.939 0.936 0.306 0.768 0.586 0.166 0.288 0.767 0.988 0.130 0.746 0.636 0.984 0.888 1.000
+score1: -13288.541016 (AM: -12836.856445  LM: -451.684814)

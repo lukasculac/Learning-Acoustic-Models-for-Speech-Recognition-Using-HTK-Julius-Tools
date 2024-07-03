@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za jadran za prvih dvanaest sati <uzdah> </s>
+wseq1: <s> vremenska prognoza za jadran za prvih dvanaest sati <uzdah> </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | j a d r a n | z a | p r v i h | d v a n a e s t | s a t i | uzdah | sil
+cmscore1: 0.996 0.999 1.000 0.948 0.998 0.754 1.000 0.999 0.837 0.949 1.000
+score1: -7744.781738 (AM: -7625.249512  LM: -119.532005)

@@ -1,0 +1,5 @@
+sentence1: <s> jugo osam do {esnaest ~vorova more u poja~anju na dva do tri </s>
+wseq1: <s> jugo osam do {esnaest ~vorova more u poja~anju na dva do tri </s>
+phseq1: sil | j u g o | o s a m | d o | S e s n a e s t | C v o r o v a | m o r e | u | p o j a C a N u | n a | d v a | d o | t r i | sil
+cmscore1: 1.000 0.507 0.999 0.881 0.984 0.749 0.966 0.947 0.911 0.957 1.000 0.964 0.837 1.000
+score1: -8311.711914 (AM: -8062.439453  LM: -249.272385)

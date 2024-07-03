@@ -1,0 +1,5 @@
+sentence1: <s> izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda stanje </s>
+wseq1: <s> izvje{taj pomorskog meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda stanje </s>
+phseq1: sil | i z v j e S t a j | p o m o r s k o g | m e t e o r o l o S k o g | c e n t r a | s p l i t | d r Z a v n o g a | h i d r o m e t e o r o l o S k o g | z a v o d a | s t a N e | sil
+cmscore1: 0.991 0.987 0.995 0.983 0.988 0.973 0.747 0.986 0.495 0.531 1.000
+score1: -12191.487305 (AM: -12048.670898  LM: -142.816818)

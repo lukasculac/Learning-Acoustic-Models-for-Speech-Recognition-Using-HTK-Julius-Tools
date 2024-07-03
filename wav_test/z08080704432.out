@@ -1,0 +1,5 @@
+sentence1: <s> djelomice sun~ano s promjenjivom naoblakom vi{e oblaka poslijepodne i osobito nave~er u zapadnim predjelima unutra{njosti i na sjevernom jadranu </s>
+wseq1: <s> djelomice sun~ano s promjenjivom naoblakom vi{e oblaka poslijepodne i osobito nave~er u zapadnim predjelima unutra{njosti i na sjevernom jadranu </s>
+phseq1: sil | d j e l o m i c e | s u n C a n o | s | p r o m j e N i v o m | n a o b l a k o m | v i S e | o b l a k a | p o s l i j e p o d n e | i | o s o b i t o | n a v e C e r | u | z a p a d n i m | p r e d j e l i m a | u n u t r a S N o s t i | i | n a | s j e v e r n o m | j a d r a n u | sil
+cmscore1: 0.760 1.000 0.998 0.998 0.436 0.897 0.997 0.026 1.000 0.210 0.972 0.912 0.999 0.994 0.012 0.999 0.141 0.996 0.979 0.695 1.000
+score1: -19410.292969 (AM: -19028.324219  LM: -381.968384)

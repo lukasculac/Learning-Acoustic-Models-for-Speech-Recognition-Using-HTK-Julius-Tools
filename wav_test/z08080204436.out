@@ -1,0 +1,5 @@
+sentence1: <s> uglavnom vedro </s>
+wseq1: <s> uglavnom vedro </s>
+phseq1: sil | u g l a v n o m | v e d r o | sil
+cmscore1: 0.949 0.987 0.854 1.000
+score1: -2433.183838 (AM: -2328.506592  LM: -104.677193)

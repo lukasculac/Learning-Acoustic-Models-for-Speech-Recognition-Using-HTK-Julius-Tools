@@ -1,0 +1,5 @@
+sentence1: <s> zapuhat ^e umjeren sjeveroisto~njak a na ve^em dijelu jadrana umjerena i jaka bura <uzdah> temperatura zraka u padu </s>
+wseq1: <s> zapuhat ^e umjeren sjeveroisto~njak a na ve^em dijelu jadrana umjerena i jaka bura <uzdah> temperatura zraka u padu </s>
+phseq1: sil | z a p u h a t | Cc e | u m j e r e n | s j e v e r o i s t o C N a k | a | n a | v e Cc e m | d i j e l u | j a d r a n a | u m j e r e n a | i | j a k a | b u r a | uzdah | t e m p e r a t u r a | z r a k a | u | p a d u | sil
+cmscore1: 0.959 0.989 0.091 0.997 0.937 0.612 0.968 0.997 0.982 0.886 0.993 0.934 0.999 0.644 0.809 0.945 0.989 0.989 0.595 1.000
+score1: -17145.703125 (AM: -16832.914063  LM: -312.788361)

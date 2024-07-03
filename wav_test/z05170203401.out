@@ -1,0 +1,5 @@
+sentence1: <s> vremenska prognoza za sutra uglavnom sun~ano ujutro u unutra{njosti magla mjestimice a samo u gorskom kotaru i lici ponegdje malo snijega </s>
+wseq1: <s> vremenska prognoza za sutra uglavnom sun~ano ujutro u unutra{njosti magla mjestimice a samo u gorskom kotaru i lici ponegdje malo snijega </s>
+phseq1: sil | v r e m e n s k a | p r o g n o z a | z a | s u t r a | u g l a v n o m | s u n C a n o | u j u t r o | u | u n u t r a S N o s t i | m a g l a | m j e s t i m i c e | a | s a m o | u | g o r s k o m | k o t a r u | i | l i c i | p o n e g d j e | m a l o | s n i j e g a | sil
+cmscore1: 0.908 0.995 1.000 0.987 0.612 0.990 0.913 0.959 0.682 0.943 0.976 0.964 0.662 0.744 0.831 0.522 0.995 0.804 0.924 0.992 0.993 0.274 1.000
+score1: -22479.035156 (AM: -22135.544922  LM: -343.490387)

@@ -1,0 +1,5 @@
+sentence1: <s> <uzdah> sun~ano ili promjenjivo obla~no </s>
+wseq1: <s> <uzdah> sun~ano ili promjenjivo obla~no </s>
+phseq1: sil | uzdah | s u n C a n o | i l i | p r o m j e N i v o | o b l a C n o | sil
+cmscore1: 1.000 0.907 0.867 0.896 0.353 0.183 1.000
+score1: -5607.163574 (AM: -5402.056152  LM: -205.107605)
