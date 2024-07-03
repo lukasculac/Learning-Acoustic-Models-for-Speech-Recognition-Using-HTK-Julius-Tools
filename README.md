@@ -4,4 +4,5 @@ The database that the model is trained on can be found on this site: https://www
 
 
 Configuration of Julius can be modified in 'sample.jconf'.
+
 Speech recognititon is initiated with : 'julius -outfile -C sample.jconf'
